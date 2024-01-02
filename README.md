@@ -20,7 +20,7 @@ A Corpus for Named Entity Recognition and Normalization of Protein Complexes
 * Split the documents in 800 Katerina/ 800 Mikaela and
   * Check already present annotations if rules are updated, ii) do/add missing normalizations for complexes.
   * For entities with no normalizations check other resources than GO
-* Do a semi-automated check ([search.py](https://github.com/nlplab/brat/blob/master/server/src/search.py) -cm/ct) to see the consistency of matches/types 
+* Do a semi-automated check ([search.py](https://github.com/nlplab/brat/blob/master/server/src/search.py) -cm/ct) to see the consistency of matches/types + check consistency of normalizations
 
 ### Tagging
 
