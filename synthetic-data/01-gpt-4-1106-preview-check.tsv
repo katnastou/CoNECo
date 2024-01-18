@@ -1,0 +1,1000 @@
+output-gpt-4-1106-preview-0.txt	match	target: WASH-C	output: WASH-C
+output-gpt-4-1106-preview-1.txt	mismatch	target: alpha3-beta1 integrin	output: ['alpha3-beta1 integrin', 'laminin-332']
+output-gpt-4-1106-preview-10.txt	match	target: TAP	output: TAP complex
+output-gpt-4-1106-preview-100.txt	match	target: Nup82	output: Nup82 complex
+output-gpt-4-1106-preview-101.txt	mismatch	target: calcineurin	output: ['calcineurin', 'nuclear factor of activated T-cells (NFAT)']
+output-gpt-4-1106-preview-102.txt	mismatch	target: LUBAC	output: ['Linear ubiquitin chain assembly complex (LUBAC)', 'NF-κB essential modulator (NEMO)']
+output-gpt-4-1106-preview-103.txt	match	target: OEC (PSII)	output: OEC (PSII)
+output-gpt-4-1106-preview-104.txt	match	target: IL-7 receptor	output: IL-7 receptor
+output-gpt-4-1106-preview-105.txt	match	target: HUalpha	output: HUalpha protein complex
+output-gpt-4-1106-preview-106.txt	match	target: 5HT-3A receptor	output: 5HT-3A receptor
+output-gpt-4-1106-preview-107.txt	match	target: B9	output: B9 protein complex
+output-gpt-4-1106-preview-108.txt	match	target: PGH	output: PGH
+output-gpt-4-1106-preview-109.txt	match	target: 5HT3A-R	output: 5HT3A-R
+output-gpt-4-1106-preview-11.txt	match	target: membrane-bound IgA	output: Membrane-bound IgA
+output-gpt-4-1106-preview-110.txt	match	target: TriC	output: TriC
+output-gpt-4-1106-preview-111.txt	match	target: extracellular ferritin	output: Extracellular ferritin
+output-gpt-4-1106-preview-112.txt	match	target: MKS	output: MKS
+output-gpt-4-1106-preview-113.txt	match	target: energy coupling factor (ECF)-type ABC transporter	output: energy coupling factor (ECF)-type ABC transporter
+output-gpt-4-1106-preview-114.txt	match	target: CDL2	output: CDL2
+output-gpt-4-1106-preview-115.txt	mismatch	target: serpin	output: serpin protein complexes
+output-gpt-4-1106-preview-116.txt	match	target: UvrABC excinuclease	output: UvrABC excinuclease
+output-gpt-4-1106-preview-117.txt	mismatch	target: R2TP	output: ['R2TP complex', 'HSPs']
+output-gpt-4-1106-preview-118.txt	match	target: IML1	output: IML1
+output-gpt-4-1106-preview-119.txt	mismatch	target: alpha-beta TCR	output: ['alpha-beta TCR', 'peptide-MHC (pMHC) complex', 'V(D)J recombination']
+output-gpt-4-1106-preview-12.txt	match	target: replisome	output: replisome
+output-gpt-4-1106-preview-120.txt	match	target: eNoSc	output: eNoSc protein complex
+output-gpt-4-1106-preview-121.txt	match	target: NACA	output: NACA protein complex
+output-gpt-4-1106-preview-122.txt	match	target: PeBoW	output: PeBoW complex
+output-gpt-4-1106-preview-123.txt	match	target: Swm1/2	output: Swm1/2 protein complex
+output-gpt-4-1106-preview-124.txt	mismatch	target: alpha-glucosidase II	output: calnexin/calreticulin cycle
+output-gpt-4-1106-preview-125.txt	mismatch	target: MAT	output: Methionine Adenosyltransferase (MAT) protein complex
+output-gpt-4-1106-preview-126.txt	mismatch	target: RDRC	output: ['- RDRC', '- SAM (S-adenosylmethionine)', '- ROS (reactive oxygen species)']
+output-gpt-4-1106-preview-127.txt	match	target: FACT	output: FACT
+output-gpt-4-1106-preview-128.txt	match	target: AHAS	output: AHAS
+output-gpt-4-1106-preview-129.txt	match	target: HAUS	output: HAUS complex
+output-gpt-4-1106-preview-13.txt	match	target: MRN	output: MRN complex
+output-gpt-4-1106-preview-130.txt	match	target: ADPG pyrophosphorylase	output: ADPG pyrophosphorylase
+output-gpt-4-1106-preview-131.txt	match	target: CAF-1	output: CAF-1
+output-gpt-4-1106-preview-132.txt	match	target: CHEVI tethering	output: CHEVI tethering complex
+output-gpt-4-1106-preview-133.txt	match	target: eIF2	output: eIF2
+output-gpt-4-1106-preview-134.txt	match	target: laminin-421	output: laminin-421
+output-gpt-4-1106-preview-135.txt	match	target: ABI	output: ABI protein complex
+output-gpt-4-1106-preview-136.txt	match	target: collagen type IV trimer	output: collagen type IV trimer
+output-gpt-4-1106-preview-137.txt	match	target: channel-forming toxin	output: channel-forming toxin
+output-gpt-4-1106-preview-138.txt	match	target: fibrinogen gamma chain	output: fibrinogen gamma chain
+output-gpt-4-1106-preview-139.txt	match	target: 90S preribosome	output: 90S preribosome
+output-gpt-4-1106-preview-14.txt	match	target: CRL5	output: CRL5 protein complex
+output-gpt-4-1106-preview-140.txt	match	target: centralspindlin	output: centralspindlin
+output-gpt-4-1106-preview-141.txt	mismatch	target: gamma-delta T cell receptor	output: ['gamma-delta T cell receptor (γδ TCR)', 'major histocompatibility complex (MHC)']
+output-gpt-4-1106-preview-142.txt	match	target: GimC	output: GimC protein complex
+output-gpt-4-1106-preview-143.txt	mismatch	target: T cell receptor	output: ['T cell receptor', 'major histocompatibility complex (MHC) molecule']
+output-gpt-4-1106-preview-144.txt	match	target: GABA transaminase	output: GABA transaminase
+output-gpt-4-1106-preview-145.txt	mismatch	target: ESCRT3	output: endosomal sorting complex required for transport, namely ESCRT3
+output-gpt-4-1106-preview-146.txt	match	target: editosome	output: editosome
+output-gpt-4-1106-preview-147.txt	match	target: TGF-betal	output: TGF-betal
+output-gpt-4-1106-preview-148.txt	match	target: NatC	output: NatC
+output-gpt-4-1106-preview-149.txt	match	target: Ferric coprogen receptor	output: Ferric coprogen receptor
+output-gpt-4-1106-preview-15.txt	match	target: MPCFERM	output: MPCFERM
+output-gpt-4-1106-preview-150.txt	mismatch	target: surface IgG2b	output: IgG2b
+output-gpt-4-1106-preview-151.txt	match	target: GPI-MT-I	output: GPI-MT-I
+output-gpt-4-1106-preview-152.txt	match	target: respiratory chain complex IV	output: respiratory chain complex IV
+output-gpt-4-1106-preview-153.txt	match	target: Serine/threonine-protein phosphatase 2A	output: Serine/threonine-protein phosphatase 2A
+output-gpt-4-1106-preview-154.txt	match	target: Brahma-associated factor	output: Brahma-associated factor
+output-gpt-4-1106-preview-155.txt	match	target: phycobilisome	output: phycobilisome
+output-gpt-4-1106-preview-156.txt	match	target: MTB	output: MTB protein complex
+output-gpt-4-1106-preview-157.txt	match	target: surface IgD	output: surface IgD
+output-gpt-4-1106-preview-158.txt	match	target: mglABC	output: mglABC protein complex
+output-gpt-4-1106-preview-159.txt	match	target: VLA-3	output: VLA-3 protein complex
+output-gpt-4-1106-preview-16.txt	match	target: dynein	output: dynein
+output-gpt-4-1106-preview-160.txt	match	target: inhibin beta-B	output: inhibin beta-B
+output-gpt-4-1106-preview-161.txt	match	target: T3SS	output: T3SS
+output-gpt-4-1106-preview-162.txt	match	target: PDHE1	output: PDHE1
+output-gpt-4-1106-preview-163.txt	match	target: Swm	output: Swm protein complex
+output-gpt-4-1106-preview-164.txt	match	target: 5-hydroxytryptamine receptor 3	output: 5-hydroxytryptamine receptor 3
+output-gpt-4-1106-preview-165.txt	match	target: polycystin	output: polycystin protein complex
+output-gpt-4-1106-preview-166.txt	match	target: LPS receptor	output: LPS receptor
+output-gpt-4-1106-preview-167.txt	match	target: axonemal dynein light chain	output: axonemal dynein light chain
+output-gpt-4-1106-preview-168.txt	match	target: AHRC	output: AHRC
+output-gpt-4-1106-preview-169.txt	match	target: SAT-OASS	output: SAT-OASS protein complex
+output-gpt-4-1106-preview-17.txt	match	target: UTP-A	output: UTP-A complex
+output-gpt-4-1106-preview-170.txt	match	target: RDC	output: RDC protein complex
+output-gpt-4-1106-preview-171.txt	match	target: HslUV protease	output: HslUV protease
+output-gpt-4-1106-preview-172.txt	mismatch	target: Biogenesis of lysosome-related organelles complex 1	output: Biogenesis of lysosome-related organelles complex 1 (BLOC-1)
+output-gpt-4-1106-preview-173.txt	match	target: TGFbetal	output: TGFbetal protein complex
+output-gpt-4-1106-preview-174.txt	match	target: 5-hydroxyisourate hydrolase	output: 5-hydroxyisourate hydrolase
+output-gpt-4-1106-preview-175.txt	match	target: enhanceosome	output: enhanceosome
+output-gpt-4-1106-preview-176.txt	match	target: GDC	output: GDC
+output-gpt-4-1106-preview-177.txt	match	target: ClpAP protease	output: ClpAP protease
+output-gpt-4-1106-preview-178.txt	match	target: connexon	output: connexon
+output-gpt-4-1106-preview-179.txt	match	target: STAGA	output: STAGA complex
+output-gpt-4-1106-preview-18.txt	match	target: Adenosylcobalamin-dependent ethanolamine ammonia-lyase	output: Adenosylcobalamin-dependent ethanolamine ammonia-lyase
+output-gpt-4-1106-preview-180.txt	match	target: Bag6	output: Bag6
+output-gpt-4-1106-preview-181.txt	match	target: membrane-bound IgG2b	output: Membrane-bound IgG2b
+output-gpt-4-1106-preview-182.txt	match	target: IgM	output: IgM
+output-gpt-4-1106-preview-183.txt	match	target: RC	output: RC
+output-gpt-4-1106-preview-184.txt	mismatch	target: GARP	output: Golgi-associated retrograde protein (GARP) complex
+output-gpt-4-1106-preview-185.txt	match	target: Cystine/glutamate antiporter system xc	output: Cystine/glutamate antiporter system xc
+output-gpt-4-1106-preview-186.txt	match	target: Kininogenin	output: Kininogenin
+output-gpt-4-1106-preview-187.txt	match	target: divisome	output: divisome
+output-gpt-4-1106-preview-188.txt	mismatch	target: PA700-dependent proteasome activator	output: ['- PA700-dependent proteasome activator', '- ubiquitin-proteasome system']
+output-gpt-4-1106-preview-189.txt	match	target: F1-F0	output: F1-F0 protein complex
+output-gpt-4-1106-preview-19.txt	mismatch	target: FAR	output: Fibroblast Activation Regulator (FAR) complex
+output-gpt-4-1106-preview-190.txt	match	target: holo-RdRp	output: holo-RdRp
+output-gpt-4-1106-preview-191.txt	match	target: IgG2c	output: IgG2c
+output-gpt-4-1106-preview-192.txt	match	target: ATG1 kinase	output: ATG1 kinase complex
+output-gpt-4-1106-preview-193.txt	match	target: MSL	output: MSL complex
+output-gpt-4-1106-preview-194.txt	match	target: alpha-beta T cell receptor	output: alpha-beta T cell receptor
+output-gpt-4-1106-preview-195.txt	match	target: 5FMC	output: 5FMC
+output-gpt-4-1106-preview-196.txt	match	target: DNA-directed RNA polymerase V	output: DNA-directed RNA polymerase V
+output-gpt-4-1106-preview-197.txt	match	target: ESCRT I	output: ESCRT I
+output-gpt-4-1106-preview-198.txt	match	target: LMA1	output: LMA1
+output-gpt-4-1106-preview-199.txt	match	target: fhuCDB	output: fhuCDB protein complex
+output-gpt-4-1106-preview-2.txt	mismatch	target: eukaryotic translation initiation factor 2	output: eIF2
+output-gpt-4-1106-preview-20.txt	match	target: PDGF-AB-receptor alpha	output: PDGF-AB-receptor alpha
+output-gpt-4-1106-preview-200.txt	mismatch	target: KICSTOR	output: ['KICSTOR', 'mTORC1', 'GATOR1']
+output-gpt-4-1106-preview-201.txt	match	target: PhnCDE	output: PhnCDE
+output-gpt-4-1106-preview-202.txt	match	target: scADA	output: scADA
+output-gpt-4-1106-preview-203.txt	match	target: RITS	output: RITS complex
+output-gpt-4-1106-preview-204.txt	match	target: Hydrogenase-2	output: Hydrogenase-2
+output-gpt-4-1106-preview-205.txt	match	target: Kinetochore CCAN	output: Kinetochore CCAN
+output-gpt-4-1106-preview-206.txt	match	target: ABC lipid flippase MsbA	output: ABC lipid flippase MsbA
+output-gpt-4-1106-preview-207.txt	match	target: ESCRT II	output: ESCRT II
+output-gpt-4-1106-preview-208.txt	match	target: SARS-CoV 9b	output: SARS-CoV 9b protein complex
+output-gpt-4-1106-preview-209.txt	match	target: TRAPP	output: TRAPP complex
+output-gpt-4-1106-preview-21.txt	match	target: semaphorin receptor	output: semaphorin receptor
+output-gpt-4-1106-preview-210.txt	match	target: MutLalpha	output: MutLalpha
+output-gpt-4-1106-preview-211.txt	match	target: Choriogonadotropin	output: Choriogonadotropin
+output-gpt-4-1106-preview-212.txt	match	target: GT-AG spliceosome	output: GT-AG spliceosome
+output-gpt-4-1106-preview-213.txt	match	target: MSA	output: MSA
+output-gpt-4-1106-preview-214.txt	match	target: Tim22	output: Tim22 complex
+output-gpt-4-1106-preview-215.txt	match	target: mitofilin	output: mitofilin
+output-gpt-4-1106-preview-216.txt	match	target: NMS	output: NMS complex
+output-gpt-4-1106-preview-217.txt	match	target: protein phosphatase 2	output: Protein phosphatase 2
+output-gpt-4-1106-preview-218.txt	match	target: IL-10 receptor	output: IL-10 receptor
+output-gpt-4-1106-preview-219.txt	match	target: cytosolic large ribosomal subunit	output: cytosolic large ribosomal subunit
+output-gpt-4-1106-preview-22.txt	match	target: thrombospondin	output: thrombospondin
+output-gpt-4-1106-preview-220.txt	match	target: GII	output: GII complex
+output-gpt-4-1106-preview-221.txt	match	target: TAK	output: TAK protein complex
+output-gpt-4-1106-preview-222.txt	mismatch	target: SF3B	output: ['SF3B', 'U2 snRNP']
+output-gpt-4-1106-preview-223.txt	match	target: CPSase A	output: CPSase A
+output-gpt-4-1106-preview-224.txt	match	target: NDH-I	output: NDH-I
+output-gpt-4-1106-preview-225.txt	match	target: IscA	output: IscA
+output-gpt-4-1106-preview-226.txt	match	target: brahma	output: brahma protein complex
+output-gpt-4-1106-preview-227.txt	mismatch	target: Polycomb repressive complex 1	output: Polycomb repressive complex 1 (PRC1)
+output-gpt-4-1106-preview-228.txt	match	target: IL7 receptor	output: IL7 receptor
+output-gpt-4-1106-preview-229.txt	match	target: TOB	output: TOB protein complex
+output-gpt-4-1106-preview-23.txt	match	target: NAD(P)H-dependent FMN reductase	output: NAD(P)H-dependent FMN reductase
+output-gpt-4-1106-preview-230.txt	match	target: alpha5-beta1 integrin	output: alpha5-beta1 integrin
+output-gpt-4-1106-preview-231.txt	match	target: ThiFS	output: ThiFS
+output-gpt-4-1106-preview-232.txt	match	target: paraferritin	output: Paraferritin
+output-gpt-4-1106-preview-233.txt	mismatch	target: Something About Silencing	output: Something About Silencing (SAS)
+output-gpt-4-1106-preview-234.txt	match	target: light harvesting complex I	output: Light harvesting complex I
+output-gpt-4-1106-preview-235.txt	match	target: CPC	output: CPC
+output-gpt-4-1106-preview-236.txt	match	target: CTDK-I	output: CTDK-I
+output-gpt-4-1106-preview-237.txt	match	target: PEP-B	output: PEP-B
+output-gpt-4-1106-preview-238.txt	mismatch	target: NPHP	output: Nephronophthisis (NPHP) protein complex
+output-gpt-4-1106-preview-239.txt	match	target: H-gal-GP	output: H-gal-GP
+output-gpt-4-1106-preview-24.txt	match	target: Derlin-1-VIMP	output: Derlin-1-VIMP protein complex
+output-gpt-4-1106-preview-240.txt	match	target: Fibrin	output: Fibrin
+output-gpt-4-1106-preview-241.txt	match	target: collagen type VI trimer	output: collagen type VI trimer
+output-gpt-4-1106-preview-242.txt	match	target: apical TBC	output: apical TBC
+output-gpt-4-1106-preview-243.txt	match	target: Sec6/8	output: Sec6/8 complex
+output-gpt-4-1106-preview-244.txt	match	target: H2ase 1	output: H2ase 1
+output-gpt-4-1106-preview-245.txt	match	target: YdcSTUV	output: YdcSTUV
+output-gpt-4-1106-preview-246.txt	match	target: FtsBL	output: FtsBL complex
+output-gpt-4-1106-preview-247.txt	match	target: Biotin-dependent acetyl-coenzyme A carboxylase	output: Biotin-dependent acetyl-coenzyme A carboxylase
+output-gpt-4-1106-preview-248.txt	mismatch	target: inflammasomes	output: NLRP3 inflammasome
+output-gpt-4-1106-preview-249.txt	match	target: editosomes	output: editosomes
+output-gpt-4-1106-preview-25.txt	match	target: MCM core	output: MCM core
+output-gpt-4-1106-preview-250.txt	match	target: STR	output: STR complex
+output-gpt-4-1106-preview-251.txt	mismatch	target: methylosome	output: ['methylosome complex', 'protein arginine methyltransferase complex']
+output-gpt-4-1106-preview-252.txt	mismatch	target: embryonic stem cell-specific BAF	output: embryonic stem cell-specific BAF (esBAF) complex
+output-gpt-4-1106-preview-253.txt	match	target: LInker of Nucleoskeleton and Cytoskeleton	output: LInker of Nucleoskeleton and Cytoskeleton
+output-gpt-4-1106-preview-254.txt	match	target: APOBECs	output: APOBECs
+output-gpt-4-1106-preview-255.txt	match	target: MKS module	output: MKS module
+output-gpt-4-1106-preview-256.txt	match	target: SEACAT	output: SEACAT complex
+output-gpt-4-1106-preview-257.txt	match	target: BMP receptors	output: BMP receptors
+output-gpt-4-1106-preview-258.txt	match	target: Set3	output: Set3
+output-gpt-4-1106-preview-259.txt	match	target: TGFB	output: TGFB
+output-gpt-4-1106-preview-26.txt	match	target: MPF	output: MPF
+output-gpt-4-1106-preview-260.txt	mismatch	target: RNAPII	output: ['Chromatin immunoprecipitation (ChIP-seq)', 'RNAPII']
+output-gpt-4-1106-preview-261.txt	match	target: Flexilin	output: Flexilin protein complex
+output-gpt-4-1106-preview-262.txt	match	target: MACIT	output: MACIT
+output-gpt-4-1106-preview-263.txt	match	target: AMT1	output: AMT1
+output-gpt-4-1106-preview-264.txt	match	target: GPI-GnT	output: GPI-GnT
+output-gpt-4-1106-preview-265.txt	match	target: NAC	output: NAC
+output-gpt-4-1106-preview-266.txt	match	target: Abetal	output: Abetal
+output-gpt-4-1106-preview-267.txt	match	target: Isw1b	output: Isw1b
+output-gpt-4-1106-preview-268.txt	match	target: FO-synthase	output: FO-synthase
+output-gpt-4-1106-preview-269.txt	match	target: NADH:plastoquinone reductase	output: NADH:plastoquinone reductase
+output-gpt-4-1106-preview-27.txt	match	target: nucleotide-excision repair factor 1	output: nucleotide-excision repair factor 1
+output-gpt-4-1106-preview-270.txt	mismatch	target: IHF	output: Integration host factor (IHF)
+output-gpt-4-1106-preview-271.txt	match	target: SWItch/Sucrose Non-Fermentable	output: SWItch/Sucrose Non-Fermentable complex
+output-gpt-4-1106-preview-272.txt	match	target: gammaTuSC	output: gammaTuSC complex
+output-gpt-4-1106-preview-273.txt	match	target: Imitation switch two	output: Imitation Switch two complex
+output-gpt-4-1106-preview-274.txt	match	target: NADH-Q6 oxidoreductase	output: NADH-Q6 oxidoreductase
+output-gpt-4-1106-preview-275.txt	match	target: IL23A	output: IL23A protein complex
+output-gpt-4-1106-preview-276.txt	match	target: RMX	output: RMX protein complex
+output-gpt-4-1106-preview-277.txt	match	target: potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2	output: potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2
+output-gpt-4-1106-preview-278.txt	match	target: PDGF-AA-receptor alpha	output: PDGF-AA-receptor alpha complex
+output-gpt-4-1106-preview-279.txt	match	target: Snf1 serine/threonine protein kinase	output: Snf1 serine/threonine protein kinase
+output-gpt-4-1106-preview-28.txt	match	target: mitochondrial ribosomal small subunit	output: mitochondrial ribosomal small subunit
+output-gpt-4-1106-preview-280.txt	match	target: Hrs/STAM	output: Hrs/STAM protein complex
+output-gpt-4-1106-preview-281.txt	match	target: 30S ribosomal subunit	output: 30S ribosomal subunit
+output-gpt-4-1106-preview-282.txt	match	target: PaoABC periplasmic aldehyde oxidoreductase	output: PaoABC periplasmic aldehyde oxidoreductase
+output-gpt-4-1106-preview-283.txt	mismatch	target: MECO	output: Mitochondrial ensconced complex one (MECO)
+output-gpt-4-1106-preview-284.txt	match	target: mitochondrial ribonuclease P	output: Mitochondrial ribonuclease P complex
+output-gpt-4-1106-preview-285.txt	match	target: CoQ-synthome	output: CoQ-synthome
+output-gpt-4-1106-preview-286.txt	match	target: ripoptosome	output: ripoptosome
+output-gpt-4-1106-preview-287.txt	match	target: MMM1	output: MMM1 protein complex
+output-gpt-4-1106-preview-288.txt	match	target: alpha7-beta1 integrin	output: alpha7-beta1 integrin
+output-gpt-4-1106-preview-289.txt	match	target: Ribosome-ST	output: Ribosome-ST
+output-gpt-4-1106-preview-29.txt	match	target: NF-kappaBs	output: NF-kappaBs
+output-gpt-4-1106-preview-290.txt	match	target: SALSA	output: SALSA
+output-gpt-4-1106-preview-291.txt	match	target: glutamine amidotransferase II	output: glutamine amidotransferase II
+output-gpt-4-1106-preview-292.txt	mismatch	target: 20S core	output: ['proteasome pathway', '20S core']
+output-gpt-4-1106-preview-293.txt	match	target: ClpXP protease	output: ClpXP protease complex
+output-gpt-4-1106-preview-294.txt	match	target: Paf1p	output: Paf1p complex
+output-gpt-4-1106-preview-295.txt	match	target: SufA	output: SufA
+output-gpt-4-1106-preview-296.txt	match	target: Thyrotropin	output: Thyrotropin
+output-gpt-4-1106-preview-297.txt	mismatch	target: CstF	output: Cleavage stimulation factor complex (CstF)
+output-gpt-4-1106-preview-298.txt	match	target: glycoprotein Ib-IX-V	output: Glycoprotein Ib-IX-V complex
+output-gpt-4-1106-preview-299.txt	match	target: surface IgG2a	output: Surface IgG2a
+output-gpt-4-1106-preview-3.txt	match	target: ProVWX	output: ProVWX
+output-gpt-4-1106-preview-30.txt	match	target: prefoldin	output: Prefoldin protein complex
+output-gpt-4-1106-preview-300.txt	mismatch	target: T6SS	output: Type VI secretion system (T6SS)
+output-gpt-4-1106-preview-301.txt	match	target: axonemal dynein	output: axonemal dynein
+output-gpt-4-1106-preview-302.txt	match	target: RNAPI	output: RNAPI
+output-gpt-4-1106-preview-303.txt	match	target: BCKDHC	output: BCKDHC
+output-gpt-4-1106-preview-304.txt	match	target: RNA polymerase II, core	output: RNA polymerase II, core complex
+output-gpt-4-1106-preview-305.txt	match	target: NALP3 inflammasome	output: NALP3 inflammasome
+output-gpt-4-1106-preview-306.txt	match	target: laminin-221	output: laminin-221
+output-gpt-4-1106-preview-307.txt	match	target: YSiR	output: YSiR
+output-gpt-4-1106-preview-308.txt	mismatch	target: DISC	output: Death-Inducing Signaling Complex (DISC)
+output-gpt-4-1106-preview-309.txt	mismatch	target: septin	output: ['septin complex', '']
+output-gpt-4-1106-preview-31.txt	mismatch	target: GATOR2	output: ['GATOR2', 'mTORC1']
+output-gpt-4-1106-preview-310.txt	match	target: IgM immunoglobulin	output: IgM immunoglobulin
+output-gpt-4-1106-preview-311.txt	match	target: IgNAR immunoglobulin	output: IgNAR immunoglobulin
+output-gpt-4-1106-preview-312.txt	mismatch	target: CPSF	output: Cleavage and polyadenylation specificity factor (CPSF)
+output-gpt-4-1106-preview-313.txt	match	target: CKII	output: CKII protein complex
+output-gpt-4-1106-preview-314.txt	match	target: PUMA-BCL-2	output: PUMA-BCL-2 protein complex
+output-gpt-4-1106-preview-315.txt	match	target: cytoplasmic dynein heavy chain	output: cytoplasmic dynein heavy chain
+output-gpt-4-1106-preview-316.txt	match	target: BC3B	output: BC3B
+output-gpt-4-1106-preview-317.txt	match	target: mSWI/SNF	output: mSWI/SNF complex
+output-gpt-4-1106-preview-318.txt	match	target: GammaTuRC	output: GammaTuRC
+output-gpt-4-1106-preview-319.txt	mismatch	target: Fc-gamma receptor I	output: ['Fc-gamma receptor I (FcγRI)', 'antibody-dependent cellular phagocytosis (ADCP)', 'immunoglobulin G']
+output-gpt-4-1106-preview-32.txt	mismatch	target: MPP	output: Mitochondrial processing peptidase (MPP)
+output-gpt-4-1106-preview-320.txt	match	target: MICOS	output: MICOS
+output-gpt-4-1106-preview-321.txt	match	target: condensin I	output: condensin I
+output-gpt-4-1106-preview-322.txt	mismatch	target: SSR	output: ['SSR protein complex', 'translocon']
+output-gpt-4-1106-preview-323.txt	mismatch	target: HDL	output: high-density lipoproteins
+output-gpt-4-1106-preview-324.txt	match	target: eukaryotic translation elongation factor 1	output: eukaryotic translation elongation factor 1
+output-gpt-4-1106-preview-325.txt	match	target: DPNH-coenzyme Q reductase	output: DPNH-coenzyme Q reductase complex
+output-gpt-4-1106-preview-326.txt	match	target: GGR	output: GGR complex
+output-gpt-4-1106-preview-327.txt	match	target: MitOSs	output: MitOSs complex
+output-gpt-4-1106-preview-328.txt	match	target: MalFGK(2)	output: MalFGK(2) protein complex
+output-gpt-4-1106-preview-329.txt	match	target: VBC	output: VBC complex
+output-gpt-4-1106-preview-33.txt	match	target: cardiac PLB	output: cardiac PLB
+output-gpt-4-1106-preview-330.txt	match	target: WASP and Scar homologue	output: WASP and Scar homologue
+output-gpt-4-1106-preview-331.txt	match	target: YdcSTUV ABC transporter	output: YdcSTUV ABC transporter
+output-gpt-4-1106-preview-332.txt	match	target: polkadots	output: polkadots protein complex
+output-gpt-4-1106-preview-333.txt	match	target: respiratory chain complex III	output: Respiratory chain complex III
+output-gpt-4-1106-preview-334.txt	match	target: MIND	output: MIND complex
+output-gpt-4-1106-preview-335.txt	mismatch	target: CHRAC	output: chromatin accessibility complex (CHRAC)
+output-gpt-4-1106-preview-336.txt	match	target: laminin-11	output: laminin-11
+output-gpt-4-1106-preview-337.txt	mismatch	target: TCC	output: TCC (Teratocarcinoma-derived Growth Factor 1) complex
+output-gpt-4-1106-preview-338.txt	match	target: outer dynein arm	output: outer dynein arm
+output-gpt-4-1106-preview-339.txt	match	target: BtuCDF	output: BtuCDF
+output-gpt-4-1106-preview-34.txt	match	target: TCTC	output: TCTC complex
+output-gpt-4-1106-preview-340.txt	mismatch	target: CRL	output: Cullin-RING Ligase (CRL)
+output-gpt-4-1106-preview-341.txt	mismatch	target: IF-2	output: ['IF-2', '30S initiation complex']
+output-gpt-4-1106-preview-342.txt	match	target: spectrin	output: spectrin protein complex
+output-gpt-4-1106-preview-343.txt	match	target: interleukin-5 receptor	output: Interleukin-5 receptor
+output-gpt-4-1106-preview-344.txt	match	target: HCN4 channel	output: HCN4 channel
+output-gpt-4-1106-preview-345.txt	match	target: DNMT3B–3L	output: DNMT3B–3L
+output-gpt-4-1106-preview-346.txt	match	target: polysome	output: Polysome
+output-gpt-4-1106-preview-347.txt	match	target: endoSceI	output: endoSceI
+output-gpt-4-1106-preview-348.txt	match	target: MalFGK2	output: MalFGK2
+output-gpt-4-1106-preview-349.txt	match	target: IgD immunoglobulins	output: IgD immunoglobulins
+output-gpt-4-1106-preview-35.txt	match	target: SAS-I	output: SAS-I complex
+output-gpt-4-1106-preview-350.txt	match	target: MARS	output: MARS
+output-gpt-4-1106-preview-351.txt	match	target: Geranylgeranyl transferase type II	output: Geranylgeranyl transferase type II
+output-gpt-4-1106-preview-352.txt	match	target: MlaFEDB	output: MlaFEDB protein complex
+output-gpt-4-1106-preview-353.txt	match	target: glyRS	output: glyRS
+output-gpt-4-1106-preview-354.txt	match	target: Syp1	output: Syp1 protein complex
+output-gpt-4-1106-preview-355.txt	match	target: UvrBC	output: UvrBC protein complex
+output-gpt-4-1106-preview-356.txt	match	target: HA1	output: HA1
+output-gpt-4-1106-preview-357.txt	mismatch	target: NPC	output: Nucleoporin Complex (NPC)
+output-gpt-4-1106-preview-358.txt	match	target: OppABCDF	output: OppABCDF
+output-gpt-4-1106-preview-359.txt	match	target: polarisome	output: polarisome
+output-gpt-4-1106-preview-36.txt	match	target: GIMC	output: GIMC protein complex
+output-gpt-4-1106-preview-360.txt	match	target: nuclear pore	output: nuclear pore
+output-gpt-4-1106-preview-361.txt	match	target: RTC	output: RTC
+output-gpt-4-1106-preview-362.txt	match	target: nucleotide-excision repair factor 2	output: Nucleotide-excision repair factor 2
+output-gpt-4-1106-preview-363.txt	match	target: Intrinsic tenase	output: Intrinsic tenase complex
+output-gpt-4-1106-preview-364.txt	match	target: mglBAC	output: mglBAC protein complex
+output-gpt-4-1106-preview-365.txt	match	target: troponin	output: troponin
+output-gpt-4-1106-preview-366.txt	match	target: IlvBN	output: IlvBN protein complex
+output-gpt-4-1106-preview-367.txt	match	target: Five Friends of Methylated Chtop	output: Five Friends of Methylated Chtop
+output-gpt-4-1106-preview-368.txt	match	target: RFA	output: RFA protein complex
+output-gpt-4-1106-preview-369.txt	match	target: MMXD	output: MMXD
+output-gpt-4-1106-preview-37.txt	match	target: HDAC3	output: HDAC3
+output-gpt-4-1106-preview-370.txt	match	target: N-terminal acetyltransferase B	output: N-terminal acetyltransferase B
+output-gpt-4-1106-preview-371.txt	match	target: interleukin-23	output: interleukin-23
+output-gpt-4-1106-preview-372.txt	match	target: IL-5 receptor	output: IL-5 receptor
+output-gpt-4-1106-preview-373.txt	match	target: VEGF-A	output: VEGF-A protein complex
+output-gpt-4-1106-preview-374.txt	match	target: PGGT	output: PGGT
+output-gpt-4-1106-preview-375.txt	match	target: Hydrogenase-1	output: Hydrogenase-1
+output-gpt-4-1106-preview-376.txt	match	target: coatomer	output: coatomer protein complex
+output-gpt-4-1106-preview-377.txt	match	target: Baculoviral IAP repeat-containing protein 5	output: Baculoviral IAP repeat-containing protein 5
+output-gpt-4-1106-preview-378.txt	match	target: B875 antenna	output: B875 antenna complex
+output-gpt-4-1106-preview-379.txt	match	target: T lymphocyte receptor	output: T lymphocyte receptor
+output-gpt-4-1106-preview-38.txt	match	target: Clr6 histone deacetylase complex II	output: Clr6 histone deacetylase complex II
+output-gpt-4-1106-preview-380.txt	mismatch	target: ASTRA	output: Apoptosis STimulatory of p53 Activity (ASTRA) complex
+output-gpt-4-1106-preview-381.txt	match	target: VLA-5	output: VLA-5
+output-gpt-4-1106-preview-382.txt	match	target: IL-23	output: IL-23
+output-gpt-4-1106-preview-383.txt	match	target: Hydrogenase 4	output: Hydrogenase 4
+output-gpt-4-1106-preview-384.txt	match	target: NendoU	output: NendoU
+output-gpt-4-1106-preview-385.txt	match	target: RSR	output: RSR
+output-gpt-4-1106-preview-386.txt	mismatch	target: alphav-beta3 integrin	output: ['alphav-beta3 integrin', 'osteopontin']
+output-gpt-4-1106-preview-387.txt	match	target: alpha8-beta1 integrin	output: alpha8-beta1 integrin
+output-gpt-4-1106-preview-388.txt	match	target: axonemal dynein heavy chain	output: axonemal dynein heavy chain
+output-gpt-4-1106-preview-389.txt	match	target: RSA	output: RSA
+output-gpt-4-1106-preview-39.txt	mismatch	target: Amiloride-sensitive sodium channel, ENaC	output: Amiloride-sensitive sodium channel ENaC
+output-gpt-4-1106-preview-390.txt	match	target: eIF-3	output: eIF-3
+output-gpt-4-1106-preview-391.txt	match	target: MINOS	output: MINOS
+output-gpt-4-1106-preview-392.txt	mismatch	target: NPR1 receptor	output: ['NPR1 receptor', 'Pseudomonas syringae']
+output-gpt-4-1106-preview-393.txt	mismatch	target: cullin-RING ligase 3	output: cullin-RING ligase 3 (CRL3)
+output-gpt-4-1106-preview-394.txt	match	target: TRC	output: TRC
+output-gpt-4-1106-preview-395.txt	match	target: Wnt signalosome	output: Wnt signalosome
+output-gpt-4-1106-preview-396.txt	match	target: CysPTWAM	output: CysPTWAM
+output-gpt-4-1106-preview-397.txt	match	target: ssuABC	output: ssuABC protein complex
+output-gpt-4-1106-preview-398.txt	match	target: Srb-mediator	output: Srb-mediator complex
+output-gpt-4-1106-preview-399.txt	mismatch	target: pre-BCR	output: ['pre-BCR', '']
+output-gpt-4-1106-preview-4.txt	match	target: IL-18 receptor	output: IL-18 receptor
+output-gpt-4-1106-preview-40.txt	match	target: protein phosphatase 4	output: Protein Phosphatase 4
+output-gpt-4-1106-preview-400.txt	match	target: Rdr1	output: Rdr1 protein complex
+output-gpt-4-1106-preview-401.txt	match	target: gamma-delta TCR	output: gamma-delta TCR
+output-gpt-4-1106-preview-402.txt	match	target: Clr6S	output: Clr6S protein complex
+output-gpt-4-1106-preview-403.txt	match	target: RubisCO	output: RubisCO
+output-gpt-4-1106-preview-404.txt	match	target: DnaB hexamer	output: DnaB hexamer
+output-gpt-4-1106-preview-405.txt	match	target: RNA polymerase IV	output: RNA polymerase IV
+output-gpt-4-1106-preview-406.txt	match	target: gamma-tubulin small	output: gamma-tubulin small complex
+output-gpt-4-1106-preview-407.txt	mismatch	target: TOM	output: Translocase of the outer mitochondrial membrane (TOM) complex
+output-gpt-4-1106-preview-408.txt	match	target: CenH3 containing nucleosome	output: CenH3 containing nucleosome
+output-gpt-4-1106-preview-409.txt	match	target: BORC	output: BORC
+output-gpt-4-1106-preview-41.txt	mismatch	target: ADDL	output: ADDL (Amyloid β-Derived Diffusible Ligands)
+output-gpt-4-1106-preview-410.txt	mismatch	target: telomere cap	output: Shelterin
+output-gpt-4-1106-preview-411.txt	match	target: Pol-zeta4	output: Pol-zeta4
+output-gpt-4-1106-preview-412.txt	match	target: zona pellucida receptor	output: Zona pellucida receptor
+output-gpt-4-1106-preview-413.txt	match	target: cap(0)-RTC	output: cap(0)-RTC
+output-gpt-4-1106-preview-414.txt	match	target: U2AF	output: U2AF
+output-gpt-4-1106-preview-415.txt	match	target: nikABCDE	output: nikABCDE
+output-gpt-4-1106-preview-416.txt	match	target: laminin	output: Laminin
+output-gpt-4-1106-preview-417.txt	match	target: CD42	output: CD42
+output-gpt-4-1106-preview-418.txt	mismatch	target: PSI associated light-harvesting complex I	output: Photosystem I associated light-harvesting complex I
+output-gpt-4-1106-preview-419.txt	match	target: WRC	output: WRC
+output-gpt-4-1106-preview-42.txt	match	target: GOGAT	output: GOGAT
+output-gpt-4-1106-preview-420.txt	mismatch	target: Rag GEF	output: ['mTORC1 signaling', 'Rag GEF', 'mTORC1']
+output-gpt-4-1106-preview-421.txt	match	target: ERMES	output: ERMES
+output-gpt-4-1106-preview-422.txt	match	target: WHY1	output: WHY1
+output-gpt-4-1106-preview-423.txt	match	target: KAR	output: KAR protein complex
+output-gpt-4-1106-preview-424.txt	match	target: IL7-receptor	output: IL7-receptor
+output-gpt-4-1106-preview-425.txt	match	target: NAD isocitric dehydrogenase	output: NAD isocitric dehydrogenase
+output-gpt-4-1106-preview-426.txt	match	target: 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2	output: 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2
+output-gpt-4-1106-preview-427.txt	match	target: GMPR1	output: GMPR1
+output-gpt-4-1106-preview-428.txt	match	target: fibrinogen	output: fibrinogen
+output-gpt-4-1106-preview-429.txt	match	target: xylanosome	output: xylanosome
+output-gpt-4-1106-preview-43.txt	match	target: NLRC4 inflammasome	output: NLRC4 inflammasome
+output-gpt-4-1106-preview-430.txt	match	target: BtuCD	output: BtuCD
+output-gpt-4-1106-preview-431.txt	mismatch	target: 5-HT3AR	output: ['5-HT3AR', 'hypothalamic-pituitary-adrenal (HPA) axis']
+output-gpt-4-1106-preview-432.txt	match	target: CDK8 kinase module	output: CDK8 kinase module
+output-gpt-4-1106-preview-433.txt	mismatch	target: VHL	output: ['von Hippel-Lindau tumor suppressor protein (VHL)', 'hypoxia-inducible factor (HIF)']
+output-gpt-4-1106-preview-434.txt	mismatch	target: CUE1-UBC7 ubiquitin-conjugating enzyme (E2)	output: CUE1-UBC7 ubiquitin-conjugating enzyme
+output-gpt-4-1106-preview-435.txt	match	target: IL-12 receptor	output: IL-12 receptor
+output-gpt-4-1106-preview-436.txt	match	target: cytochrome b(6)f	output: cytochrome b(6)f complex
+output-gpt-4-1106-preview-437.txt	match	target: cullin	output: cullin protein complex
+output-gpt-4-1106-preview-438.txt	match	target: KEOPS/EKC	output: KEOPS/EKC complex
+output-gpt-4-1106-preview-439.txt	match	target: fibrillar collagen trimer	output: fibrillar collagen trimer
+output-gpt-4-1106-preview-44.txt	mismatch	target: SSB	output: ['Single-Strand Binding protein complex (SSB)', 'Saccharomyces cerevisiae', 'E. coli']
+output-gpt-4-1106-preview-440.txt	match	target: unwindosome	output: unwindosome
+output-gpt-4-1106-preview-441.txt	match	target: HIUH	output: HIUH
+output-gpt-4-1106-preview-442.txt	mismatch	target: eukaryotic translation initiation factor 4F	output: eIF4F
+output-gpt-4-1106-preview-443.txt	mismatch	target: clathrin	output: ['- clathrin-mediated endocytosis', '- clathrin-coated vesicles']
+output-gpt-4-1106-preview-444.txt	mismatch	target: LSU	output: ribosomal large subunit (LSU)
+output-gpt-4-1106-preview-445.txt	match	target: b6/f	output: b6/f complex
+output-gpt-4-1106-preview-446.txt	match	target: AP-2 adaptor	output: AP-2 adaptor protein complex
+output-gpt-4-1106-preview-447.txt	match	target: complex III	output: Complex III
+output-gpt-4-1106-preview-448.txt	match	target: interleukin-28 receptor	output: interleukin-28 receptor
+output-gpt-4-1106-preview-449.txt	mismatch	target: eukaryotic translation initiation factor 2B	output: eukaryotic translation initiation factor 2B (eIF2B)
+output-gpt-4-1106-preview-45.txt	mismatch	target: SRP	output: Signal recognition particle (SRP)
+output-gpt-4-1106-preview-450.txt	match	target: Kat6	output: Kat6
+output-gpt-4-1106-preview-451.txt	match	target: AHAS III	output: AHAS III
+output-gpt-4-1106-preview-452.txt	match	target: mammalian spliceosomal complex E	output: mammalian spliceosomal complex E
+output-gpt-4-1106-preview-453.txt	match	target: IF2B	output: IF2B
+output-gpt-4-1106-preview-454.txt	match	target: FA core	output: FA core
+output-gpt-4-1106-preview-455.txt	match	target: Gin4	output: Gin4
+output-gpt-4-1106-preview-456.txt	mismatch	target: PRC2	output: Polycomb Repressive Complex 2 (PRC2)
+output-gpt-4-1106-preview-457.txt	match	target: alphav-beta5 integrin	output: alphav-beta5 integrin
+output-gpt-4-1106-preview-458.txt	match	target: IGP synthase	output: IGP synthase
+output-gpt-4-1106-preview-459.txt	match	target: CoaC	output: CoaC
+output-gpt-4-1106-preview-46.txt	match	target: pre-TCR	output: pre-TCR
+output-gpt-4-1106-preview-460.txt	match	target: MetNI transporter	output: MetNI transporter
+output-gpt-4-1106-preview-461.txt	match	target: vacuolar HOPS	output: vacuolar HOPS complex
+output-gpt-4-1106-preview-462.txt	match	target: alphav-beta1 integrin	output: alphav-beta1 integrin
+output-gpt-4-1106-preview-463.txt	match	target: HCab	output: HCab protein complex
+output-gpt-4-1106-preview-464.txt	mismatch	target: IgG3	output: ['IgG3', 'Fc gamma receptors']
+output-gpt-4-1106-preview-465.txt	match	target: SSU processome	output: SSU processome
+output-gpt-4-1106-preview-466.txt	match	target: Biogenesis of Lysosome-related Organelles Complex-2	output: Biogenesis of Lysosome-related Organelles Complex-2
+output-gpt-4-1106-preview-467.txt	match	target: OSTCI	output: OSTCI
+output-gpt-4-1106-preview-468.txt	mismatch	target: Trf4	output: TRAMP complex
+output-gpt-4-1106-preview-469.txt	match	target: cullin-RING ligase 4A	output: cullin-RING ligase 4A
+output-gpt-4-1106-preview-47.txt	match	target: TGFbeta1 ligand-receptor	output: TGFbeta1 ligand-receptor
+output-gpt-4-1106-preview-470.txt	match	target: galectin-2	output: galectin-2
+output-gpt-4-1106-preview-471.txt	match	target: VLA-4	output: VLA-4
+output-gpt-4-1106-preview-472.txt	match	target: SOSS	output: SOSS protein complex
+output-gpt-4-1106-preview-473.txt	match	target: GET	output: GET complex
+output-gpt-4-1106-preview-474.txt	match	target: FRG	output: FRG complex
+output-gpt-4-1106-preview-475.txt	match	target: CBM	output: CBM complex
+output-gpt-4-1106-preview-476.txt	mismatch	target: PAXT	output: ['PAXT connection', 'NEXT complex']
+output-gpt-4-1106-preview-477.txt	match	target: interleukin-3 receptor	output: Interleukin-3 receptor
+output-gpt-4-1106-preview-478.txt	mismatch	target: cullin-RING ligase 7	output: ['CRL7', 'cullin-RING ligase 7']
+output-gpt-4-1106-preview-479.txt	match	target: NZR	output: NZR
+output-gpt-4-1106-preview-48.txt	match	target: Nup84	output: Nup84 protein complex
+output-gpt-4-1106-preview-480.txt	match	target: B800-850 antenna	output: B800-850 antenna complex
+output-gpt-4-1106-preview-481.txt	match	target: exodeoxyribonuclease VII	output: exodeoxyribonuclease VII
+output-gpt-4-1106-preview-482.txt	match	target: HEX S	output: HEX S
+output-gpt-4-1106-preview-483.txt	match	target: N-terminal acetyltransferase A	output: N-terminal acetyltransferase A
+output-gpt-4-1106-preview-484.txt	match	target: HDL3	output: HDL3
+output-gpt-4-1106-preview-485.txt	match	target: FtsQBL	output: FtsQBL complex
+output-gpt-4-1106-preview-486.txt	match	target: syntrophin	output: Syntrophin protein complex
+output-gpt-4-1106-preview-487.txt	match	target: HTL	output: HTL protein complex
+output-gpt-4-1106-preview-488.txt	match	target: Nop7	output: Nop7
+output-gpt-4-1106-preview-489.txt	match	target: cullin-RING ligase 5	output: cullin-RING ligase 5
+output-gpt-4-1106-preview-49.txt	match	target: MsbA	output: MsbA
+output-gpt-4-1106-preview-490.txt	mismatch	target: ERN1	output: ['ERN1', 'N-linked glycosylation', 'unfolded protein response (UPR)']
+output-gpt-4-1106-preview-491.txt	match	target: Polymerase-zeta	output: Polymerase-zeta
+output-gpt-4-1106-preview-492.txt	match	target: Kir6.1-SUR	output: Kir6.1-SUR
+output-gpt-4-1106-preview-493.txt	match	target: yagTSR	output: yagTSR
+output-gpt-4-1106-preview-494.txt	mismatch	target: ESCRT IV	output: ['ESCRT IV', 'multivesicular bodies (MVBs)']
+output-gpt-4-1106-preview-495.txt	match	target: succinic dehydrogenase	output: Succinic dehydrogenase
+output-gpt-4-1106-preview-496.txt	match	target: MutLbeta	output: MutLbeta
+output-gpt-4-1106-preview-497.txt	match	target: Glu-AdT	output: Glu-AdT protein complex
+output-gpt-4-1106-preview-498.txt	match	target: CFIIm	output: CFIIm protein complex
+output-gpt-4-1106-preview-499.txt	match	target: MIB	output: MIB protein complex
+output-gpt-4-1106-preview-5.txt	match	target: TBC	output: TBC complex
+output-gpt-4-1106-preview-50.txt	match	target: Ferrichrome outer membrane transporter	output: Ferrichrome outer membrane transporter
+output-gpt-4-1106-preview-500.txt	match	target: AHA II	output: AHA II
+output-gpt-4-1106-preview-501.txt	match	target: PAN	output: PAN protein complex
+output-gpt-4-1106-preview-502.txt	match	target: PstSCAB	output: PstSCAB
+output-gpt-4-1106-preview-503.txt	mismatch	target: ESCRT-0	output: ['Endosomal Sorting Complex Required for Transport (ESCRT-0)', '']
+output-gpt-4-1106-preview-504.txt	match	target: MRX	output: MRX protein complex
+output-gpt-4-1106-preview-505.txt	match	target: Sim4	output: Sim4
+output-gpt-4-1106-preview-506.txt	match	target: DHIC	output: DHIC protein complex
+output-gpt-4-1106-preview-507.txt	match	target: kinesin II	output: kinesin II
+output-gpt-4-1106-preview-508.txt	match	target: SNARE	output: SNARE protein complex
+output-gpt-4-1106-preview-509.txt	match	target: nuclear cohesin	output: nuclear cohesin complex
+output-gpt-4-1106-preview-51.txt	match	target: arginine-specific carbamoyl phosphate synthetase	output: arginine-specific carbamoyl phosphate synthetase
+output-gpt-4-1106-preview-510.txt	match	target: SufE	output: SufE
+output-gpt-4-1106-preview-511.txt	match	target: FAS	output: FAS
+output-gpt-4-1106-preview-512.txt	mismatch	target: ESCRT-2	output: ['endosomal sorting complexes required for transport', 'ESCRT-2']
+output-gpt-4-1106-preview-513.txt	match	target: collagen type II trimer	output: Collagen type II trimer
+output-gpt-4-1106-preview-514.txt	match	target: Janusin	output: Janusin
+output-gpt-4-1106-preview-515.txt	match	target: AMPA glutamate receptor	output: AMPA glutamate receptor
+output-gpt-4-1106-preview-516.txt	match	target: laminin-6	output: laminin-6
+output-gpt-4-1106-preview-517.txt	match	target: tuberin-hamartin	output: tuberin-hamartin protein complex
+output-gpt-4-1106-preview-518.txt	match	target: IRF	output: IRF protein complex
+output-gpt-4-1106-preview-519.txt	match	target: NADH-ubiquinone reductase	output: NADH-ubiquinone reductase
+output-gpt-4-1106-preview-52.txt	match	target: phosphoinositide 3-kinase complex, class III	output: phosphoinositide 3-kinase complex, class III
+output-gpt-4-1106-preview-520.txt	match	target: FceRI	output: FceRI
+output-gpt-4-1106-preview-521.txt	match	target: NADH-Q oxidoreductase	output: NADH-Q oxidoreductase
+output-gpt-4-1106-preview-522.txt	match	target: SQR	output: SQR complex
+output-gpt-4-1106-preview-523.txt	mismatch	target: NDC1	output: Nuclear pore complex
+output-gpt-4-1106-preview-524.txt	match	target: 5-HT-3 receptor	output: 5-HT-3 receptor
+output-gpt-4-1106-preview-525.txt	mismatch	target: adaptor protein-5 adaptor	output: AP-5 adaptor
+output-gpt-4-1106-preview-526.txt	match	target: Adapter complex AP-3	output: Adapter complex AP-3
+output-gpt-4-1106-preview-527.txt	match	target: eIF-4F	output: eIF-4F complex
+output-gpt-4-1106-preview-528.txt	match	target: GIP	output: GIP complex
+output-gpt-4-1106-preview-529.txt	match	target: Rpd3S	output: Rpd3S protein complex
+output-gpt-4-1106-preview-53.txt	mismatch	target: RecFOR	output: ['RecFOR protein complex', 'RecA protein']
+output-gpt-4-1106-preview-530.txt	match	target: L-Ficolin	output: L-Ficolin complex
+output-gpt-4-1106-preview-531.txt	match	target: NF-kappaB	output: NF-kappaB
+output-gpt-4-1106-preview-532.txt	match	target: ASCOM	output: ASCOM
+output-gpt-4-1106-preview-533.txt	match	target: ZnuABC	output: ZnuABC
+output-gpt-4-1106-preview-534.txt	match	target: BC	output: BC
+output-gpt-4-1106-preview-535.txt	match	target: resolvasome	output: resolvasome
+output-gpt-4-1106-preview-536.txt	mismatch	target: GPIT	output: Glycosylphosphatidylinositol transamidase (GPIT) complex
+output-gpt-4-1106-preview-537.txt	match	target: Signalosome	output: Signalosome
+output-gpt-4-1106-preview-538.txt	match	target: Lid2	output: Lid2
+output-gpt-4-1106-preview-539.txt	mismatch	target: PDGF	output: PDGF signaling pathway
+output-gpt-4-1106-preview-54.txt	match	target: PTEX	output: PTEX
+output-gpt-4-1106-preview-540.txt	match	target: QFR	output: QFR protein complex
+output-gpt-4-1106-preview-541.txt	match	target: H3 HAT	output: H3 HAT protein complex
+output-gpt-4-1106-preview-542.txt	mismatch	target: BMP receptor	output: ['BMP receptor', 'mesenchymal stem cells']
+output-gpt-4-1106-preview-543.txt	mismatch	target: NAT	output: N-acetyltransferase complex (NAT)
+output-gpt-4-1106-preview-544.txt	match	target: laminin-15	output: laminin-15
+output-gpt-4-1106-preview-545.txt	match	target: NEF1	output: NEF1 protein complex
+output-gpt-4-1106-preview-546.txt	match	target: miRLC	output: miRLC protein complex
+output-gpt-4-1106-preview-547.txt	match	target: interleukin-9 receptor	output: interleukin-9 receptor
+output-gpt-4-1106-preview-548.txt	match	target: HCN1 channel	output: HCN1 channel
+output-gpt-4-1106-preview-549.txt	match	target: pyroptosome	output: pyroptosome
+output-gpt-4-1106-preview-55.txt	match	target: Prothrombinase	output: Prothrombinase
+output-gpt-4-1106-preview-550.txt	match	target: 13S condensin	output: 13S condensin
+output-gpt-4-1106-preview-551.txt	match	target: 60S ribosomal subunit	output: 60S ribosomal subunit
+output-gpt-4-1106-preview-552.txt	match	target: UTP-C	output: UTP-C
+output-gpt-4-1106-preview-553.txt	match	target: ABAT	output: ABAT
+output-gpt-4-1106-preview-554.txt	match	target: mitoKATP	output: mitoKATP
+output-gpt-4-1106-preview-555.txt	match	target: FSH	output: FSH
+output-gpt-4-1106-preview-556.txt	mismatch	target: PA28	output: ['PA28', '20S proteasome']
+output-gpt-4-1106-preview-557.txt	mismatch	target: LH1	output: Light-harvesting complex 1 (LH1)
+output-gpt-4-1106-preview-558.txt	match	target: CeBCD	output: CeBCD
+output-gpt-4-1106-preview-559.txt	mismatch	target: mt-LSU	output: mitochondrial large subunit ribosomal protein complex (mt-LSU)
+output-gpt-4-1106-preview-56.txt	match	target: C1q	output: C1q
+output-gpt-4-1106-preview-560.txt	match	target: PAF1C	output: PAF1C
+output-gpt-4-1106-preview-561.txt	match	target: Hydrogenase 3	output: Hydrogenase 3
+output-gpt-4-1106-preview-562.txt	match	target: ncBAP	output: ncBAP
+output-gpt-4-1106-preview-563.txt	match	target: surface IgA	output: Surface IgA
+output-gpt-4-1106-preview-564.txt	mismatch	target: COG	output: Conserved Oligomeric Golgi (COG) complex
+output-gpt-4-1106-preview-565.txt	match	target: HEPS	output: HEPS protein complex
+output-gpt-4-1106-preview-566.txt	match	target: TCP-1 ring	output: TCP-1 ring complex
+output-gpt-4-1106-preview-567.txt	match	target: SWI-SNF	output: SWI-SNF complex
+output-gpt-4-1106-preview-568.txt	match	target: mitochondrial 28S ribosomal subunit	output: mitochondrial 28S ribosomal subunit
+output-gpt-4-1106-preview-569.txt	match	target: C3PO	output: C3PO complex
+output-gpt-4-1106-preview-57.txt	match	target: cytochrome bc1	output: cytochrome bc1 complex
+output-gpt-4-1106-preview-570.txt	match	target: NEXT	output: NEXT complex
+output-gpt-4-1106-preview-571.txt	match	target: SR	output: SR complex
+output-gpt-4-1106-preview-572.txt	match	target: Pex14	output: Pex14
+output-gpt-4-1106-preview-573.txt	match	target: box H/ACA RNP	output: box H/ACA RNP
+output-gpt-4-1106-preview-574.txt	match	target: Nup107-120	output: Nup107-120 complex
+output-gpt-4-1106-preview-575.txt	match	target: SUN-KASH	output: SUN-KASH protein complex
+output-gpt-4-1106-preview-576.txt	match	target: LAT signalosome	output: LAT signalosome
+output-gpt-4-1106-preview-577.txt	match	target: RNA polymerase I	output: RNA polymerase I
+output-gpt-4-1106-preview-578.txt	mismatch	target: APC/C	output: anaphase-promoting complex/cyclosome (APC/C)
+output-gpt-4-1106-preview-579.txt	match	target: surface IgG2	output: Surface IgG2
+output-gpt-4-1106-preview-58.txt	match	target: P-ATAC	output: P-ATAC
+output-gpt-4-1106-preview-580.txt	match	target: DNA-directed RNA polymerase III	output: DNA-directed RNA polymerase III
+output-gpt-4-1106-preview-581.txt	match	target: EGO	output: EGO protein complex
+output-gpt-4-1106-preview-582.txt	match	target: laminin-12	output: laminin-12
+output-gpt-4-1106-preview-583.txt	mismatch	target: yeast spliceosomal complex B	output: spliceosomal complex B
+output-gpt-4-1106-preview-584.txt	match	target: GatYZ	output: GatYZ
+output-gpt-4-1106-preview-585.txt	match	target: Pol epsilon	output: Pol epsilon
+output-gpt-4-1106-preview-586.txt	match	target: DOM-B.C	output: DOM-B.C protein complex
+output-gpt-4-1106-preview-587.txt	match	target: electron transport complex III	output: Electron Transport Complex III
+output-gpt-4-1106-preview-588.txt	match	target: dynactin	output: dynactin
+output-gpt-4-1106-preview-589.txt	match	target: membrane-bound IgA1	output: membrane-bound IgA1
+output-gpt-4-1106-preview-59.txt	match	target: CGRP receptor	output: CGRP receptor
+output-gpt-4-1106-preview-590.txt	match	target: interleukin-4 receptor	output: interleukin-4 receptor
+output-gpt-4-1106-preview-591.txt	mismatch	target: CTDK	output: ['CTDK', 'RNA polymerase II']
+output-gpt-4-1106-preview-592.txt	match	target: ribonuclease P	output: Ribonuclease P
+output-gpt-4-1106-preview-593.txt	mismatch	target: TCR	output: ['T lymphocytes', 'TCR', 'Major Histocompatibility Complex (MHC) molecules']
+output-gpt-4-1106-preview-594.txt	mismatch	target: ORC	output: Origin Recognition Complex (ORC)
+output-gpt-4-1106-preview-595.txt	match	target: ASC pyroptosome	output: ASC pyroptosome
+output-gpt-4-1106-preview-596.txt	match	target: chloroplast photosystem I	output: chloroplast photosystem I complex
+output-gpt-4-1106-preview-597.txt	match	target: GGTase-I	output: GGTase-I
+output-gpt-4-1106-preview-598.txt	mismatch	target: surface IgG	output: B-cell receptor complex
+output-gpt-4-1106-preview-599.txt	match	target: Adapter complex AP-2	output: Adapter complex AP-2
+output-gpt-4-1106-preview-6.txt	match	target: ESCRT-IV	output: ESCRT-IV complex
+output-gpt-4-1106-preview-60.txt	match	target: intracellular ferritin	output: Intracellular ferritin
+output-gpt-4-1106-preview-600.txt	match	target: MetNI	output: MetNI
+output-gpt-4-1106-preview-601.txt	match	target: HRD1 ubiquitin ligase	output: HRD1 ubiquitin ligase complex
+output-gpt-4-1106-preview-602.txt	match	target: CENP-T-W-S-X	output: CENP-T-W-S-X protein complex
+output-gpt-4-1106-preview-603.txt	match	target: MTREC	output: MTREC complex
+output-gpt-4-1106-preview-604.txt	match	target: 20S proteasome	output: 20S proteasome
+output-gpt-4-1106-preview-605.txt	match	target: HCN3 channel	output: HCN3 channel
+output-gpt-4-1106-preview-606.txt	mismatch	target: CaMKII	output: ['- CaMKII', '- LTP', '- LTD']
+output-gpt-4-1106-preview-607.txt	match	target: photosystem II	output: photosystem II
+output-gpt-4-1106-preview-608.txt	match	target: box C/D snoRNP	output: Box C/D snoRNP complex
+output-gpt-4-1106-preview-609.txt	match	target: cyt b6/f	output: cyt b6/f complex
+output-gpt-4-1106-preview-61.txt	match	target: collagen type IV trimers	output: Collagen type IV trimers
+output-gpt-4-1106-preview-610.txt	match	target: EMC	output: EMC
+output-gpt-4-1106-preview-611.txt	match	target: DNMT3A-3L	output: DNMT3A-3L
+output-gpt-4-1106-preview-612.txt	mismatch	target: CRL7	output: Cullin-RING Ligase 7 (CRL7) complex
+output-gpt-4-1106-preview-613.txt	match	target: GABA-T	output: GABA-T
+output-gpt-4-1106-preview-614.txt	match	target: npBAF	output: npBAF
+output-gpt-4-1106-preview-615.txt	match	target: SWI/SNF complex B	output: SWI/SNF complex B
+output-gpt-4-1106-preview-616.txt	mismatch	target: PDHC	output: Pyruvate dehydrogenase complex (PDHC)
+output-gpt-4-1106-preview-617.txt	match	target: SHREC	output: SHREC complex
+output-gpt-4-1106-preview-618.txt	match	target: PP2A	output: PP2A
+output-gpt-4-1106-preview-619.txt	match	target: replication protein A	output: replication protein A
+output-gpt-4-1106-preview-62.txt	match	target: positive transcription elongation factor complex b	output: Positive Transcription Elongation Factor complex b
+output-gpt-4-1106-preview-620.txt	match	target: DPM synthase	output: DPM synthase
+output-gpt-4-1106-preview-621.txt	match	target: FHL	output: FHL complex
+output-gpt-4-1106-preview-622.txt	match	target: intraflagellar transport complex B	output: intraflagellar transport complex B
+output-gpt-4-1106-preview-623.txt	match	target: MutSbeta	output: MutSbeta complex
+output-gpt-4-1106-preview-624.txt	match	target: KEM	output: KEM protein complex
+output-gpt-4-1106-preview-625.txt	match	target: collagen type I trimer	output: collagen type I trimer
+output-gpt-4-1106-preview-626.txt	mismatch	target: surface IgA1	output: ['- surface IgA1', '- gut microbiota']
+output-gpt-4-1106-preview-627.txt	match	target: pVHL-elongin C-elongin B	output: pVHL-elongin C-elongin B complex
+output-gpt-4-1106-preview-628.txt	match	target: VPS4A/B	output: VPS4A/B protein complex
+output-gpt-4-1106-preview-629.txt	mismatch	target: DOM-A.C	output: DOM-A.C.
+output-gpt-4-1106-preview-63.txt	match	target: platelet-derived growth factor receptor-ligand	output: platelet-derived growth factor receptor-ligand complex
+output-gpt-4-1106-preview-630.txt	mismatch	target: RNA polymerase V	output: ['RNA polymerase V', 'chromatin-modifying complexes']
+output-gpt-4-1106-preview-631.txt	match	target: DBIRD	output: DBIRD complex
+output-gpt-4-1106-preview-632.txt	match	target: 5HT3-A receptor	output: 5HT3-A receptor
+output-gpt-4-1106-preview-633.txt	match	target: KEOPSs	output: KEOPSs complex
+output-gpt-4-1106-preview-634.txt	match	target: GlpABC	output: GlpABC protein complex
+output-gpt-4-1106-preview-635.txt	match	target: 54S mitochondrial large ribosomal subunit	output: 54S mitochondrial large ribosomal subunit
+output-gpt-4-1106-preview-636.txt	match	target: Fc-gamma receptor III	output: Fc-gamma receptor III
+output-gpt-4-1106-preview-637.txt	match	target: IL15 receptor	output: IL15 receptor
+output-gpt-4-1106-preview-638.txt	match	target: 5-HT3A receptor	output: 5-HT3A receptor
+output-gpt-4-1106-preview-639.txt	match	target: transforming growth factor beta1-type II receptor-type I receptor	output: transforming growth factor beta1-type II receptor-type I receptor
+output-gpt-4-1106-preview-64.txt	match	target: cullin-RING ligase 2	output: cullin-RING ligase 2
+output-gpt-4-1106-preview-640.txt	match	target: AM1	output: AM1
+output-gpt-4-1106-preview-641.txt	match	target: interleukin-15 receptor	output: interleukin-15 receptor
+output-gpt-4-1106-preview-642.txt	match	target: Colicin I receptor	output: Colicin I receptor
+output-gpt-4-1106-preview-643.txt	match	target: laminin-8	output: laminin-8
+output-gpt-4-1106-preview-644.txt	match	target: TOR complex 2	output: TOR complex 2
+output-gpt-4-1106-preview-645.txt	match	target: NapAB nitrate reductase	output: NapAB nitrate reductase
+output-gpt-4-1106-preview-646.txt	match	target: TRAP	output: TRAP protein complex
+output-gpt-4-1106-preview-647.txt	mismatch	target: PS1	output: ['PS1 protein complex', 'γ-secretase complex']
+output-gpt-4-1106-preview-648.txt	match	target: MukBEF condensin	output: MukBEF condensin complex
+output-gpt-4-1106-preview-649.txt	match	target: IL-28 receptor	output: IL-28 receptor
+output-gpt-4-1106-preview-65.txt	match	target: holo-[acyl-carrier-protein] synthase	output: holo-[acyl-carrier-protein] synthase
+output-gpt-4-1106-preview-650.txt	mismatch	target: MsbA transporter	output: ['MsbA transporter', 'ATP-binding cassette (ABC) transporter']
+output-gpt-4-1106-preview-651.txt	match	target: Pyrin inflammasome	output: Pyrin inflammasome
+output-gpt-4-1106-preview-652.txt	match	target: 5HT3AR	output: 5HT3AR protein complex
+output-gpt-4-1106-preview-653.txt	match	target: CFII	output: CFII
+output-gpt-4-1106-preview-654.txt	match	target: IL-35	output: IL-35
+output-gpt-4-1106-preview-655.txt	match	target: WAVE	output: WAVE protein complex
+output-gpt-4-1106-preview-656.txt	match	target: amyloid-beta protein 40/42	output: Amyloid-beta protein 40/42 complex
+output-gpt-4-1106-preview-657.txt	match	target: Cut1-2	output: Cut1-2
+output-gpt-4-1106-preview-658.txt	match	target: IPI	output: IPI protein complex
+output-gpt-4-1106-preview-659.txt	match	target: MutSgamma	output: MutSgamma
+output-gpt-4-1106-preview-66.txt	match	target: NendoUs	output: NendoUs
+output-gpt-4-1106-preview-660.txt	match	target: eif2B	output: eif2B
+output-gpt-4-1106-preview-661.txt	match	target: AMY3	output: AMY3
+output-gpt-4-1106-preview-662.txt	match	target: CORVET	output: CORVET complex
+output-gpt-4-1106-preview-663.txt	match	target: IgG2b	output: IgG2b
+output-gpt-4-1106-preview-664.txt	match	target: DNMT3A–3L	output: DNMT3A–3L
+output-gpt-4-1106-preview-665.txt	match	target: SRB8/9/10/11	output: SRB8/9/10/11
+output-gpt-4-1106-preview-666.txt	match	target: Hyd-4	output: Hyd-4
+output-gpt-4-1106-preview-667.txt	match	target: alpha4-beta1 integrin	output: alpha4-beta1 integrin
+output-gpt-4-1106-preview-668.txt	match	target: Prohibitin	output: Prohibitin protein complex
+output-gpt-4-1106-preview-669.txt	match	target: IL-15-receptor	output: IL-15-receptor complex
+output-gpt-4-1106-preview-67.txt	match	target: HEX B	output: HEX B
+output-gpt-4-1106-preview-670.txt	mismatch	target: TRanscription/EXport	output: TREX complex
+output-gpt-4-1106-preview-671.txt	match	target: Sus	output: Sus
+output-gpt-4-1106-preview-672.txt	match	target: PRC2.2	output: PRC2.2
+output-gpt-4-1106-preview-673.txt	match	target: AP-2R	output: AP-2R
+output-gpt-4-1106-preview-674.txt	match	target: Hyd-2	output: Hyd-2
+output-gpt-4-1106-preview-675.txt	match	target: ADM1 receptor	output: ADM1 receptor
+output-gpt-4-1106-preview-676.txt	match	target: BBSome	output: BBSome
+output-gpt-4-1106-preview-677.txt	mismatch	target: 5-HT receptor	output: ['5-HT receptor', 'G protein-coupled receptor']
+output-gpt-4-1106-preview-678.txt	match	target: DOM-B	output: DOM-B
+output-gpt-4-1106-preview-679.txt	match	target: interleukin-12	output: interleukin-12
+output-gpt-4-1106-preview-68.txt	match	target: RPA	output: RPA complex
+output-gpt-4-1106-preview-680.txt	mismatch	target: G-TURC	output: gamma-tubulin ring complex (G-TURC)
+output-gpt-4-1106-preview-681.txt	match	target: ADA HAT	output: ADA HAT complex
+output-gpt-4-1106-preview-682.txt	mismatch	target: cytosolic FAS	output: FAS (fatty acid synthase)
+output-gpt-4-1106-preview-683.txt	match	target: Nar	output: Nar
+output-gpt-4-1106-preview-684.txt	match	target: laminin-1	output: laminin-1
+output-gpt-4-1106-preview-685.txt	match	target: PreaTs	output: PreaTs
+output-gpt-4-1106-preview-686.txt	match	target: PBAF	output: PBAF complex
+output-gpt-4-1106-preview-687.txt	match	target: FN-TGM2	output: FN-TGM2
+output-gpt-4-1106-preview-688.txt	match	target: PRC2.1	output: PRC2.1
+output-gpt-4-1106-preview-689.txt	match	target: gamma-secretases	output: gamma-secretases
+output-gpt-4-1106-preview-69.txt	mismatch	target: KPC	output: KPC (Karyopherin-β Protein Complex)
+output-gpt-4-1106-preview-690.txt	match	target: F-actin	output: F-actin
+output-gpt-4-1106-preview-691.txt	mismatch	target: chloroplast RubisCO	output: RubisCO
+output-gpt-4-1106-preview-692.txt	match	target: CURI	output: CURI
+output-gpt-4-1106-preview-693.txt	match	target: TGF-beta	output: TGF-beta
+output-gpt-4-1106-preview-694.txt	match	target: GPIb-V-IX	output: GPIb-V-IX
+output-gpt-4-1106-preview-695.txt	match	target: mtCU	output: mtCU
+output-gpt-4-1106-preview-696.txt	match	target: yFACT	output: yFACT
+output-gpt-4-1106-preview-697.txt	match	target: mitochondrial complex III	output: Mitochondrial complex III
+output-gpt-4-1106-preview-698.txt	mismatch	target: NTC	output: ['nuclear transcription complex (NTC)', '']
+output-gpt-4-1106-preview-699.txt	match	target: AMY1	output: AMY1
+output-gpt-4-1106-preview-7.txt	match	target: elongator holoenzyme	output: Elongator holoenzyme
+output-gpt-4-1106-preview-70.txt	match	target: laminin-332	output: laminin-332
+output-gpt-4-1106-preview-700.txt	match	target: MCCC	output: MCCC
+output-gpt-4-1106-preview-701.txt	match	target: ODA-DC	output: ODA-DC
+output-gpt-4-1106-preview-702.txt	match	target: CPS-A	output: CPS-A
+output-gpt-4-1106-preview-703.txt	mismatch	target: LHCII	output: 1. LHCII
+output-gpt-4-1106-preview-704.txt	match	target: matrilin	output: Matrilin
+output-gpt-4-1106-preview-705.txt	match	target: electron transport complex I	output: electron transport complex I
+output-gpt-4-1106-preview-706.txt	match	target: MSS	output: MSS protein complex
+output-gpt-4-1106-preview-707.txt	match	target: mitochondrial respiratory chain complex I	output: Mitochondrial respiratory chain complex I
+output-gpt-4-1106-preview-708.txt	match	target: type III PKS	output: type III PKS complex
+output-gpt-4-1106-preview-709.txt	match	target: MitOS	output: MitOS
+output-gpt-4-1106-preview-71.txt	match	target: KFRC	output: KFRC
+output-gpt-4-1106-preview-710.txt	mismatch	target: Biogenesis of Lysosome-related Organelles Complex-3	output: Biogenesis of Lysosome-related Organelles Complex-3 (BLOC-3)
+output-gpt-4-1106-preview-711.txt	match	target: SapABCDF	output: SapABCDF
+output-gpt-4-1106-preview-712.txt	match	target: DNA polymerase III holoenzyme	output: DNA polymerase III holoenzyme
+output-gpt-4-1106-preview-713.txt	mismatch	target: transcription export complex 2	output: Transcription export complex 2 (TREX-2)
+output-gpt-4-1106-preview-714.txt	mismatch	target: Biogenesis of lysosomal organelles complex-3	output: Biogenesis of lysosomal organelles complex-3 (BLOC-3)
+output-gpt-4-1106-preview-715.txt	match	target: m(6)A writer	output: m(6)A writer complex
+output-gpt-4-1106-preview-716.txt	match	target: Sm	output: Sm protein complex
+output-gpt-4-1106-preview-717.txt	match	target: CDL7	output: CDL7
+output-gpt-4-1106-preview-718.txt	match	target: serum ferritin	output: serum ferritin
+output-gpt-4-1106-preview-719.txt	mismatch	target: IL-9 receptor	output: ['IL-9 receptor', 'ATP', 'magnesium']
+output-gpt-4-1106-preview-72.txt	match	target: DNA polymerase Vs	output: DNA polymerase Vs
+output-gpt-4-1106-preview-720.txt	match	target: PP3	output: PP3
+output-gpt-4-1106-preview-721.txt	match	target: eaf5/7/3	output: eaf5/7/3 protein complex
+output-gpt-4-1106-preview-722.txt	match	target: paaABCE	output: paaABCE
+output-gpt-4-1106-preview-723.txt	match	target: DDD	output: DDD
+output-gpt-4-1106-preview-724.txt	match	target: mitotic septin	output: Mitotic septin complex
+output-gpt-4-1106-preview-725.txt	match	target: HOPS	output: HOPS complex
+output-gpt-4-1106-preview-726.txt	match	target: EBI3	output: EBI3
+output-gpt-4-1106-preview-727.txt	match	target: gamma-secretase	output: Gamma-secretase
+output-gpt-4-1106-preview-728.txt	match	target: FtsEX	output: FtsEX complex
+output-gpt-4-1106-preview-729.txt	mismatch	target: IgG4	output: ['IgG4', 'IgG4-related disease (IgG4-RD)']
+output-gpt-4-1106-preview-73.txt	match	target: CydDC	output: CydDC protein complex
+output-gpt-4-1106-preview-730.txt	match	target: AHAS I	output: AHAS I
+output-gpt-4-1106-preview-731.txt	match	target: rixosome	output: rixosome
+output-gpt-4-1106-preview-732.txt	match	target: Dam1	output: Dam1 complex
+output-gpt-4-1106-preview-733.txt	match	target: Tic	output: Tic
+output-gpt-4-1106-preview-734.txt	match	target: elongin	output: Elongin
+output-gpt-4-1106-preview-735.txt	match	target: LinE	output: LinE protein complex
+output-gpt-4-1106-preview-736.txt	match	target: Degradosome	output: degradosome
+output-gpt-4-1106-preview-737.txt	match	target: CRL4	output: CRL4 complex
+output-gpt-4-1106-preview-738.txt	match	target: TRIKA1	output: TRIKA1
+output-gpt-4-1106-preview-739.txt	match	target: condensin	output: condensin complex
+output-gpt-4-1106-preview-74.txt	match	target: PKS	output: PKS
+output-gpt-4-1106-preview-740.txt	match	target: 3CLpro	output: 3CLpro
+output-gpt-4-1106-preview-741.txt	match	target: USH2	output: USH2
+output-gpt-4-1106-preview-742.txt	match	target: SsuE	output: SsuE
+output-gpt-4-1106-preview-743.txt	mismatch	target: chromatin assembly factor 1	output: Chromatin assembly factor 1 (CAF-1)
+output-gpt-4-1106-preview-744.txt	mismatch	target: FIIa	output: ['antithrombin III', 'erythrocyte', 'platelet']
+output-gpt-4-1106-preview-745.txt	match	target: basal TBC	output: Basal TBC
+output-gpt-4-1106-preview-746.txt	match	target: LINC	output: LINC complex
+output-gpt-4-1106-preview-747.txt	match	target: p19	output: p19
+output-gpt-4-1106-preview-748.txt	match	target: HisJQMP	output: HisJQMP
+output-gpt-4-1106-preview-749.txt	match	target: alpha1-beta1 integrin	output: alpha1-beta1 integrin
+output-gpt-4-1106-preview-75.txt	match	target: NatA	output: NatA protein complex
+output-gpt-4-1106-preview-750.txt	match	target: Ragulator	output: Ragulator
+output-gpt-4-1106-preview-751.txt	mismatch	target: discoidal HDL	output: ['Discoidal HDL', 'PI3K-Akt pathway']
+output-gpt-4-1106-preview-752.txt	match	target: mitotic cohesin	output: mitotic cohesin
+output-gpt-4-1106-preview-753.txt	match	target: DPD	output: DPD complex
+output-gpt-4-1106-preview-754.txt	match	target: CRL3	output: CRL3
+output-gpt-4-1106-preview-755.txt	match	target: BAP	output: BAP complex
+output-gpt-4-1106-preview-756.txt	match	target: IgA immunoglobulin	output: IgA immunoglobulin
+output-gpt-4-1106-preview-757.txt	match	target: mu-calpain	output: mu-calpain
+output-gpt-4-1106-preview-758.txt	mismatch	target: Biogenesis of lysosome-related organelles complex-1	output: Biogenesis of lysosome-related organelles complex-1 (BLOC-1)
+output-gpt-4-1106-preview-759.txt	match	target: UTP-B	output: UTP-B
+output-gpt-4-1106-preview-76.txt	match	target: Galactitol-specific enzyme II	output: Galactitol-specific enzyme II
+output-gpt-4-1106-preview-760.txt	match	target: LSH	output: LSH protein complex
+output-gpt-4-1106-preview-761.txt	mismatch	target: CCC	output: ['- CCC (Coat Protein Complex)', '- ESCRT (Endosomal Sorting Required for Transport) machinery']
+output-gpt-4-1106-preview-762.txt	match	target: TIMM23	output: TIMM23
+output-gpt-4-1106-preview-763.txt	match	target: RNApII	output: RNApII complex
+output-gpt-4-1106-preview-764.txt	match	target: T4SS	output: T4SS
+output-gpt-4-1106-preview-765.txt	match	target: xseAB	output: xseAB protein complex
+output-gpt-4-1106-preview-766.txt	match	target: artPIQM	output: artPIQM
+output-gpt-4-1106-preview-767.txt	match	target: BLOC	output: BLOC
+output-gpt-4-1106-preview-768.txt	match	target: DDS	output: DDS protein complex
+output-gpt-4-1106-preview-769.txt	match	target: PMM-1	output: PMM-1
+output-gpt-4-1106-preview-77.txt	mismatch	target: cardiac PLN	output: PLN complex
+output-gpt-4-1106-preview-770.txt	match	target: RuvABC Holliday junction resolvasome	output: RuvABC Holliday junction resolvasome
+output-gpt-4-1106-preview-771.txt	match	target: CK2	output: CK2
+output-gpt-4-1106-preview-772.txt	match	target: RecBCD	output: RecBCD protein complex
+output-gpt-4-1106-preview-773.txt	mismatch	target: NEF3	output: nucleotide exchange factor 3 (NEF3)
+output-gpt-4-1106-preview-774.txt	mismatch	target: dimeric IgA immunoglobulin	output: IgA immunoglobulin
+output-gpt-4-1106-preview-775.txt	match	target: cytochrome b6/f	output: cytochrome b6/f complex
+output-gpt-4-1106-preview-776.txt	match	target: Tenascin-N	output: Tenascin-N
+output-gpt-4-1106-preview-777.txt	match	target: kinesin I	output: kinesin I
+output-gpt-4-1106-preview-778.txt	match	target: SOSS1	output: SOSS1
+output-gpt-4-1106-preview-779.txt	match	target: mini RTC	output: mini RTC
+output-gpt-4-1106-preview-78.txt	match	target: Integration host factor	output: Integration host factor
+output-gpt-4-1106-preview-780.txt	match	target: RNA polymerase III	output: RNA polymerase III
+output-gpt-4-1106-preview-781.txt	match	target: laminin-10	output: Laminin-10
+output-gpt-4-1106-preview-782.txt	match	target: NLRC3 inflammasome	output: NLRC3 inflammasome
+output-gpt-4-1106-preview-783.txt	match	target: GGTaseI	output: GGTaseI
+output-gpt-4-1106-preview-784.txt	match	target: Hyd1	output: Hyd1
+output-gpt-4-1106-preview-785.txt	match	target: TauABC	output: TauABC
+output-gpt-4-1106-preview-786.txt	match	target: SufBCD	output: SufBCD complex
+output-gpt-4-1106-preview-787.txt	match	target: BCKADH	output: BCKADH
+output-gpt-4-1106-preview-788.txt	match	target: IgT immunoglobulin	output: IgT immunoglobulin protein complex
+output-gpt-4-1106-preview-789.txt	match	target: UgpABCE	output: UgpABCE
+output-gpt-4-1106-preview-79.txt	match	target: gamma-tubulin large	output: gamma-tubulin large complex
+output-gpt-4-1106-preview-790.txt	match	target: MutS	output: MutS
+output-gpt-4-1106-preview-791.txt	mismatch	target: SIP	output: Signalosome Inhibitory Protein complex (SIP)
+output-gpt-4-1106-preview-792.txt	mismatch	target: GATOR	output: ['GATOR complex', 'mTORC1 pathway']
+output-gpt-4-1106-preview-793.txt	match	target: Isw1a	output: Isw1a
+output-gpt-4-1106-preview-794.txt	match	target: SWI/SNF-A	output: SWI/SNF-A
+output-gpt-4-1106-preview-795.txt	match	target: Commander	output: Commander
+output-gpt-4-1106-preview-796.txt	match	target: mitochondrial cytochrome bc(1)	output: Mitochondrial cytochrome bc(1)
+output-gpt-4-1106-preview-797.txt	mismatch	target: Snf1 kinase	output: AMP-activated protein kinase (AMPK)
+output-gpt-4-1106-preview-798.txt	match	target: IFT complex A	output: IFT complex A
+output-gpt-4-1106-preview-799.txt	match	target: M-calpain	output: M-calpain
+output-gpt-4-1106-preview-8.txt	match	target: T lymphocyte receptors	output: T lymphocyte receptors
+output-gpt-4-1106-preview-80.txt	match	target: HDL2	output: HDL2
+output-gpt-4-1106-preview-800.txt	match	target: OSTCIII	output: OSTCIII
+output-gpt-4-1106-preview-801.txt	match	target: ExoVII	output: ExoVII
+output-gpt-4-1106-preview-802.txt	match	target: ThiGH	output: ThiGH protein complex
+output-gpt-4-1106-preview-803.txt	mismatch	target: Hageman factor	output: ['Factor XII', 'Hageman factor', 'Factor XI', 'Factor XIa']
+output-gpt-4-1106-preview-804.txt	match	target: IF-2B	output: IF-2B
+output-gpt-4-1106-preview-805.txt	match	target: ulaABC	output: ulaABC
+output-gpt-4-1106-preview-806.txt	match	target: GINS	output: GINS protein complex
+output-gpt-4-1106-preview-807.txt	match	target: meiotic cohesin	output: meiotic cohesin complex
+output-gpt-4-1106-preview-808.txt	match	target: eIF-2	output: eIF-2
+output-gpt-4-1106-preview-809.txt	match	target: cysND	output: cysND
+output-gpt-4-1106-preview-81.txt	mismatch	target: DOM-A	output: ['Caspases', 'DOM-A']
+output-gpt-4-1106-preview-810.txt	match	target: BBSomes	output: BBSomes
+output-gpt-4-1106-preview-811.txt	match	target: laminin 3B32	output: Laminin 3B32
+output-gpt-4-1106-preview-812.txt	match	target: collagen trimer	output: collagen trimer
+output-gpt-4-1106-preview-813.txt	match	target: Cryopyrin inflammasome	output: Cryopyrin inflammasome
+output-gpt-4-1106-preview-814.txt	match	target: light harvesting complex II	output: light harvesting complex II
+output-gpt-4-1106-preview-815.txt	mismatch	target: IgW immunoglobulin	output: ['Staphylococcus aureus', 'Streptococcus pneumoniae', 'IgW immunoglobulin']
+output-gpt-4-1106-preview-816.txt	mismatch	target: HAUS augmin	output: ['HAUS augmin complex', 'gamma-tubulin ring complexes']
+output-gpt-4-1106-preview-817.txt	match	target: interleukin-13 receptor	output: interleukin-13 receptor
+output-gpt-4-1106-preview-818.txt	match	target: inhibin A	output: inhibin A
+output-gpt-4-1106-preview-819.txt	match	target: matrilin-2	output: matrilin-2
+output-gpt-4-1106-preview-82.txt	match	target: GPI-MT I	output: GPI-MT I
+output-gpt-4-1106-preview-820.txt	match	target: TREX-2	output: TREX-2 protein complex
+output-gpt-4-1106-preview-821.txt	match	target: IKK	output: IKK complex
+output-gpt-4-1106-preview-822.txt	match	target: IL-13 receptor	output: IL-13 receptor
+output-gpt-4-1106-preview-823.txt	mismatch	target: FMN reductase	output: 1. FMN reductase
+output-gpt-4-1106-preview-824.txt	match	target: ThiBPQ	output: ThiBPQ
+output-gpt-4-1106-preview-825.txt	match	target: laminin-121	output: Laminin-121
+output-gpt-4-1106-preview-826.txt	match	target: IL-15 receptor	output: IL-15 receptor
+output-gpt-4-1106-preview-827.txt	match	target: ribonuclease H2	output: ribonuclease H2
+output-gpt-4-1106-preview-828.txt	match	target: ETF	output: ETF protein complex
+output-gpt-4-1106-preview-829.txt	match	target: EFF-1	output: EFF-1 protein complex
+output-gpt-4-1106-preview-83.txt	match	target: DiaA	output: DiaA protein complex
+output-gpt-4-1106-preview-830.txt	match	target: PMM-2	output: PMM-2
+output-gpt-4-1106-preview-831.txt	match	target: BCR	output: BCR protein complex
+output-gpt-4-1106-preview-832.txt	match	target: surface IgG3	output: Surface IgG3 protein complex
+output-gpt-4-1106-preview-833.txt	match	target: 5HT3 receptor	output: 5HT3 receptor
+output-gpt-4-1106-preview-834.txt	match	target: BRM	output: BRM
+output-gpt-4-1106-preview-835.txt	match	target: plus-end kinesin	output: plus-end kinesin protein complex
+output-gpt-4-1106-preview-836.txt	match	target: ribonuclease MRP	output: Ribonuclease MRP
+output-gpt-4-1106-preview-837.txt	mismatch	target: RQC	output: Ribosome-associated Quality Control complex (RQC)
+output-gpt-4-1106-preview-838.txt	mismatch	target: TRAMP4	output: ['TRAMP4 complex', 'exosome']
+output-gpt-4-1106-preview-839.txt	mismatch	target: Multimerin-1	output: ['Multimerin-1', 'Weibel-Palade bodies']
+output-gpt-4-1106-preview-84.txt	match	target: Hpa3	output: Hpa3
+output-gpt-4-1106-preview-840.txt	match	target: BCR3	output: BCR3
+output-gpt-4-1106-preview-841.txt	match	target: PreaT	output: PreaT
+output-gpt-4-1106-preview-842.txt	match	target: EARP	output: EARP complex
+output-gpt-4-1106-preview-843.txt	mismatch	target: BFC	output: Biomedical Folding Complex (BFC)
+output-gpt-4-1106-preview-844.txt	match	target: Follitropin	output: Follitropin
+output-gpt-4-1106-preview-845.txt	mismatch	target: DNA polymerase V	output: ['DNA polymerase V', 'translesion synthesis pathway']
+output-gpt-4-1106-preview-846.txt	match	target: galectin-1	output: galectin-1
+output-gpt-4-1106-preview-847.txt	match	target: Rad50	output: Rad50
+output-gpt-4-1106-preview-848.txt	match	target: MPCOX	output: MPCOX
+output-gpt-4-1106-preview-849.txt	match	target: preprimosome	output: preprimosome
+output-gpt-4-1106-preview-85.txt	match	target: dRAF	output: dRAF protein complex
+output-gpt-4-1106-preview-850.txt	match	target: yNPC	output: yNPC
+output-gpt-4-1106-preview-851.txt	match	target: BUR kinase	output: BUR kinase
+output-gpt-4-1106-preview-852.txt	match	target: CENP-A containing nucleosome	output: CENP-A containing nucleosome
+output-gpt-4-1106-preview-853.txt	mismatch	target: MAC	output: membrane attack complex (MAC)
+output-gpt-4-1106-preview-854.txt	match	target: BRISC	output: BRISC
+output-gpt-4-1106-preview-855.txt	match	target: alphaM-beta2 integrin	output: alphaM-beta2 integrin
+output-gpt-4-1106-preview-856.txt	match	target: kbaYZ	output: kbaYZ
+output-gpt-4-1106-preview-857.txt	match	target: J1-180	output: J1-180
+output-gpt-4-1106-preview-858.txt	match	target: gammaTuSCs	output: gammaTuSCs
+output-gpt-4-1106-preview-859.txt	mismatch	target: membrane-bound IgG1	output: ['Fluorescence resonance energy transfer (FRET)', 'Atomic force microscopy (AFM)']
+output-gpt-4-1106-preview-86.txt	match	target: SufBCDs	output: SufBCDs
+output-gpt-4-1106-preview-860.txt	match	target: PGGTase-I	output: PGGTase-I
+output-gpt-4-1106-preview-861.txt	match	target: Shu	output: Shu
+output-gpt-4-1106-preview-862.txt	match	target: collagen type III trimer	output: collagen type III trimer
+output-gpt-4-1106-preview-863.txt	match	target: GABA-A receptor	output: GABA-A receptor
+output-gpt-4-1106-preview-864.txt	match	target: TRiC/CCT Chaperonin	output: TRiC/CCT Chaperonin
+output-gpt-4-1106-preview-865.txt	mismatch	target: eukaryotic translation initiation factor 3	output: ['eukaryotic translation initiation factor 3 (eIF3)', '43S pre-initiation complex']
+output-gpt-4-1106-preview-866.txt	match	target: AP-4 adaptor	output: AP-4 adaptor complex
+output-gpt-4-1106-preview-867.txt	match	target: RES	output: RES
+output-gpt-4-1106-preview-868.txt	match	target: PFDL modules	output: PFDL modules
+output-gpt-4-1106-preview-869.txt	match	target: ICE	output: ICE protein complex
+output-gpt-4-1106-preview-87.txt	mismatch	target: matrilin-3	output: cartilage oligomeric matrix protein complex
+output-gpt-4-1106-preview-870.txt	match	target: Canonical replication protein A	output: Canonical replication protein A
+output-gpt-4-1106-preview-871.txt	match	target: GatFAB	output: GatFAB
+output-gpt-4-1106-preview-872.txt	match	target: Polymerase Associated Factor 1	output: Polymerase Associated Factor 1
+output-gpt-4-1106-preview-873.txt	match	target: CPS	output: CPS complex
+output-gpt-4-1106-preview-874.txt	match	target: Rix1	output: Rix1 protein complex
+output-gpt-4-1106-preview-875.txt	match	target: mtEXO	output: mtEXO
+output-gpt-4-1106-preview-876.txt	match	target: BDC	output: BDC
+output-gpt-4-1106-preview-877.txt	match	target: IgE	output: IgE
+output-gpt-4-1106-preview-878.txt	match	target: VPS4	output: VPS4 protein complex
+output-gpt-4-1106-preview-879.txt	match	target: Mis12	output: Mis12 complex
+output-gpt-4-1106-preview-88.txt	match	target: TGF-beta ligand-receptor	output: TGF-beta ligand-receptor complex
+output-gpt-4-1106-preview-880.txt	match	target: MetNIQ	output: MetNIQ
+output-gpt-4-1106-preview-881.txt	mismatch	target: Lutropin	output: ['Lutropin receptor', 'cyclic AMP production', 'steroidogenesis']
+output-gpt-4-1106-preview-882.txt	match	target: HIR	output: HIR protein complex
+output-gpt-4-1106-preview-883.txt	match	target: GATE-16	output: GATE-16
+output-gpt-4-1106-preview-884.txt	match	target: laminin-3	output: laminin-3
+output-gpt-4-1106-preview-885.txt	match	target: mitochondrial editosome	output: mitochondrial editosome
+output-gpt-4-1106-preview-886.txt	match	target: Tenascin-C	output: Tenascin-C
+output-gpt-4-1106-preview-887.txt	match	target: IL-4 receptor	output: IL-4 receptor
+output-gpt-4-1106-preview-888.txt	mismatch	target: nucleotide-excision repair factor 4	output: ['NERF4', 'nucleotide-excision repair (NER)']
+output-gpt-4-1106-preview-889.txt	match	target: cyt b6-f	output: cyt b6-f complex
+output-gpt-4-1106-preview-89.txt	match	target: mitochondrial cytochrome bc1	output: Mitochondrial cytochrome bc1 complex
+output-gpt-4-1106-preview-890.txt	match	target: BLOC-3	output: BLOC-3
+output-gpt-4-1106-preview-891.txt	match	target: IPMDH	output: IPMDH
+output-gpt-4-1106-preview-892.txt	match	target: parCE	output: parCE protein complex
+output-gpt-4-1106-preview-893.txt	match	target: CESA	output: CESA
+output-gpt-4-1106-preview-894.txt	match	target: HEX A	output: HEX A
+output-gpt-4-1106-preview-895.txt	match	target: PDH	output: PDH complex
+output-gpt-4-1106-preview-896.txt	match	target: NuMRP	output: NuMRP complex
+output-gpt-4-1106-preview-897.txt	match	target: IgG2	output: IgG2 protein complex
+output-gpt-4-1106-preview-898.txt	mismatch	target: RNR	output: Ribonucleotide Reductase (RNR)
+output-gpt-4-1106-preview-899.txt	mismatch	target: PEP-A	output: 1. PEP-A
+output-gpt-4-1106-preview-9.txt	match	target: photosystem I antenna	output: photosystem I antenna
+output-gpt-4-1106-preview-90.txt	match	target: GBAF	output: GBAF
+output-gpt-4-1106-preview-900.txt	mismatch	target: LHCI	output: Light-harvesting complex I
+output-gpt-4-1106-preview-901.txt	mismatch	target: interleukin-35	output: Interleukin-35 (IL-35)
+output-gpt-4-1106-preview-902.txt	match	target: NLRP3 inflammasome	output: NLRP3 inflammasome
+output-gpt-4-1106-preview-903.txt	match	target: interleukin-12 receptor	output: interleukin-12 receptor
+output-gpt-4-1106-preview-904.txt	match	target: retromer CSC	output: retromer CSC
+output-gpt-4-1106-preview-905.txt	mismatch	target: surface IgG4	output: IgG4
+output-gpt-4-1106-preview-906.txt	match	target: BCDX2	output: BCDX2
+output-gpt-4-1106-preview-907.txt	match	target: gamma-TuRC	output: gamma-TuRC
+output-gpt-4-1106-preview-908.txt	match	target: electron transport complex IV	output: Electron transport complex IV
+output-gpt-4-1106-preview-909.txt	match	target: TXT	output: TXT protein complex
+output-gpt-4-1106-preview-91.txt	match	target: TRAP transporter	output: TRAP transporter
+output-gpt-4-1106-preview-910.txt	mismatch	target: SPOTS	output: Signal Peptide Overriding Transport System (SPOTS)
+output-gpt-4-1106-preview-911.txt	match	target: DASH	output: DASH protein complex
+output-gpt-4-1106-preview-912.txt	match	target: SPT	output: SPT
+output-gpt-4-1106-preview-913.txt	mismatch	target: surface IgE	output: surface IgE and environmental allergens complex
+output-gpt-4-1106-preview-914.txt	match	target: DSIF	output: DSIF
+output-gpt-4-1106-preview-915.txt	match	target: VCB	output: VCB
+output-gpt-4-1106-preview-916.txt	match	target: interleukin-2 receptor	output: interleukin-2 receptor
+output-gpt-4-1106-preview-917.txt	match	target: p28	output: p28
+output-gpt-4-1106-preview-918.txt	match	target: Fc-epsilon receptor I	output: Fc-epsilon receptor I
+output-gpt-4-1106-preview-919.txt	mismatch	target: mt-SSU	output: electron transport chain (ETC)
+output-gpt-4-1106-preview-92.txt	match	target: Toc	output: Toc complex
+output-gpt-4-1106-preview-920.txt	match	target: Fcj1	output: Fcj1
+output-gpt-4-1106-preview-921.txt	match	target: LLC	output: LLC
+output-gpt-4-1106-preview-922.txt	match	target: IFT-B	output: IFT-B
+output-gpt-4-1106-preview-923.txt	match	target: laminin-3A32	output: Laminin-3A32
+output-gpt-4-1106-preview-924.txt	match	target: AREX	output: AREX protein complex
+output-gpt-4-1106-preview-925.txt	match	target: HSC	output: HSC complex
+output-gpt-4-1106-preview-926.txt	match	target: IL-3 receptor	output: IL-3 receptor
+output-gpt-4-1106-preview-927.txt	match	target: Kir6.2-SUR	output: Kir6.2-SUR protein complex
+output-gpt-4-1106-preview-928.txt	match	target: electron transport complex II	output: Electron transport complex II
+output-gpt-4-1106-preview-929.txt	match	target: sgaTBA	output: sgaTBA
+output-gpt-4-1106-preview-93.txt	match	target: phenylacetyl-CoA 1,2-epoxidase	output: phenylacetyl-CoA 1,2-epoxidase complex
+output-gpt-4-1106-preview-930.txt	match	target: Tenascin-R	output: Tenascin-R
+output-gpt-4-1106-preview-931.txt	match	target: interleukin-23 receptor	output: interleukin-23 receptor
+output-gpt-4-1106-preview-932.txt	match	target: necrosome	output: necrosome
+output-gpt-4-1106-preview-933.txt	match	target: Dissolvasome	output: Dissolvasome complex
+output-gpt-4-1106-preview-934.txt	mismatch	target: membrane-bound IgD	output: IgD
+output-gpt-4-1106-preview-935.txt	match	target: RFC	output: RFC
+output-gpt-4-1106-preview-936.txt	mismatch	target: GATOR1	output: ['GATOR1 protein complex', 'mTOR complex 1 (mTORC1)']
+output-gpt-4-1106-preview-937.txt	match	target: ATAC	output: ATAC
+output-gpt-4-1106-preview-938.txt	match	target: GIM	output: GIM protein complex
+output-gpt-4-1106-preview-939.txt	match	target: NUMAC	output: NUMAC
+output-gpt-4-1106-preview-94.txt	mismatch	target: photosystem IIs	output: Photosystem II
+output-gpt-4-1106-preview-940.txt	match	target: IL-10-receptor	output: IL-10-receptor
+output-gpt-4-1106-preview-941.txt	match	target: IL-1 receptor	output: IL-1 receptor
+output-gpt-4-1106-preview-942.txt	match	target: HULC	output: HULC
+output-gpt-4-1106-preview-943.txt	match	target: TauD	output: TauD
+output-gpt-4-1106-preview-944.txt	match	target: HslVU protease	output: HslVU protease complex
+output-gpt-4-1106-preview-945.txt	match	target: IL-23 receptor	output: IL-23 receptor
+output-gpt-4-1106-preview-946.txt	mismatch	target: APOBEC	output: APOBEC-Vif
+output-gpt-4-1106-preview-947.txt	match	target: FcgRI	output: FcgRI
+output-gpt-4-1106-preview-948.txt	match	target: Hyd-3	output: Hyd-3 protein complex
+output-gpt-4-1106-preview-949.txt	match	target: COMPASS	output: COMPASS protein complex
+output-gpt-4-1106-preview-95.txt	match	target: CDL4	output: CDL4
+output-gpt-4-1106-preview-950.txt	match	target: inhibin B	output: inhibin B
+output-gpt-4-1106-preview-951.txt	match	target: GMPR2	output: GMPR2
+output-gpt-4-1106-preview-952.txt	mismatch	target: RSF	output: RSF (Remodeling and Spacing Factor)
+output-gpt-4-1106-preview-953.txt	match	target: invertasome	output: invertasome
+output-gpt-4-1106-preview-954.txt	match	target: caseinolytic protease X	output: Caseinolytic protease X
+output-gpt-4-1106-preview-955.txt	match	target: AHCR	output: AHCR protein complex
+output-gpt-4-1106-preview-956.txt	match	target: LsrACDB	output: LsrACDB
+output-gpt-4-1106-preview-957.txt	match	target: PET	output: PET
+output-gpt-4-1106-preview-958.txt	match	target: Nic96	output: Nic96 protein complex
+output-gpt-4-1106-preview-959.txt	match	target: RZZ	output: RZZ complex
+output-gpt-4-1106-preview-96.txt	match	target: NAD(P)H dehydrogenase complex (plastoquinone)	output: NAD(P)H dehydrogenase complex (plastoquinone)
+output-gpt-4-1106-preview-960.txt	match	target: MCM4/6/7	output: MCM4/6/7 complex
+output-gpt-4-1106-preview-961.txt	match	target: THSC	output: THSC
+output-gpt-4-1106-preview-962.txt	mismatch	target: interleukin-6 receptor	output: Interleukin-6 receptor (IL-6R)
+output-gpt-4-1106-preview-963.txt	match	target: U12-type prespliceosome	output: U12-type prespliceosome
+output-gpt-4-1106-preview-964.txt	match	target: DX2	output: DX2
+output-gpt-4-1106-preview-965.txt	match	target: FcaRI	output: FcaRI protein complex
+output-gpt-4-1106-preview-966.txt	match	target: TRAPP1	output: TRAPP1
+output-gpt-4-1106-preview-967.txt	mismatch	target: BLOC-1	output: ['BLOC-1 complex', 'Hermansky-Pudlak Syndrome']
+output-gpt-4-1106-preview-968.txt	match	target: ACF	output: ACF
+output-gpt-4-1106-preview-969.txt	match	target: F1-Fo ATP synthase	output: F1-Fo ATP synthase
+output-gpt-4-1106-preview-97.txt	match	target: SWI/SNF-B	output: SWI/SNF-B complex
+output-gpt-4-1106-preview-970.txt	match	target: NifS	output: NifS
+output-gpt-4-1106-preview-971.txt	match	target: SAT	output: SAT protein complex
+output-gpt-4-1106-preview-972.txt	match	target: calpain	output: Calpain
+output-gpt-4-1106-preview-973.txt	match	target: cohesin	output: Cohesin
+output-gpt-4-1106-preview-974.txt	match	target: SPC	output: SPC
+output-gpt-4-1106-preview-975.txt	match	target: 3M	output: 3M protein complex
+output-gpt-4-1106-preview-976.txt	match	target: EAL	output: EAL
+output-gpt-4-1106-preview-977.txt	match	target: MPTP	output: MPTP
+output-gpt-4-1106-preview-978.txt	match	target: protein kinase 5	output: protein kinase 5
+output-gpt-4-1106-preview-979.txt	match	target: RNAPIII	output: RNAPIII
+output-gpt-4-1106-preview-98.txt	match	target: SC5b-7	output: SC5b-7
+output-gpt-4-1106-preview-980.txt	match	target: Paf1	output: Paf1 complex
+output-gpt-4-1106-preview-981.txt	match	target: matrilin-1	output: matrilin-1
+output-gpt-4-1106-preview-982.txt	mismatch	target: flavocytochrome b558	output: NADPH oxidase
+output-gpt-4-1106-preview-983.txt	match	target: SAE	output: SAE protein complex
+output-gpt-4-1106-preview-984.txt	match	target: TINTIN	output: TINTIN
+output-gpt-4-1106-preview-985.txt	match	target: COMPASSs	output: COMPASSs complex
+output-gpt-4-1106-preview-986.txt	match	target: IDH3	output: IDH3
+output-gpt-4-1106-preview-987.txt	match	target: SsuD	output: SsuD
+output-gpt-4-1106-preview-988.txt	match	target: IgE immunoglobulin	output: IgE immunoglobulin
+output-gpt-4-1106-preview-989.txt	mismatch	target: VTC	output: ['VTC complex', '']
+output-gpt-4-1106-preview-99.txt	match	target: WASH	output: WASH
+output-gpt-4-1106-preview-990.txt	match	target: cytochrome bc(1)	output: Cytochrome bc(1) complex
+output-gpt-4-1106-preview-991.txt	mismatch	target: MICOSs	output: MITOCHONDRIAL CONTACT SITE AND CRISTAE ORGANIZING SYSTEM (MICOS)
+output-gpt-4-1106-preview-992.txt	match	target: interleukin-20 receptor	output: interleukin-20 receptor
+output-gpt-4-1106-preview-993.txt	mismatch	target: IL-12	output: Interleukin-12
+output-gpt-4-1106-preview-994.txt	mismatch	target: NoRC	output: nucleolar remodeling complex (NoRC)
+output-gpt-4-1106-preview-995.txt	match	target: EKC	output: EKC
+output-gpt-4-1106-preview-996.txt	match	target: IDH	output: IDH protein complex
+output-gpt-4-1106-preview-997.txt	match	target: SufS	output: SufS
+output-gpt-4-1106-preview-998.txt	match	target: laminin-4	output: laminin-4
+output-gpt-4-1106-preview-999.txt	match	target: E-RTC	output: E-RTC
