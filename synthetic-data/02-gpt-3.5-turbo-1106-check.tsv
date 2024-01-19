@@ -1,0 +1,1000 @@
+output-gpt-3.5-turbo-1106-0.txt	mismatch	target: WASH-C	output: ['WASH complex (WASH-C)', 'retromer', 'ARP2/3 complex']
+output-gpt-3.5-turbo-1106-1.txt	match	target: alpha3-beta1 integrin	output: alpha3-beta1 integrin
+output-gpt-3.5-turbo-1106-10.txt	match	target: TAP	output: TAP complex
+output-gpt-3.5-turbo-1106-100.txt	match	target: Nup82	output: Nup82 protein complex
+output-gpt-3.5-turbo-1106-101.txt	match	target: calcineurin	output: Calcineurin protein complex
+output-gpt-3.5-turbo-1106-102.txt	mismatch	target: LUBAC	output: Linear ubiquitin chain assembly complex (LUBAC)
+output-gpt-3.5-turbo-1106-103.txt	mismatch	target: OEC (PSII)	output: Oxygen Evolving Complex (PSII)
+output-gpt-3.5-turbo-1106-104.txt	match	target: IL-7 receptor	output: IL-7 receptor
+output-gpt-3.5-turbo-1106-105.txt	mismatch	target: HUalpha	output: ['HUalpha', 'PcrV']
+output-gpt-3.5-turbo-1106-106.txt	mismatch	target: 5HT-3A receptor	output: Cys-loop superfamily
+output-gpt-3.5-turbo-1106-107.txt	match	target: B9	output: B9 protein complex
+output-gpt-3.5-turbo-1106-108.txt	match	target: PGH	output: PGH protein complex
+output-gpt-3.5-turbo-1106-109.txt	match	target: 5HT3A-R	output: 5HT3A-R protein complex
+output-gpt-3.5-turbo-1106-11.txt	mismatch	target: membrane-bound IgA	output: 1. Membrane-bound IgA
+output-gpt-3.5-turbo-1106-110.txt	mismatch	target: TriC	output: Chaperonin-containing T-complex protein-1 (TriC)
+output-gpt-3.5-turbo-1106-111.txt	match	target: extracellular ferritin	output: Extracellular ferritin
+output-gpt-3.5-turbo-1106-112.txt	match	target: MKS	output: MKS protein complex
+output-gpt-3.5-turbo-1106-113.txt	mismatch	target: energy coupling factor (ECF)-type ABC transporter	output: ECF-type ABC transporter
+output-gpt-3.5-turbo-1106-114.txt	match	target: CDL2	output: CDL2 protein complex
+output-gpt-3.5-turbo-1106-115.txt	match	target: serpin	output: serpin protein complex
+output-gpt-3.5-turbo-1106-116.txt	match	target: UvrABC excinuclease	output: UvrABC excinuclease
+output-gpt-3.5-turbo-1106-117.txt	mismatch	target: R2TP	output: ['R2TP protein complex', 'HSP90']
+output-gpt-3.5-turbo-1106-118.txt	match	target: IML1	output: IML1 protein complex
+output-gpt-3.5-turbo-1106-119.txt	match	target: alpha-beta TCR	output: alpha-beta TCR protein complex
+output-gpt-3.5-turbo-1106-12.txt	match	target: replisome	output: replisome
+output-gpt-3.5-turbo-1106-120.txt	match	target: eNoSc	output: eNoSc protein complex
+output-gpt-3.5-turbo-1106-121.txt	match	target: NACA	output: NACA protein complex
+output-gpt-3.5-turbo-1106-122.txt	match	target: PeBoW	output: PeBoW protein complex
+output-gpt-3.5-turbo-1106-123.txt	match	target: Swm1/2	output: Swm1/2 complex
+output-gpt-3.5-turbo-1106-124.txt	match	target: alpha-glucosidase II	output: alpha-glucosidase II
+output-gpt-3.5-turbo-1106-125.txt	mismatch	target: MAT	output: ['MAT protein complex', 'adenosylmethionine synthetase', 'cystathionine beta-synthase']
+output-gpt-3.5-turbo-1106-126.txt	match	target: RDRC	output: RDRC protein complex
+output-gpt-3.5-turbo-1106-127.txt	match	target: FACT	output: FACT
+output-gpt-3.5-turbo-1106-128.txt	mismatch	target: AHAS	output: Acetohydroxy acid synthase (AHAS) protein complex
+output-gpt-3.5-turbo-1106-129.txt	match	target: HAUS	output: HAUS protein complex
+output-gpt-3.5-turbo-1106-13.txt	match	target: MRN	output: MRN protein complex
+output-gpt-3.5-turbo-1106-130.txt	mismatch	target: ADPG pyrophosphorylase	output: ADPG pyrophosphorylase (ADPG-P) protein complex
+output-gpt-3.5-turbo-1106-131.txt	match	target: CAF-1	output: CAF-1
+output-gpt-3.5-turbo-1106-132.txt	match	target: CHEVI tethering	output: CHEVI tethering protein complex
+output-gpt-3.5-turbo-1106-133.txt	match	target: eIF2	output: eIF2 protein complex
+output-gpt-3.5-turbo-1106-134.txt	mismatch	target: laminin-421	output: ['laminin-421', 'integrins']
+output-gpt-3.5-turbo-1106-135.txt	match	target: ABI	output: ABI protein complex
+output-gpt-3.5-turbo-1106-136.txt	match	target: collagen type IV trimer	output: collagen type IV trimer
+output-gpt-3.5-turbo-1106-137.txt	match	target: channel-forming toxin	output: channel-forming toxin
+output-gpt-3.5-turbo-1106-138.txt	match	target: fibrinogen gamma chain	output: fibrinogen gamma chain
+output-gpt-3.5-turbo-1106-139.txt	match	target: 90S preribosome	output: 90S preribosome
+output-gpt-3.5-turbo-1106-14.txt	match	target: CRL5	output: CRL5 protein complex
+output-gpt-3.5-turbo-1106-140.txt	match	target: centralspindlin	output: centralspindlin
+output-gpt-3.5-turbo-1106-141.txt	match	target: gamma-delta T cell receptor	output: gamma-delta T cell receptor
+output-gpt-3.5-turbo-1106-142.txt	match	target: GimC	output: GimC protein complex
+output-gpt-3.5-turbo-1106-143.txt	mismatch	target: T cell receptor	output: ['- T cell receptor (TCR)', '- major histocompatibility complex (MHC)']
+output-gpt-3.5-turbo-1106-144.txt	match	target: GABA transaminase	output: GABA transaminase protein complex
+output-gpt-3.5-turbo-1106-145.txt	mismatch	target: ESCRT3	output: Endosomal sorting complex required for transport 3 (ESCRT3) complex
+output-gpt-3.5-turbo-1106-146.txt	match	target: editosome	output: Editosome
+output-gpt-3.5-turbo-1106-147.txt	match	target: TGF-betal	output: TGF-betal protein complex
+output-gpt-3.5-turbo-1106-148.txt	match	target: NatC	output: NatC complex
+output-gpt-3.5-turbo-1106-149.txt	match	target: Ferric coprogen receptor	output: Ferric coprogen receptor
+output-gpt-3.5-turbo-1106-15.txt	match	target: MPCFERM	output: MPCFERM
+output-gpt-3.5-turbo-1106-150.txt	match	target: surface IgG2b	output: surface IgG2b
+output-gpt-3.5-turbo-1106-151.txt	match	target: GPI-MT-I	output: GPI-MT-I protein complex
+output-gpt-3.5-turbo-1106-152.txt	match	target: respiratory chain complex IV	output: respiratory chain complex IV
+output-gpt-3.5-turbo-1106-153.txt	mismatch	target: Serine/threonine-protein phosphatase 2A	output: Serine/threonine-protein phosphatase 2A (PP2A) complex
+output-gpt-3.5-turbo-1106-154.txt	mismatch	target: Brahma-associated factor	output: Brahma-associated factor (BAF) protein complex
+output-gpt-3.5-turbo-1106-155.txt	match	target: phycobilisome	output: phycobilisome
+output-gpt-3.5-turbo-1106-156.txt	match	target: MTB	output: MTB complex
+output-gpt-3.5-turbo-1106-157.txt	mismatch	target: surface IgD	output: B cell receptor complex
+output-gpt-3.5-turbo-1106-158.txt	match	target: mglABC	output: mglABC protein complex
+output-gpt-3.5-turbo-1106-159.txt	match	target: VLA-3	output: VLA-3 protein complex
+output-gpt-3.5-turbo-1106-16.txt	match	target: dynein	output: dynein protein complex
+output-gpt-3.5-turbo-1106-160.txt	match	target: inhibin beta-B	output: inhibin beta-B
+output-gpt-3.5-turbo-1106-161.txt	mismatch	target: T3SS	output: Type III secretion system (T3SS)
+output-gpt-3.5-turbo-1106-162.txt	match	target: PDHE1	output: PDHE1 protein complex
+output-gpt-3.5-turbo-1106-163.txt	match	target: Swm	output: Swm
+output-gpt-3.5-turbo-1106-164.txt	mismatch	target: 5-hydroxytryptamine receptor 3	output: 5-hydroxytryptamine receptor 3 (5-HT3 receptor)
+output-gpt-3.5-turbo-1106-165.txt	mismatch	target: polycystin	output: ['- mTOR pathway', '- polycystin']
+output-gpt-3.5-turbo-1106-166.txt	match	target: LPS receptor	output: LPS receptor
+output-gpt-3.5-turbo-1106-167.txt	match	target: axonemal dynein light chain	output: axonemal dynein light chain
+output-gpt-3.5-turbo-1106-168.txt	match	target: AHRC	output: AHRC protein complex
+output-gpt-3.5-turbo-1106-169.txt	mismatch	target: SAT-OASS	output: Sulfur aminotransferase-O-acetylserine(thiol)lyase (SAT-OASS) complex
+output-gpt-3.5-turbo-1106-17.txt	match	target: UTP-A	output: UTP-A complex
+output-gpt-3.5-turbo-1106-170.txt	match	target: RDC	output: RDC protein complex
+output-gpt-3.5-turbo-1106-171.txt	match	target: HslUV protease	output: HslUV protease
+output-gpt-3.5-turbo-1106-172.txt	mismatch	target: Biogenesis of lysosome-related organelles complex 1	output: Biogenesis of Lysosome-Related Organelles Complex 1 (BLOC-1)
+output-gpt-3.5-turbo-1106-173.txt	mismatch	target: TGFbetal	output: ['- NF-kB', '- TGFbetal']
+output-gpt-3.5-turbo-1106-174.txt	match	target: 5-hydroxyisourate hydrolase	output: 5-hydroxyisourate hydrolase protein complex
+output-gpt-3.5-turbo-1106-175.txt	match	target: enhanceosome	output: enhanceosome
+output-gpt-3.5-turbo-1106-176.txt	match	target: GDC	output: GDC protein complex
+output-gpt-3.5-turbo-1106-177.txt	match	target: ClpAP protease	output: ClpAP protease complex
+output-gpt-3.5-turbo-1106-178.txt	match	target: connexon	output: connexon protein complex
+output-gpt-3.5-turbo-1106-179.txt	match	target: STAGA	output: STAGA protein complex
+output-gpt-3.5-turbo-1106-18.txt	mismatch	target: Adenosylcobalamin-dependent ethanolamine ammonia-lyase	output: Adenosylcobalamin-dependent ethanolamine ammonia-lyase (EAL) complex
+output-gpt-3.5-turbo-1106-180.txt	match	target: Bag6	output: Bag6
+output-gpt-3.5-turbo-1106-181.txt	mismatch	target: membrane-bound IgG2b	output: IgG2b protein complex
+output-gpt-3.5-turbo-1106-182.txt	match	target: IgM	output: IgM protein complex
+output-gpt-3.5-turbo-1106-183.txt	match	target: RC	output: RC protein complex
+output-gpt-3.5-turbo-1106-184.txt	match	target: GARP	output: GARP protein complex
+output-gpt-3.5-turbo-1106-185.txt	mismatch	target: Cystine/glutamate antiporter system xc	output: ['The specific names of protein-containing complexes mentioned in the text are:', '', '1. Cystine/glutamate antiporter system xc']
+output-gpt-3.5-turbo-1106-186.txt	match	target: Kininogenin	output: Kininogenin
+output-gpt-3.5-turbo-1106-187.txt	mismatch	target: divisome	output: ['FtsZ', 'FtsA', 'FtsI']
+output-gpt-3.5-turbo-1106-188.txt	match	target: PA700-dependent proteasome activator	output: PA700-dependent proteasome activator
+output-gpt-3.5-turbo-1106-189.txt	match	target: F1-F0	output: F1-F0
+output-gpt-3.5-turbo-1106-19.txt	match	target: FAR	output: FAR protein complex
+output-gpt-3.5-turbo-1106-190.txt	match	target: holo-RdRp	output: holo-RdRp
+output-gpt-3.5-turbo-1106-191.txt	match	target: IgG2c	output: IgG2c protein complex
+output-gpt-3.5-turbo-1106-192.txt	match	target: ATG1 kinase	output: ATG1 kinase
+output-gpt-3.5-turbo-1106-193.txt	match	target: MSL	output: MSL protein complex
+output-gpt-3.5-turbo-1106-194.txt	match	target: alpha-beta T cell receptor	output: alpha-beta T cell receptor
+output-gpt-3.5-turbo-1106-195.txt	match	target: 5FMC	output: 5FMC protein complex
+output-gpt-3.5-turbo-1106-196.txt	match	target: DNA-directed RNA polymerase V	output: DNA-directed RNA polymerase V
+output-gpt-3.5-turbo-1106-197.txt	match	target: ESCRT I	output: ESCRT I
+output-gpt-3.5-turbo-1106-198.txt	match	target: LMA1	output: LMA1 protein complex
+output-gpt-3.5-turbo-1106-199.txt	match	target: fhuCDB	output: fhuCDB protein complex
+output-gpt-3.5-turbo-1106-2.txt	mismatch	target: eukaryotic translation initiation factor 2	output: eukaryotic translation initiation factor 2 (eIF2)
+output-gpt-3.5-turbo-1106-20.txt	match	target: PDGF-AB-receptor alpha	output: PDGF-AB-receptor alpha protein complex
+output-gpt-3.5-turbo-1106-200.txt	match	target: KICSTOR	output: KICSTOR
+output-gpt-3.5-turbo-1106-201.txt	match	target: PhnCDE	output: PhnCDE
+output-gpt-3.5-turbo-1106-202.txt	match	target: scADA	output: scADA
+output-gpt-3.5-turbo-1106-203.txt	match	target: RITS	output: RITS complex
+output-gpt-3.5-turbo-1106-204.txt	match	target: Hydrogenase-2	output: Hydrogenase-2
+output-gpt-3.5-turbo-1106-205.txt	match	target: Kinetochore CCAN	output: Kinetochore CCAN
+output-gpt-3.5-turbo-1106-206.txt	match	target: ABC lipid flippase MsbA	output: ABC lipid flippase MsbA
+output-gpt-3.5-turbo-1106-207.txt	mismatch	target: ESCRT II	output: ['Endosomal sorting complex required for transport (ESCRT)', 'ESCRT II', 'Hrs protein']
+output-gpt-3.5-turbo-1106-208.txt	match	target: SARS-CoV 9b	output: SARS-CoV 9b protein complex
+output-gpt-3.5-turbo-1106-209.txt	match	target: TRAPP	output: TRAPP protein complex
+output-gpt-3.5-turbo-1106-21.txt	match	target: semaphorin receptor	output: Semaphorin receptor
+output-gpt-3.5-turbo-1106-210.txt	match	target: MutLalpha	output: MutLalpha
+output-gpt-3.5-turbo-1106-211.txt	match	target: Choriogonadotropin	output: Choriogonadotropin
+output-gpt-3.5-turbo-1106-212.txt	match	target: GT-AG spliceosome	output: GT-AG spliceosome
+output-gpt-3.5-turbo-1106-213.txt	match	target: MSA	output: MSA protein complex
+output-gpt-3.5-turbo-1106-214.txt	match	target: Tim22	output: Tim22
+output-gpt-3.5-turbo-1106-215.txt	match	target: mitofilin	output: Mitofilin
+output-gpt-3.5-turbo-1106-216.txt	match	target: NMS	output: NMS protein complex
+output-gpt-3.5-turbo-1106-217.txt	mismatch	target: protein phosphatase 2	output: Protein phosphatase 2 (PP2)
+output-gpt-3.5-turbo-1106-218.txt	match	target: IL-10 receptor	output: IL-10 receptor
+output-gpt-3.5-turbo-1106-219.txt	match	target: cytosolic large ribosomal subunit	output: Cytosolic large ribosomal subunit
+output-gpt-3.5-turbo-1106-22.txt	match	target: thrombospondin	output: thrombospondin protein complex
+output-gpt-3.5-turbo-1106-220.txt	match	target: GII	output: GII protein complex
+output-gpt-3.5-turbo-1106-221.txt	match	target: TAK	output: TAK protein complex
+output-gpt-3.5-turbo-1106-222.txt	match	target: SF3B	output: SF3B protein complex
+output-gpt-3.5-turbo-1106-223.txt	match	target: CPSase A	output: CPSase A
+output-gpt-3.5-turbo-1106-224.txt	mismatch	target: NDH-I	output: NADH dehydrogenase I (NDH-I) complex
+output-gpt-3.5-turbo-1106-225.txt	match	target: IscA	output: IscA protein complex
+output-gpt-3.5-turbo-1106-226.txt	match	target: brahma	output: brahma protein complex
+output-gpt-3.5-turbo-1106-227.txt	mismatch	target: Polycomb repressive complex 1	output: Polycomb repressive complex 1 (PRC1)
+output-gpt-3.5-turbo-1106-228.txt	mismatch	target: IL7 receptor	output: ['Interleukin-7 receptor (IL7 receptor)', 'IL7Rα', 'common gamma chain (γc)']
+output-gpt-3.5-turbo-1106-229.txt	match	target: TOB	output: TOB protein complex
+output-gpt-3.5-turbo-1106-23.txt	match	target: NAD(P)H-dependent FMN reductase	output: NAD(P)H-dependent FMN reductase
+output-gpt-3.5-turbo-1106-230.txt	match	target: alpha5-beta1 integrin	output: alpha5-beta1 integrin
+output-gpt-3.5-turbo-1106-231.txt	match	target: ThiFS	output: ThiFS protein complex
+output-gpt-3.5-turbo-1106-232.txt	match	target: paraferritin	output: paraferritin
+output-gpt-3.5-turbo-1106-233.txt	match	target: Something About Silencing	output: Something About Silencing protein complex
+output-gpt-3.5-turbo-1106-234.txt	match	target: light harvesting complex I	output: light harvesting complex I
+output-gpt-3.5-turbo-1106-235.txt	mismatch	target: CPC	output: ['- Chromosomal passenger complex (CPC)', '- Aurora B kinase', '- INCENP', '- Survivin', '- Borealin']
+output-gpt-3.5-turbo-1106-236.txt	match	target: CTDK-I	output: CTDK-I
+output-gpt-3.5-turbo-1106-237.txt	match	target: PEP-B	output: PEP-B protein complex
+output-gpt-3.5-turbo-1106-238.txt	match	target: NPHP	output: NPHP protein complex
+output-gpt-3.5-turbo-1106-239.txt	match	target: H-gal-GP	output: H-gal-GP protein complex
+output-gpt-3.5-turbo-1106-24.txt	match	target: Derlin-1-VIMP	output: Derlin-1-VIMP protein complex
+output-gpt-3.5-turbo-1106-240.txt	match	target: Fibrin	output: Fibrin protein complex
+output-gpt-3.5-turbo-1106-241.txt	match	target: collagen type VI trimer	output: Collagen type VI trimer
+output-gpt-3.5-turbo-1106-242.txt	match	target: apical TBC	output: apical TBC protein complex
+output-gpt-3.5-turbo-1106-243.txt	mismatch	target: Sec6/8	output: ['Sec6/8 protein complex', 'exocyst']
+output-gpt-3.5-turbo-1106-244.txt	match	target: H2ase 1	output: H2ase 1
+output-gpt-3.5-turbo-1106-245.txt	mismatch	target: YdcSTUV	output: ['YdcSTUV protein complex', 'OxyR transcription factor']
+output-gpt-3.5-turbo-1106-246.txt	match	target: FtsBL	output: FtsBL protein complex
+output-gpt-3.5-turbo-1106-247.txt	mismatch	target: Biotin-dependent acetyl-coenzyme A carboxylase	output: Biotin-dependent acetyl-coenzyme A carboxylase (Biotin-ACC)
+output-gpt-3.5-turbo-1106-248.txt	mismatch	target: inflammasomes	output: NLRP3 inflammasome
+output-gpt-3.5-turbo-1106-249.txt	match	target: editosomes	output: editosomes
+output-gpt-3.5-turbo-1106-25.txt	match	target: MCM core	output: MCM core complex
+output-gpt-3.5-turbo-1106-250.txt	match	target: STR	output: STR protein complex
+output-gpt-3.5-turbo-1106-251.txt	mismatch	target: methylosome	output: The methylosome
+output-gpt-3.5-turbo-1106-252.txt	match	target: embryonic stem cell-specific BAF	output: embryonic stem cell-specific BAF complex
+output-gpt-3.5-turbo-1106-253.txt	mismatch	target: LInker of Nucleoskeleton and Cytoskeleton	output: LInker of Nucleoskeleton and Cytoskeleton (LINC) complex
+output-gpt-3.5-turbo-1106-254.txt	match	target: APOBECs	output: APOBECs protein complex
+output-gpt-3.5-turbo-1106-255.txt	match	target: MKS module	output: MKS module
+output-gpt-3.5-turbo-1106-256.txt	match	target: SEACAT	output: SEACAT protein complex
+output-gpt-3.5-turbo-1106-257.txt	mismatch	target: BMP receptors	output: ExBMP-42
+output-gpt-3.5-turbo-1106-258.txt	match	target: Set3	output: Set3 protein complex
+output-gpt-3.5-turbo-1106-259.txt	match	target: TGFB	output: TGFB protein complex
+output-gpt-3.5-turbo-1106-26.txt	match	target: MPF	output: MPF
+output-gpt-3.5-turbo-1106-260.txt	match	target: RNAPII	output: RNAPII protein complex
+output-gpt-3.5-turbo-1106-261.txt	match	target: Flexilin	output: Flexilin
+output-gpt-3.5-turbo-1106-262.txt	mismatch	target: MACIT	output: Membrane attack complex inhibitory protein complex (MACIT)
+output-gpt-3.5-turbo-1106-263.txt	match	target: AMT1	output: AMT1 protein complex
+output-gpt-3.5-turbo-1106-264.txt	match	target: GPI-GnT	output: GPI-GnT protein complex
+output-gpt-3.5-turbo-1106-265.txt	mismatch	target: NAC	output: ['NAC protein complex', 'HSP70', 'HSP90']
+output-gpt-3.5-turbo-1106-266.txt	match	target: Abetal	output: Abetal
+output-gpt-3.5-turbo-1106-267.txt	match	target: Isw1b	output: Isw1b protein complex
+output-gpt-3.5-turbo-1106-268.txt	match	target: FO-synthase	output: FO-synthase
+output-gpt-3.5-turbo-1106-269.txt	match	target: NADH:plastoquinone reductase	output: NADH:plastoquinone reductase
+output-gpt-3.5-turbo-1106-27.txt	mismatch	target: nucleotide-excision repair factor 1	output: 1. Nucleotide-excision repair factor 1 (NERF1)
+output-gpt-3.5-turbo-1106-270.txt	mismatch	target: IHF	output: Integration Host Factor (IHF)
+output-gpt-3.5-turbo-1106-271.txt	mismatch	target: SWItch/Sucrose Non-Fermentable	output: SWItch/Sucrose Non-Fermentable (SWI/SNF) protein complex
+output-gpt-3.5-turbo-1106-272.txt	match	target: gammaTuSC	output: gammaTuSC complex
+output-gpt-3.5-turbo-1106-273.txt	mismatch	target: Imitation switch two	output: Imitation Switch Two (ISW2) protein complex
+output-gpt-3.5-turbo-1106-274.txt	match	target: NADH-Q6 oxidoreductase	output: NADH-Q6 oxidoreductase complex
+output-gpt-3.5-turbo-1106-275.txt	match	target: IL23A	output: IL23A protein complex
+output-gpt-3.5-turbo-1106-276.txt	match	target: RMX	output: RMX protein complex
+output-gpt-3.5-turbo-1106-277.txt	mismatch	target: potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2	output: Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2 (HCN2)
+output-gpt-3.5-turbo-1106-278.txt	match	target: PDGF-AA-receptor alpha	output: PDGF-AA-receptor alpha complex
+output-gpt-3.5-turbo-1106-279.txt	mismatch	target: Snf1 serine/threonine protein kinase	output: AMP-activated protein kinase
+output-gpt-3.5-turbo-1106-28.txt	match	target: mitochondrial ribosomal small subunit	output: mitochondrial ribosomal small subunit
+output-gpt-3.5-turbo-1106-280.txt	match	target: Hrs/STAM	output: Hrs/STAM protein complex
+output-gpt-3.5-turbo-1106-281.txt	match	target: 30S ribosomal subunit	output: 30S ribosomal subunit
+output-gpt-3.5-turbo-1106-282.txt	match	target: PaoABC periplasmic aldehyde oxidoreductase	output: PaoABC periplasmic aldehyde oxidoreductase complex
+output-gpt-3.5-turbo-1106-283.txt	match	target: MECO	output: MECO protein complex
+output-gpt-3.5-turbo-1106-284.txt	mismatch	target: mitochondrial ribonuclease P	output: mitochondrial ribonuclease P (mtRNase P)
+output-gpt-3.5-turbo-1106-285.txt	match	target: CoQ-synthome	output: CoQ-synthome
+output-gpt-3.5-turbo-1106-286.txt	match	target: ripoptosome	output: ripoptosome
+output-gpt-3.5-turbo-1106-287.txt	match	target: MMM1	output: MMM1
+output-gpt-3.5-turbo-1106-288.txt	match	target: alpha7-beta1 integrin	output: alpha7-beta1 integrin
+output-gpt-3.5-turbo-1106-289.txt	match	target: Ribosome-ST	output: Ribosome-ST protein complex
+output-gpt-3.5-turbo-1106-29.txt	mismatch	target: NF-kappaBs	output: ['NF-kappaBs', 'PI3K/Akt pathway']
+output-gpt-3.5-turbo-1106-290.txt	match	target: SALSA	output: SALSA protein complex
+output-gpt-3.5-turbo-1106-291.txt	match	target: glutamine amidotransferase II	output: Glutamine amidotransferase II
+output-gpt-3.5-turbo-1106-292.txt	mismatch	target: 20S core	output: ['20S core', 'ubiquitin-proteasome system']
+output-gpt-3.5-turbo-1106-293.txt	match	target: ClpXP protease	output: ClpXP protease
+output-gpt-3.5-turbo-1106-294.txt	match	target: Paf1p	output: Paf1p protein complex
+output-gpt-3.5-turbo-1106-295.txt	match	target: SufA	output: SufA protein complex
+output-gpt-3.5-turbo-1106-296.txt	match	target: Thyrotropin	output: Thyrotropin
+output-gpt-3.5-turbo-1106-297.txt	match	target: CstF	output: CstF protein complex
+output-gpt-3.5-turbo-1106-298.txt	mismatch	target: glycoprotein Ib-IX-V	output: Glycoprotein Ib-IX-V (GPIb-IX-V)
+output-gpt-3.5-turbo-1106-299.txt	match	target: surface IgG2a	output: Surface IgG2a
+output-gpt-3.5-turbo-1106-3.txt	match	target: ProVWX	output: ProVWX
+output-gpt-3.5-turbo-1106-30.txt	match	target: prefoldin	output: Prefoldin protein complex
+output-gpt-3.5-turbo-1106-300.txt	mismatch	target: T6SS	output: Type VI Secretion System (T6SS)
+output-gpt-3.5-turbo-1106-301.txt	match	target: axonemal dynein	output: axonemal dynein
+output-gpt-3.5-turbo-1106-302.txt	match	target: RNAPI	output: RNAPI
+output-gpt-3.5-turbo-1106-303.txt	match	target: BCKDHC	output: BCKDHC protein complex
+output-gpt-3.5-turbo-1106-304.txt	mismatch	target: RNA polymerase II, core	output: RNA polymerase II core protein complex
+output-gpt-3.5-turbo-1106-305.txt	match	target: NALP3 inflammasome	output: NALP3 inflammasome
+output-gpt-3.5-turbo-1106-306.txt	match	target: laminin-221	output: Laminin-221
+output-gpt-3.5-turbo-1106-307.txt	match	target: YSiR	output: YSiR protein complex
+output-gpt-3.5-turbo-1106-308.txt	mismatch	target: DISC	output: death-inducing signaling complex (DISC)
+output-gpt-3.5-turbo-1106-309.txt	match	target: septin	output: Septin complex
+output-gpt-3.5-turbo-1106-31.txt	mismatch	target: GATOR2	output: ['GATOR2 protein complex', 'mTORC1']
+output-gpt-3.5-turbo-1106-310.txt	match	target: IgM immunoglobulin	output: IgM immunoglobulin
+output-gpt-3.5-turbo-1106-311.txt	match	target: IgNAR immunoglobulin	output: IgNAR immunoglobulin protein complex
+output-gpt-3.5-turbo-1106-312.txt	match	target: CPSF	output: CPSF protein complex
+output-gpt-3.5-turbo-1106-313.txt	match	target: CKII	output: CKII protein complex
+output-gpt-3.5-turbo-1106-314.txt	match	target: PUMA-BCL-2	output: PUMA-BCL-2 protein complex
+output-gpt-3.5-turbo-1106-315.txt	match	target: cytoplasmic dynein heavy chain	output: cytoplasmic dynein heavy chain
+output-gpt-3.5-turbo-1106-316.txt	match	target: BC3B	output: BC3B protein complex
+output-gpt-3.5-turbo-1106-317.txt	match	target: mSWI/SNF	output: mSWI/SNF
+output-gpt-3.5-turbo-1106-318.txt	match	target: GammaTuRC	output: GammaTuRC
+output-gpt-3.5-turbo-1106-319.txt	mismatch	target: Fc-gamma receptor I	output: Fc-gamma receptor I (FcγRI)
+output-gpt-3.5-turbo-1106-32.txt	mismatch	target: MPP	output: MPP (Mitochondrial Presequence Protease) complex
+output-gpt-3.5-turbo-1106-320.txt	mismatch	target: MICOS	output: Mitochondrial contact site and cristae organizing system (MICOS)
+output-gpt-3.5-turbo-1106-321.txt	match	target: condensin I	output: Condensin I
+output-gpt-3.5-turbo-1106-322.txt	match	target: SSR	output: SSR
+output-gpt-3.5-turbo-1106-323.txt	mismatch	target: HDL	output: High-density lipoprotein (HDL)
+output-gpt-3.5-turbo-1106-324.txt	mismatch	target: eukaryotic translation elongation factor 1	output: ['eukaryotic translation elongation factor 1 (eEF1)', 'amyloid beta peptides']
+output-gpt-3.5-turbo-1106-325.txt	match	target: DPNH-coenzyme Q reductase	output: DPNH-coenzyme Q reductase
+output-gpt-3.5-turbo-1106-326.txt	match	target: GGR	output: GGR protein complex
+output-gpt-3.5-turbo-1106-327.txt	match	target: MitOSs	output: MitOSs
+output-gpt-3.5-turbo-1106-328.txt	match	target: MalFGK(2)	output: MalFGK(2)
+output-gpt-3.5-turbo-1106-329.txt	match	target: VBC	output: VBC protein complex
+output-gpt-3.5-turbo-1106-33.txt	mismatch	target: cardiac PLB	output: PLB protein complex
+output-gpt-3.5-turbo-1106-330.txt	mismatch	target: WASP and Scar homologue	output: WASP and Scar homologue (WASH) protein complex
+output-gpt-3.5-turbo-1106-331.txt	match	target: YdcSTUV ABC transporter	output: YdcSTUV ABC transporter
+output-gpt-3.5-turbo-1106-332.txt	match	target: polkadots	output: polkadots protein complex
+output-gpt-3.5-turbo-1106-333.txt	match	target: respiratory chain complex III	output: respiratory chain complex III
+output-gpt-3.5-turbo-1106-334.txt	match	target: MIND	output: MIND protein complex
+output-gpt-3.5-turbo-1106-335.txt	mismatch	target: CHRAC	output: Chromatin accessibility complex (CHRAC)
+output-gpt-3.5-turbo-1106-336.txt	match	target: laminin-11	output: laminin-11
+output-gpt-3.5-turbo-1106-337.txt	mismatch	target: TCC	output: Terminal complement complex (TCC)
+output-gpt-3.5-turbo-1106-338.txt	match	target: outer dynein arm	output: Outer dynein arm protein complex
+output-gpt-3.5-turbo-1106-339.txt	match	target: BtuCDF	output: BtuCDF protein complex
+output-gpt-3.5-turbo-1106-34.txt	match	target: TCTC	output: TCTC protein complex
+output-gpt-3.5-turbo-1106-340.txt	mismatch	target: CRL	output: CRL (Cullin-RING E3 ubiquitin ligase) complex
+output-gpt-3.5-turbo-1106-341.txt	match	target: IF-2	output: IF-2
+output-gpt-3.5-turbo-1106-342.txt	mismatch	target: spectrin	output: ['Spectrin protein complex', 'Ankyrin', 'Band 3', 'Actin', 'Protein 4.1', 'Adducin']
+output-gpt-3.5-turbo-1106-343.txt	mismatch	target: interleukin-5 receptor	output: ['IL-5R', 'interleukin-5 receptor']
+output-gpt-3.5-turbo-1106-344.txt	match	target: HCN4 channel	output: HCN4 channel
+output-gpt-3.5-turbo-1106-345.txt	match	target: DNMT3B–3L	output: DNMT3B–3L protein complex
+output-gpt-3.5-turbo-1106-346.txt	match	target: polysome	output: polysome complex
+output-gpt-3.5-turbo-1106-347.txt	match	target: endoSceI	output: endoSceI protein complex
+output-gpt-3.5-turbo-1106-348.txt	match	target: MalFGK2	output: MalFGK2
+output-gpt-3.5-turbo-1106-349.txt	match	target: IgD immunoglobulins	output: IgD immunoglobulins
+output-gpt-3.5-turbo-1106-35.txt	match	target: SAS-I	output: SAS-I protein complex
+output-gpt-3.5-turbo-1106-350.txt	match	target: MARS	output: MARS protein complex
+output-gpt-3.5-turbo-1106-351.txt	mismatch	target: Geranylgeranyl transferase type II	output: Geranylgeranyl transferase type II (GGTII)
+output-gpt-3.5-turbo-1106-352.txt	match	target: MlaFEDB	output: MlaFEDB protein complex
+output-gpt-3.5-turbo-1106-353.txt	match	target: glyRS	output: glyRS protein complex
+output-gpt-3.5-turbo-1106-354.txt	match	target: Syp1	output: Syp1 protein complex
+output-gpt-3.5-turbo-1106-355.txt	mismatch	target: UvrBC	output: ['UvrBC protein complex', 'UvrA', 'UvrD']
+output-gpt-3.5-turbo-1106-356.txt	match	target: HA1	output: HA1
+output-gpt-3.5-turbo-1106-357.txt	mismatch	target: NPC	output: Nuclear Pore Complex (NPC)
+output-gpt-3.5-turbo-1106-358.txt	match	target: OppABCDF	output: OppABCDF protein complex
+output-gpt-3.5-turbo-1106-359.txt	match	target: polarisome	output: polarisome
+output-gpt-3.5-turbo-1106-36.txt	match	target: GIMC	output: GIMC protein complex
+output-gpt-3.5-turbo-1106-360.txt	match	target: nuclear pore	output: Nuclear pore complex
+output-gpt-3.5-turbo-1106-361.txt	match	target: RTC	output: RTC protein complex
+output-gpt-3.5-turbo-1106-362.txt	mismatch	target: nucleotide-excision repair factor 2	output: Nucleotide-excision repair factor 2 (NEF2)
+output-gpt-3.5-turbo-1106-363.txt	match	target: Intrinsic tenase	output: Intrinsic tenase complex
+output-gpt-3.5-turbo-1106-364.txt	match	target: mglBAC	output: mglBAC protein complex
+output-gpt-3.5-turbo-1106-365.txt	match	target: troponin	output: troponin protein complex
+output-gpt-3.5-turbo-1106-366.txt	match	target: IlvBN	output: IlvBN protein complex
+output-gpt-3.5-turbo-1106-367.txt	mismatch	target: Five Friends of Methylated Chtop	output: Five Friends of Methylated Chtop (5FMC) protein complex
+output-gpt-3.5-turbo-1106-368.txt	mismatch	target: RFA	output: Ribosome-inactivating factor RFA
+output-gpt-3.5-turbo-1106-369.txt	match	target: MMXD	output: MMXD protein complex
+output-gpt-3.5-turbo-1106-37.txt	mismatch	target: HDAC3	output: ['HDAC3', 'nuclear receptor corepressor (NCOR)', 'silencing mediator of retinoic and thyroid hormone receptors (SMRT)']
+output-gpt-3.5-turbo-1106-370.txt	match	target: N-terminal acetyltransferase B	output: N-terminal acetyltransferase B
+output-gpt-3.5-turbo-1106-371.txt	mismatch	target: interleukin-23	output: ['IL-23', 'IL-12']
+output-gpt-3.5-turbo-1106-372.txt	match	target: IL-5 receptor	output: IL-5 receptor
+output-gpt-3.5-turbo-1106-373.txt	match	target: VEGF-A	output: VEGF-A
+output-gpt-3.5-turbo-1106-374.txt	match	target: PGGT	output: PGGT
+output-gpt-3.5-turbo-1106-375.txt	match	target: Hydrogenase-1	output: hydrogenase-1 protein complex
+output-gpt-3.5-turbo-1106-376.txt	match	target: coatomer	output: coatomer
+output-gpt-3.5-turbo-1106-377.txt	mismatch	target: Baculoviral IAP repeat-containing protein 5	output: Baculoviral IAP repeat-containing protein 5 (BIRC5)
+output-gpt-3.5-turbo-1106-378.txt	mismatch	target: B875 antenna	output: ['B875 antenna', 'Light-harvesting complex']
+output-gpt-3.5-turbo-1106-379.txt	match	target: T lymphocyte receptor	output: T lymphocyte receptor
+output-gpt-3.5-turbo-1106-38.txt	match	target: Clr6 histone deacetylase complex II	output: Clr6 histone deacetylase complex II
+output-gpt-3.5-turbo-1106-380.txt	mismatch	target: ASTRA	output: ['ASTRA protein complex', '']
+output-gpt-3.5-turbo-1106-381.txt	match	target: VLA-5	output: VLA-5 protein complex
+output-gpt-3.5-turbo-1106-382.txt	match	target: IL-23	output: IL-23 protein complex
+output-gpt-3.5-turbo-1106-383.txt	match	target: Hydrogenase 4	output: Hydrogenase 4 protein complex
+output-gpt-3.5-turbo-1106-384.txt	match	target: NendoU	output: NendoU protein complex
+output-gpt-3.5-turbo-1106-385.txt	match	target: RSR	output: RSR protein complex
+output-gpt-3.5-turbo-1106-386.txt	match	target: alphav-beta3 integrin	output: alphav-beta3 integrin
+output-gpt-3.5-turbo-1106-387.txt	match	target: alpha8-beta1 integrin	output: alpha8-beta1 integrin
+output-gpt-3.5-turbo-1106-388.txt	mismatch	target: axonemal dynein heavy chain	output: ['- axonemal dynein heavy chain', '- primary ciliary dyskinesia (PCD)']
+output-gpt-3.5-turbo-1106-389.txt	match	target: RSA	output: RSA protein complex
+output-gpt-3.5-turbo-1106-39.txt	mismatch	target: Amiloride-sensitive sodium channel, ENaC	output: ['Amiloride-sensitive sodium channel', 'ENaC']
+output-gpt-3.5-turbo-1106-390.txt	match	target: eIF-3	output: eIF-3
+output-gpt-3.5-turbo-1106-391.txt	match	target: MINOS	output: MINOS
+output-gpt-3.5-turbo-1106-392.txt	match	target: NPR1 receptor	output: NPR1 receptor
+output-gpt-3.5-turbo-1106-393.txt	mismatch	target: cullin-RING ligase 3	output: Cullin-RING ligase 3 (CRL3)
+output-gpt-3.5-turbo-1106-394.txt	match	target: TRC	output: TRC protein complex
+output-gpt-3.5-turbo-1106-395.txt	match	target: Wnt signalosome	output: Wnt signalosome
+output-gpt-3.5-turbo-1106-396.txt	match	target: CysPTWAM	output: CysPTWAM
+output-gpt-3.5-turbo-1106-397.txt	match	target: ssuABC	output: ssuABC
+output-gpt-3.5-turbo-1106-398.txt	match	target: Srb-mediator	output: Srb-mediator protein complex
+output-gpt-3.5-turbo-1106-399.txt	mismatch	target: pre-BCR	output: ['pre-BCR protein complex', 'SYK', 'LYN']
+output-gpt-3.5-turbo-1106-4.txt	match	target: IL-18 receptor	output: IL-18 receptor
+output-gpt-3.5-turbo-1106-40.txt	mismatch	target: protein phosphatase 4	output: PP4 complex
+output-gpt-3.5-turbo-1106-400.txt	match	target: Rdr1	output: Rdr1 protein complex
+output-gpt-3.5-turbo-1106-401.txt	match	target: gamma-delta TCR	output: gamma-delta TCR protein complex
+output-gpt-3.5-turbo-1106-402.txt	match	target: Clr6S	output: Clr6S
+output-gpt-3.5-turbo-1106-403.txt	match	target: RubisCO	output: RubisCO
+output-gpt-3.5-turbo-1106-404.txt	match	target: DnaB hexamer	output: DnaB hexamer
+output-gpt-3.5-turbo-1106-405.txt	mismatch	target: RNA polymerase IV	output: ['RNA polymerase IV', 'histone modifying enzymes']
+output-gpt-3.5-turbo-1106-406.txt	mismatch	target: gamma-tubulin small	output: gamma-tubulin small (γ-TuSC) complex
+output-gpt-3.5-turbo-1106-407.txt	mismatch	target: TOM	output: Translocase of the outer mitochondrial membrane (TOM) protein complex
+output-gpt-3.5-turbo-1106-408.txt	mismatch	target: CenH3 containing nucleosome	output: ['CenH3 containing nucleosome', 'kinetochore complex']
+output-gpt-3.5-turbo-1106-409.txt	mismatch	target: BORC	output: BLOC-1-related complex (BORC)
+output-gpt-3.5-turbo-1106-41.txt	mismatch	target: ADDL	output: Aβ-derived diffusible ligands (ADDLs)
+output-gpt-3.5-turbo-1106-410.txt	mismatch	target: telomere cap	output: ['shelterin proteins', '']
+output-gpt-3.5-turbo-1106-411.txt	match	target: Pol-zeta4	output: Pol-zeta4
+output-gpt-3.5-turbo-1106-412.txt	match	target: zona pellucida receptor	output: Zona pellucida receptor
+output-gpt-3.5-turbo-1106-413.txt	mismatch	target: cap(0)-RTC	output: ['cap(0)-RTC complex', 'RTC']
+output-gpt-3.5-turbo-1106-414.txt	mismatch	target: U2AF	output: ['U2AF protein complex', 'U2 snRNP']
+output-gpt-3.5-turbo-1106-415.txt	match	target: nikABCDE	output: nikABCDE protein complex
+output-gpt-3.5-turbo-1106-416.txt	mismatch	target: laminin	output: ['Laminin', 'collagen', 'fibronectin']
+output-gpt-3.5-turbo-1106-417.txt	mismatch	target: CD42	output: GPIb-IX-V complex
+output-gpt-3.5-turbo-1106-418.txt	mismatch	target: PSI associated light-harvesting complex I	output: PSI-LHCI
+output-gpt-3.5-turbo-1106-419.txt	mismatch	target: WRC	output: ['WAVE regulatory complex (WRC)', 'Arp2/3 complex']
+output-gpt-3.5-turbo-1106-42.txt	match	target: GOGAT	output: GOGAT protein complex
+output-gpt-3.5-turbo-1106-420.txt	mismatch	target: Rag GEF	output: ['Rag GEF protein complex', 'mTORC1']
+output-gpt-3.5-turbo-1106-421.txt	mismatch	target: ERMES	output: ERMES (Endoplasmic Reticulum-Mitochondria Encounter Structure)
+output-gpt-3.5-turbo-1106-422.txt	match	target: WHY1	output: WHY1
+output-gpt-3.5-turbo-1106-423.txt	match	target: KAR	output: KAR protein complex
+output-gpt-3.5-turbo-1106-424.txt	match	target: IL7-receptor	output: IL7-receptor
+output-gpt-3.5-turbo-1106-425.txt	match	target: NAD isocitric dehydrogenase	output: NAD isocitric dehydrogenase
+output-gpt-3.5-turbo-1106-426.txt	mismatch	target: 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2	output: 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2 (Pfkfb2)
+output-gpt-3.5-turbo-1106-427.txt	match	target: GMPR1	output: GMPR1 protein complex
+output-gpt-3.5-turbo-1106-428.txt	match	target: fibrinogen	output: fibrinogen
+output-gpt-3.5-turbo-1106-429.txt	match	target: xylanosome	output: xylanosome complex
+output-gpt-3.5-turbo-1106-43.txt	mismatch	target: NLRC4 inflammasome	output: ['NLRC4 inflammasome', 'ASC adaptor protein']
+output-gpt-3.5-turbo-1106-430.txt	match	target: BtuCD	output: BtuCD protein complex
+output-gpt-3.5-turbo-1106-431.txt	match	target: 5-HT3AR	output: 5-HT3AR protein complex
+output-gpt-3.5-turbo-1106-432.txt	match	target: CDK8 kinase module	output: CDK8 kinase module
+output-gpt-3.5-turbo-1106-433.txt	mismatch	target: VHL	output: von Hippel-Lindau (VHL) protein complex
+output-gpt-3.5-turbo-1106-434.txt	match	target: CUE1-UBC7 ubiquitin-conjugating enzyme (E2)	output: CUE1-UBC7 ubiquitin-conjugating enzyme (E2)
+output-gpt-3.5-turbo-1106-435.txt	match	target: IL-12 receptor	output: IL-12 receptor complex
+output-gpt-3.5-turbo-1106-436.txt	match	target: cytochrome b(6)f	output: cytochrome b(6)f complex
+output-gpt-3.5-turbo-1106-437.txt	match	target: cullin	output: cullin protein complex
+output-gpt-3.5-turbo-1106-438.txt	match	target: KEOPS/EKC	output: KEOPS/EKC
+output-gpt-3.5-turbo-1106-439.txt	match	target: fibrillar collagen trimer	output: fibrillar collagen trimer
+output-gpt-3.5-turbo-1106-44.txt	match	target: SSB	output: SSB protein complex
+output-gpt-3.5-turbo-1106-440.txt	mismatch	target: unwindosome	output: The unwindosome
+output-gpt-3.5-turbo-1106-441.txt	match	target: HIUH	output: HIUH protein complex
+output-gpt-3.5-turbo-1106-442.txt	mismatch	target: eukaryotic translation initiation factor 4F	output: eIF4F
+output-gpt-3.5-turbo-1106-443.txt	mismatch	target: clathrin	output: ['', 'clathrin protein complex']
+output-gpt-3.5-turbo-1106-444.txt	match	target: LSU	output: LSU protein complex
+output-gpt-3.5-turbo-1106-445.txt	match	target: b6/f	output: b6/f complex
+output-gpt-3.5-turbo-1106-446.txt	match	target: AP-2 adaptor	output: AP-2 adaptor complex
+output-gpt-3.5-turbo-1106-447.txt	mismatch	target: complex III	output: ['Complex III', 'cytochrome bc1 complex']
+output-gpt-3.5-turbo-1106-448.txt	mismatch	target: interleukin-28 receptor	output: ['IL-28 receptor', 'interferon lambda']
+output-gpt-3.5-turbo-1106-449.txt	mismatch	target: eukaryotic translation initiation factor 2B	output: Eukaryotic translation initiation factor 2B (eIF2B)
+output-gpt-3.5-turbo-1106-45.txt	mismatch	target: SRP	output: Signal recognition particle (SRP)
+output-gpt-3.5-turbo-1106-450.txt	match	target: Kat6	output: Kat6
+output-gpt-3.5-turbo-1106-451.txt	match	target: AHAS III	output: AHAS III
+output-gpt-3.5-turbo-1106-452.txt	match	target: mammalian spliceosomal complex E	output: mammalian spliceosomal complex E
+output-gpt-3.5-turbo-1106-453.txt	mismatch	target: IF2B	output: Translation initiation factor 2B (IF2B)
+output-gpt-3.5-turbo-1106-454.txt	match	target: FA core	output: FA core
+output-gpt-3.5-turbo-1106-455.txt	match	target: Gin4	output: Gin4 protein complex
+output-gpt-3.5-turbo-1106-456.txt	mismatch	target: PRC2	output: ['Polycomb Repressive Complex 2 (PRC2)', 'EZH2']
+output-gpt-3.5-turbo-1106-457.txt	match	target: alphav-beta5 integrin	output: alphav-beta5 integrin
+output-gpt-3.5-turbo-1106-458.txt	match	target: IGP synthase	output: IGP synthase
+output-gpt-3.5-turbo-1106-459.txt	match	target: CoaC	output: CoaC protein complex
+output-gpt-3.5-turbo-1106-46.txt	match	target: pre-TCR	output: pre-TCR
+output-gpt-3.5-turbo-1106-460.txt	match	target: MetNI transporter	output: MetNI transporter
+output-gpt-3.5-turbo-1106-461.txt	match	target: vacuolar HOPS	output: Vacuolar HOPS
+output-gpt-3.5-turbo-1106-462.txt	match	target: alphav-beta1 integrin	output: alphav-beta1 integrin
+output-gpt-3.5-turbo-1106-463.txt	match	target: HCab	output: HCab
+output-gpt-3.5-turbo-1106-464.txt	match	target: IgG3	output: IgG3 protein complex
+output-gpt-3.5-turbo-1106-465.txt	match	target: SSU processome	output: SSU processome
+output-gpt-3.5-turbo-1106-466.txt	mismatch	target: Biogenesis of Lysosome-related Organelles Complex-2	output: Biogenesis of Lysosome-related Organelles Complex-2 (BLOC-2)
+output-gpt-3.5-turbo-1106-467.txt	match	target: OSTCI	output: OSTCI protein complex
+output-gpt-3.5-turbo-1106-468.txt	match	target: Trf4	output: Trf4 protein complex
+output-gpt-3.5-turbo-1106-469.txt	mismatch	target: cullin-RING ligase 4A	output: CRL4A
+output-gpt-3.5-turbo-1106-47.txt	match	target: TGFbeta1 ligand-receptor	output: TGFbeta1 ligand-receptor complex
+output-gpt-3.5-turbo-1106-470.txt	match	target: galectin-2	output: Galectin-2
+output-gpt-3.5-turbo-1106-471.txt	match	target: VLA-4	output: VLA-4 protein complex
+output-gpt-3.5-turbo-1106-472.txt	match	target: SOSS	output: SOSS complex
+output-gpt-3.5-turbo-1106-473.txt	mismatch	target: GET	output: The Golgi ER trafficking (GET) complex
+output-gpt-3.5-turbo-1106-474.txt	match	target: FRG	output: FRG protein complex
+output-gpt-3.5-turbo-1106-475.txt	match	target: CBM	output: CBM complex
+output-gpt-3.5-turbo-1106-476.txt	mismatch	target: PAXT	output: ['- PAXT protein complex', '- exosome complex', '- GRSF1', '- ZC3HAV1']
+output-gpt-3.5-turbo-1106-477.txt	match	target: interleukin-3 receptor	output: Interleukin-3 receptor
+output-gpt-3.5-turbo-1106-478.txt	mismatch	target: cullin-RING ligase 7	output: Cullin-RING ligase 7 (CRL7)
+output-gpt-3.5-turbo-1106-479.txt	mismatch	target: NZR	output: ['ANP', 'BNP']
+output-gpt-3.5-turbo-1106-48.txt	mismatch	target: Nup84	output: ['Nup84 protein complex', 'nuclear pore complex']
+output-gpt-3.5-turbo-1106-480.txt	match	target: B800-850 antenna	output: B800-850 antenna
+output-gpt-3.5-turbo-1106-481.txt	match	target: exodeoxyribonuclease VII	output: Exodeoxyribonuclease VII
+output-gpt-3.5-turbo-1106-482.txt	match	target: HEX S	output: HEX S protein complex
+output-gpt-3.5-turbo-1106-483.txt	mismatch	target: N-terminal acetyltransferase A	output: ['NatA', 'SKN-1']
+output-gpt-3.5-turbo-1106-484.txt	mismatch	target: HDL3	output: High-density lipoprotein 3 (HDL3)
+output-gpt-3.5-turbo-1106-485.txt	mismatch	target: FtsQBL	output: ['FtsQBL protein complex', 'FtsZ', 'FtsW']
+output-gpt-3.5-turbo-1106-486.txt	match	target: syntrophin	output: syntrophin
+output-gpt-3.5-turbo-1106-487.txt	match	target: HTL	output: HTL protein complex
+output-gpt-3.5-turbo-1106-488.txt	match	target: Nop7	output: Nop7 protein complex
+output-gpt-3.5-turbo-1106-489.txt	mismatch	target: cullin-RING ligase 5	output: Cullin-RING ligase 5 (CRL5)
+output-gpt-3.5-turbo-1106-49.txt	mismatch	target: MsbA	output: ATP-binding cassette transporter MsbA
+output-gpt-3.5-turbo-1106-490.txt	match	target: ERN1	output: ERN1 complex
+output-gpt-3.5-turbo-1106-491.txt	mismatch	target: Polymerase-zeta	output: Pol-zeta
+output-gpt-3.5-turbo-1106-492.txt	mismatch	target: Kir6.1-SUR	output: ['ATP-sensitive potassium channel (KATP)', 'Kir6.1-SUR complex']
+output-gpt-3.5-turbo-1106-493.txt	match	target: yagTSR	output: yagTSR
+output-gpt-3.5-turbo-1106-494.txt	match	target: ESCRT IV	output: ESCRT IV protein complex
+output-gpt-3.5-turbo-1106-495.txt	match	target: succinic dehydrogenase	output: Succinic dehydrogenase
+output-gpt-3.5-turbo-1106-496.txt	mismatch	target: MutLbeta	output: ['MutLbeta', 'DNA mismatch repair process']
+output-gpt-3.5-turbo-1106-497.txt	match	target: Glu-AdT	output: Glu-AdT protein complex
+output-gpt-3.5-turbo-1106-498.txt	match	target: CFIIm	output: CFIIm protein complex
+output-gpt-3.5-turbo-1106-499.txt	match	target: MIB	output: MIB protein complex
+output-gpt-3.5-turbo-1106-5.txt	match	target: TBC	output: TBC protein complex
+output-gpt-3.5-turbo-1106-50.txt	match	target: Ferrichrome outer membrane transporter	output: Ferrichrome outer membrane transporter
+output-gpt-3.5-turbo-1106-500.txt	match	target: AHA II	output: AHA II protein complex
+output-gpt-3.5-turbo-1106-501.txt	match	target: PAN	output: PAN
+output-gpt-3.5-turbo-1106-502.txt	match	target: PstSCAB	output: PstSCAB protein complex
+output-gpt-3.5-turbo-1106-503.txt	match	target: ESCRT-0	output: ESCRT-0
+output-gpt-3.5-turbo-1106-504.txt	match	target: MRX	output: MRX protein complex
+output-gpt-3.5-turbo-1106-505.txt	match	target: Sim4	output: Sim4 protein complex
+output-gpt-3.5-turbo-1106-506.txt	match	target: DHIC	output: DHIC protein complex
+output-gpt-3.5-turbo-1106-507.txt	match	target: kinesin II	output: kinesin II protein complex
+output-gpt-3.5-turbo-1106-508.txt	match	target: SNARE	output: SNARE protein complex
+output-gpt-3.5-turbo-1106-509.txt	mismatch	target: nuclear cohesin	output: ['NIPBL', 'SMC1A']
+output-gpt-3.5-turbo-1106-51.txt	match	target: arginine-specific carbamoyl phosphate synthetase	output: Arginine-specific carbamoyl phosphate synthetase
+output-gpt-3.5-turbo-1106-510.txt	mismatch	target: SufE	output: ['SufE protein complex', 'SufBCD']
+output-gpt-3.5-turbo-1106-511.txt	match	target: FAS	output: FAS protein complex
+output-gpt-3.5-turbo-1106-512.txt	mismatch	target: ESCRT-2	output: ['ESCRT-2 protein complex', 'VPS25']
+output-gpt-3.5-turbo-1106-513.txt	match	target: collagen type II trimer	output: Collagen type II trimer
+output-gpt-3.5-turbo-1106-514.txt	match	target: Janusin	output: Janusin protein complex
+output-gpt-3.5-turbo-1106-515.txt	match	target: AMPA glutamate receptor	output: AMPA glutamate receptor
+output-gpt-3.5-turbo-1106-516.txt	mismatch	target: laminin-6	output: ['laminin-6', 'fibronectin', 'collagen IV']
+output-gpt-3.5-turbo-1106-517.txt	match	target: tuberin-hamartin	output: tuberin-hamartin complex
+output-gpt-3.5-turbo-1106-518.txt	mismatch	target: IRF	output: ['IRF', 'interferon-stimulated genes']
+output-gpt-3.5-turbo-1106-519.txt	match	target: NADH-ubiquinone reductase	output: NADH-ubiquinone reductase
+output-gpt-3.5-turbo-1106-52.txt	mismatch	target: phosphoinositide 3-kinase complex, class III	output: Phosphoinositide 3-kinase complex, class III (PI3KC3)
+output-gpt-3.5-turbo-1106-520.txt	match	target: FceRI	output: FceRI protein complex
+output-gpt-3.5-turbo-1106-521.txt	match	target: NADH-Q oxidoreductase	output: NADH-Q oxidoreductase
+output-gpt-3.5-turbo-1106-522.txt	match	target: SQR	output: SQR protein complex
+output-gpt-3.5-turbo-1106-523.txt	match	target: NDC1	output: NDC1 protein complex
+output-gpt-3.5-turbo-1106-524.txt	match	target: 5-HT-3 receptor	output: 5-HT-3 receptor
+output-gpt-3.5-turbo-1106-525.txt	mismatch	target: adaptor protein-5 adaptor	output: AP-5 complex
+output-gpt-3.5-turbo-1106-526.txt	mismatch	target: Adapter complex AP-3	output: AP-3
+output-gpt-3.5-turbo-1106-527.txt	match	target: eIF-4F	output: eIF-4F protein complex
+output-gpt-3.5-turbo-1106-528.txt	mismatch	target: GIP	output: Glucose-dependent insulinotropic polypeptide (GIP) receptor
+output-gpt-3.5-turbo-1106-529.txt	match	target: Rpd3S	output: Rpd3S
+output-gpt-3.5-turbo-1106-53.txt	mismatch	target: RecFOR	output: ['RecFOR protein complex', 'RecA', 'nucleoprotein filaments']
+output-gpt-3.5-turbo-1106-530.txt	match	target: L-Ficolin	output: L-Ficolin protein complex
+output-gpt-3.5-turbo-1106-531.txt	match	target: NF-kappaB	output: NF-kappaB
+output-gpt-3.5-turbo-1106-532.txt	match	target: ASCOM	output: ASCOM protein complex
+output-gpt-3.5-turbo-1106-533.txt	match	target: ZnuABC	output: ZnuABC complex
+output-gpt-3.5-turbo-1106-534.txt	match	target: BC	output: BC protein complex
+output-gpt-3.5-turbo-1106-535.txt	match	target: resolvasome	output: Resolvasome protein complex
+output-gpt-3.5-turbo-1106-536.txt	match	target: GPIT	output: GPIT protein complex
+output-gpt-3.5-turbo-1106-537.txt	match	target: Signalosome	output: Signalosome
+output-gpt-3.5-turbo-1106-538.txt	match	target: Lid2	output: Lid2 protein complex
+output-gpt-3.5-turbo-1106-539.txt	mismatch	target: PDGF	output: Platelet-derived growth factor (PDGF)
+output-gpt-3.5-turbo-1106-54.txt	mismatch	target: PTEX	output: PTEX - Plasmodium translocon of exported proteins
+output-gpt-3.5-turbo-1106-540.txt	match	target: QFR	output: QFR protein complex
+output-gpt-3.5-turbo-1106-541.txt	match	target: H3 HAT	output: H3 HAT
+output-gpt-3.5-turbo-1106-542.txt	mismatch	target: BMP receptor	output: ['Bone morphogenetic protein receptor', 'BMP proteins']
+output-gpt-3.5-turbo-1106-543.txt	mismatch	target: NAT	output: N-acetyltransferase (NAT) complex
+output-gpt-3.5-turbo-1106-544.txt	match	target: laminin-15	output: laminin-15
+output-gpt-3.5-turbo-1106-545.txt	match	target: NEF1	output: NEF1 protein complex
+output-gpt-3.5-turbo-1106-546.txt	match	target: miRLC	output: miRLC protein complex
+output-gpt-3.5-turbo-1106-547.txt	match	target: interleukin-9 receptor	output: interleukin-9 receptor
+output-gpt-3.5-turbo-1106-548.txt	match	target: HCN1 channel	output: HCN1 channel
+output-gpt-3.5-turbo-1106-549.txt	match	target: pyroptosome	output: pyroptosome
+output-gpt-3.5-turbo-1106-55.txt	match	target: Prothrombinase	output: Prothrombinase
+output-gpt-3.5-turbo-1106-550.txt	match	target: 13S condensin	output: 13S condensin protein complex
+output-gpt-3.5-turbo-1106-551.txt	match	target: 60S ribosomal subunit	output: 60S ribosomal subunit
+output-gpt-3.5-turbo-1106-552.txt	match	target: UTP-C	output: UTP-C protein complex
+output-gpt-3.5-turbo-1106-553.txt	match	target: ABAT	output: ABAT protein complex
+output-gpt-3.5-turbo-1106-554.txt	match	target: mitoKATP	output: mitoKATP complex
+output-gpt-3.5-turbo-1106-555.txt	mismatch	target: FSH	output: follicle-stimulating hormone (FSH)
+output-gpt-3.5-turbo-1106-556.txt	match	target: PA28	output: PA28 complex
+output-gpt-3.5-turbo-1106-557.txt	match	target: LH1	output: LH1 protein complex
+output-gpt-3.5-turbo-1106-558.txt	match	target: CeBCD	output: CeBCD
+output-gpt-3.5-turbo-1106-559.txt	match	target: mt-LSU	output: mt-LSU protein complex
+output-gpt-3.5-turbo-1106-56.txt	match	target: C1q	output: C1q protein complex
+output-gpt-3.5-turbo-1106-560.txt	match	target: PAF1C	output: PAF1C protein complex
+output-gpt-3.5-turbo-1106-561.txt	match	target: Hydrogenase 3	output: Hydrogenase 3
+output-gpt-3.5-turbo-1106-562.txt	mismatch	target: ncBAP	output: nuclear cap-binding complex (ncBAP)
+output-gpt-3.5-turbo-1106-563.txt	match	target: surface IgA	output: Surface IgA protein complex
+output-gpt-3.5-turbo-1106-564.txt	match	target: COG	output: COG protein complex
+output-gpt-3.5-turbo-1106-565.txt	match	target: HEPS	output: HEPS protein complex
+output-gpt-3.5-turbo-1106-566.txt	match	target: TCP-1 ring	output: TCP-1 ring protein complex
+output-gpt-3.5-turbo-1106-567.txt	match	target: SWI-SNF	output: SWI-SNF protein complex
+output-gpt-3.5-turbo-1106-568.txt	match	target: mitochondrial 28S ribosomal subunit	output: mitochondrial 28S ribosomal subunit
+output-gpt-3.5-turbo-1106-569.txt	match	target: C3PO	output: C3PO protein complex
+output-gpt-3.5-turbo-1106-57.txt	match	target: cytochrome bc1	output: Cytochrome bc1
+output-gpt-3.5-turbo-1106-570.txt	match	target: NEXT	output: NEXT
+output-gpt-3.5-turbo-1106-571.txt	match	target: SR	output: SR protein complex
+output-gpt-3.5-turbo-1106-572.txt	match	target: Pex14	output: Pex14 protein complex
+output-gpt-3.5-turbo-1106-573.txt	mismatch	target: box H/ACA RNP	output: Box H/ACA ribonucleoprotein (RNP) complexes
+output-gpt-3.5-turbo-1106-574.txt	mismatch	target: Nup107-120	output: ['Nuclear pore complex (NPC)', 'Nup107-120 complex']
+output-gpt-3.5-turbo-1106-575.txt	match	target: SUN-KASH	output: SUN-KASH protein complex
+output-gpt-3.5-turbo-1106-576.txt	match	target: LAT signalosome	output: LAT signalosome
+output-gpt-3.5-turbo-1106-577.txt	mismatch	target: RNA polymerase I	output: ['RNA polymerase I complex', '']
+output-gpt-3.5-turbo-1106-578.txt	mismatch	target: APC/C	output: Anaphase-promoting complex/cyclosome (APC/C)
+output-gpt-3.5-turbo-1106-579.txt	match	target: surface IgG2	output: Surface IgG2
+output-gpt-3.5-turbo-1106-58.txt	match	target: P-ATAC	output: P-ATAC protein complex
+output-gpt-3.5-turbo-1106-580.txt	mismatch	target: DNA-directed RNA polymerase III	output: ['DNA-directed RNA polymerase III', 'Pol III']
+output-gpt-3.5-turbo-1106-581.txt	mismatch	target: EGO	output: ['EGO protein complex', 'mTOR', 'S6K', 'PI3K/Akt pathway']
+output-gpt-3.5-turbo-1106-582.txt	match	target: laminin-12	output: laminin-12
+output-gpt-3.5-turbo-1106-583.txt	mismatch	target: yeast spliceosomal complex B	output: spliceosomal complex B
+output-gpt-3.5-turbo-1106-584.txt	match	target: GatYZ	output: GatYZ protein complex
+output-gpt-3.5-turbo-1106-585.txt	match	target: Pol epsilon	output: Pol epsilon
+output-gpt-3.5-turbo-1106-586.txt	match	target: DOM-B.C	output: DOM-B.C
+output-gpt-3.5-turbo-1106-587.txt	mismatch	target: electron transport complex III	output: cytochrome bc1 complex
+output-gpt-3.5-turbo-1106-588.txt	match	target: dynactin	output: Dynactin
+output-gpt-3.5-turbo-1106-589.txt	mismatch	target: membrane-bound IgA1	output: IgA1 protein complex
+output-gpt-3.5-turbo-1106-59.txt	match	target: CGRP receptor	output: CGRP receptor
+output-gpt-3.5-turbo-1106-590.txt	mismatch	target: interleukin-4 receptor	output: interleukin-4 receptor (IL-4R)
+output-gpt-3.5-turbo-1106-591.txt	mismatch	target: CTDK	output: ['CTDK', 'cyclin-dependent kinases']
+output-gpt-3.5-turbo-1106-592.txt	match	target: ribonuclease P	output: Ribonuclease P
+output-gpt-3.5-turbo-1106-593.txt	mismatch	target: TCR	output: ['- T-cell receptor (TCR)', '- major histocompatibility complex (MHC)']
+output-gpt-3.5-turbo-1106-594.txt	mismatch	target: ORC	output: ['Origin Recognition Complex (ORC)', 'tumor suppressor p53']
+output-gpt-3.5-turbo-1106-595.txt	match	target: ASC pyroptosome	output: ASC pyroptosome
+output-gpt-3.5-turbo-1106-596.txt	match	target: chloroplast photosystem I	output: chloroplast photosystem I
+output-gpt-3.5-turbo-1106-597.txt	match	target: GGTase-I	output: GGTase-I protein complex
+output-gpt-3.5-turbo-1106-598.txt	match	target: surface IgG	output: surface IgG protein complex
+output-gpt-3.5-turbo-1106-599.txt	match	target: Adapter complex AP-2	output: Adapter complex AP-2
+output-gpt-3.5-turbo-1106-6.txt	match	target: ESCRT-IV	output: ESCRT-IV protein complex
+output-gpt-3.5-turbo-1106-60.txt	match	target: intracellular ferritin	output: Intracellular ferritin
+output-gpt-3.5-turbo-1106-600.txt	match	target: MetNI	output: MetNI complex
+output-gpt-3.5-turbo-1106-601.txt	match	target: HRD1 ubiquitin ligase	output: HRD1 ubiquitin ligase
+output-gpt-3.5-turbo-1106-602.txt	match	target: CENP-T-W-S-X	output: CENP-T-W-S-X
+output-gpt-3.5-turbo-1106-603.txt	match	target: MTREC	output: MTREC protein complex
+output-gpt-3.5-turbo-1106-604.txt	match	target: 20S proteasome	output: 20S proteasome
+output-gpt-3.5-turbo-1106-605.txt	mismatch	target: HCN3 channel	output: ['HCN3 channel', 'hyperpolarization-activated cyclic nucleotide-gated (HCN) channel family']
+output-gpt-3.5-turbo-1106-606.txt	match	target: CaMKII	output: CaMKII
+output-gpt-3.5-turbo-1106-607.txt	mismatch	target: photosystem II	output: Photosystem II (PSII)
+output-gpt-3.5-turbo-1106-608.txt	mismatch	target: box C/D snoRNP	output: 1. box C/D snoRNP complex
+output-gpt-3.5-turbo-1106-609.txt	match	target: cyt b6/f	output: cyt b6/f complex
+output-gpt-3.5-turbo-1106-61.txt	match	target: collagen type IV trimers	output: Collagen type IV trimers
+output-gpt-3.5-turbo-1106-610.txt	mismatch	target: EMC	output: Endoplasmic reticulum membrane complex (EMC)
+output-gpt-3.5-turbo-1106-611.txt	match	target: DNMT3A-3L	output: DNMT3A-3L
+output-gpt-3.5-turbo-1106-612.txt	match	target: CRL7	output: CRL7
+output-gpt-3.5-turbo-1106-613.txt	match	target: GABA-T	output: GABA-T protein complex
+output-gpt-3.5-turbo-1106-614.txt	match	target: npBAF	output: npBAF
+output-gpt-3.5-turbo-1106-615.txt	match	target: SWI/SNF complex B	output: SWI/SNF complex B
+output-gpt-3.5-turbo-1106-616.txt	mismatch	target: PDHC	output: ['Pyruvate dehydrogenase complex (PDHC)', 'E1', 'E2']
+output-gpt-3.5-turbo-1106-617.txt	mismatch	target: SHREC	output: SWI/SNF-related matrix-associated actin-dependent regulator of chromatin (SHREC) complex
+output-gpt-3.5-turbo-1106-618.txt	match	target: PP2A	output: PP2A
+output-gpt-3.5-turbo-1106-619.txt	mismatch	target: replication protein A	output: RPA complex
+output-gpt-3.5-turbo-1106-62.txt	mismatch	target: positive transcription elongation factor complex b	output: Positive transcription elongation factor complex b (P-TEFb)
+output-gpt-3.5-turbo-1106-620.txt	match	target: DPM synthase	output: DPM synthase protein complex
+output-gpt-3.5-turbo-1106-621.txt	match	target: FHL	output: FHL protein complex
+output-gpt-3.5-turbo-1106-622.txt	mismatch	target: intraflagellar transport complex B	output: Intraflagellar transport complex B (IFT-B)
+output-gpt-3.5-turbo-1106-623.txt	match	target: MutSbeta	output: MutSbeta
+output-gpt-3.5-turbo-1106-624.txt	match	target: KEM	output: KEM protein complex
+output-gpt-3.5-turbo-1106-625.txt	match	target: collagen type I trimer	output: Collagen type I trimer
+output-gpt-3.5-turbo-1106-626.txt	match	target: surface IgA1	output: surface IgA1 protein complex
+output-gpt-3.5-turbo-1106-627.txt	match	target: pVHL-elongin C-elongin B	output: pVHL-elongin C-elongin B complex
+output-gpt-3.5-turbo-1106-628.txt	match	target: VPS4A/B	output: VPS4A/B complex
+output-gpt-3.5-turbo-1106-629.txt	match	target: DOM-A.C	output: DOM-A.C protein complex
+output-gpt-3.5-turbo-1106-63.txt	mismatch	target: platelet-derived growth factor receptor-ligand	output: Platelet-derived growth factor receptor-ligand (PDGFR-ligand)
+output-gpt-3.5-turbo-1106-630.txt	mismatch	target: RNA polymerase V	output: RNA polymerase V (RNAP V)
+output-gpt-3.5-turbo-1106-631.txt	match	target: DBIRD	output: DBIRD protein complex
+output-gpt-3.5-turbo-1106-632.txt	match	target: 5HT3-A receptor	output: 5HT3-A receptor
+output-gpt-3.5-turbo-1106-633.txt	match	target: KEOPSs	output: KEOPSs protein complex
+output-gpt-3.5-turbo-1106-634.txt	match	target: GlpABC	output: GlpABC protein complex
+output-gpt-3.5-turbo-1106-635.txt	match	target: 54S mitochondrial large ribosomal subunit	output: 54S mitochondrial large ribosomal subunit
+output-gpt-3.5-turbo-1106-636.txt	mismatch	target: Fc-gamma receptor III	output: ['Fc-gamma receptor III (FcγRIII)', 'IgG immune complexes']
+output-gpt-3.5-turbo-1106-637.txt	match	target: IL15 receptor	output: IL15 receptor
+output-gpt-3.5-turbo-1106-638.txt	match	target: 5-HT3A receptor	output: 5-HT3A receptor
+output-gpt-3.5-turbo-1106-639.txt	mismatch	target: transforming growth factor beta1-type II receptor-type I receptor	output: TGF-β1-TβRI-TβRII complex
+output-gpt-3.5-turbo-1106-64.txt	match	target: cullin-RING ligase 2	output: Cullin-RING ligase 2
+output-gpt-3.5-turbo-1106-640.txt	match	target: AM1	output: AM1 protein complex
+output-gpt-3.5-turbo-1106-641.txt	mismatch	target: interleukin-15 receptor	output: IL-15 receptor
+output-gpt-3.5-turbo-1106-642.txt	match	target: Colicin I receptor	output: Colicin I receptor
+output-gpt-3.5-turbo-1106-643.txt	match	target: laminin-8	output: Laminin-8
+output-gpt-3.5-turbo-1106-644.txt	match	target: TOR complex 2	output: TOR complex 2
+output-gpt-3.5-turbo-1106-645.txt	match	target: NapAB nitrate reductase	output: NapAB nitrate reductase protein complex
+output-gpt-3.5-turbo-1106-646.txt	match	target: TRAP	output: TRAP protein complex
+output-gpt-3.5-turbo-1106-647.txt	mismatch	target: PS1	output: ['- amyloid-β peptide', '- γ-secretase complex', '- Presenilin 1 (PS1)']
+output-gpt-3.5-turbo-1106-648.txt	match	target: MukBEF condensin	output: MukBEF condensin
+output-gpt-3.5-turbo-1106-649.txt	mismatch	target: IL-28 receptor	output: ['IL-28 receptor', 'interferon gamma (IFN-γ)']
+output-gpt-3.5-turbo-1106-65.txt	match	target: holo-[acyl-carrier-protein] synthase	output: holo-[acyl-carrier-protein] synthase
+output-gpt-3.5-turbo-1106-650.txt	mismatch	target: MsbA transporter	output: ['MsbA transporter', 'ABC transporter']
+output-gpt-3.5-turbo-1106-651.txt	mismatch	target: Pyrin inflammasome	output: ['NLRP3', 'ASC']
+output-gpt-3.5-turbo-1106-652.txt	match	target: 5HT3AR	output: 5HT3AR protein complex
+output-gpt-3.5-turbo-1106-653.txt	match	target: CFII	output: CFII protein complex
+output-gpt-3.5-turbo-1106-654.txt	match	target: IL-35	output: IL-35 protein complex
+output-gpt-3.5-turbo-1106-655.txt	match	target: WAVE	output: WAVE protein complex
+output-gpt-3.5-turbo-1106-656.txt	mismatch	target: amyloid-beta protein 40/42	output: ['- amyloid-beta protein 40/42 (Aβ42/Aβ40)', '- amyloid precursor protein', '- presenilin-1']
+output-gpt-3.5-turbo-1106-657.txt	match	target: Cut1-2	output: Cut1-2 protein complex
+output-gpt-3.5-turbo-1106-658.txt	match	target: IPI	output: IPI protein complex
+output-gpt-3.5-turbo-1106-659.txt	match	target: MutSgamma	output: MutSgamma
+output-gpt-3.5-turbo-1106-66.txt	match	target: NendoUs	output: NendoUs protein complex
+output-gpt-3.5-turbo-1106-660.txt	mismatch	target: eif2B	output: eukaryotic initiation factor 2B (eif2B) protein complex
+output-gpt-3.5-turbo-1106-661.txt	match	target: AMY3	output: AMY3
+output-gpt-3.5-turbo-1106-662.txt	match	target: CORVET	output: CORVET
+output-gpt-3.5-turbo-1106-663.txt	match	target: IgG2b	output: IgG2b
+output-gpt-3.5-turbo-1106-664.txt	match	target: DNMT3A–3L	output: DNMT3A–3L protein complex
+output-gpt-3.5-turbo-1106-665.txt	match	target: SRB8/9/10/11	output: SRB8/9/10/11 complex
+output-gpt-3.5-turbo-1106-666.txt	match	target: Hyd-4	output: Hyd-4 protein complex
+output-gpt-3.5-turbo-1106-667.txt	match	target: alpha4-beta1 integrin	output: alpha4-beta1 integrin
+output-gpt-3.5-turbo-1106-668.txt	match	target: Prohibitin	output: Prohibitin protein complex
+output-gpt-3.5-turbo-1106-669.txt	match	target: IL-15-receptor	output: IL-15-receptor
+output-gpt-3.5-turbo-1106-67.txt	match	target: HEX B	output: HEX B protein complex
+output-gpt-3.5-turbo-1106-670.txt	mismatch	target: TRanscription/EXport	output: TREX complex
+output-gpt-3.5-turbo-1106-671.txt	match	target: Sus	output: Sus protein complex
+output-gpt-3.5-turbo-1106-672.txt	mismatch	target: PRC2.2	output: ['Polycomb Repressive Complex 2.2 (PRC2.2)', 'SWI/SNF', 'NuRD']
+output-gpt-3.5-turbo-1106-673.txt	match	target: AP-2R	output: AP-2R protein complex
+output-gpt-3.5-turbo-1106-674.txt	match	target: Hyd-2	output: Hyd-2 protein complex
+output-gpt-3.5-turbo-1106-675.txt	match	target: ADM1 receptor	output: ADM1 receptor
+output-gpt-3.5-turbo-1106-676.txt	match	target: BBSome	output: BBSome
+output-gpt-3.5-turbo-1106-677.txt	match	target: 5-HT receptor	output: 5-HT receptor
+output-gpt-3.5-turbo-1106-678.txt	match	target: DOM-B	output: DOM-B complex
+output-gpt-3.5-turbo-1106-679.txt	mismatch	target: interleukin-12	output: Interleukin-12 (IL-12) pathway
+output-gpt-3.5-turbo-1106-68.txt	mismatch	target: RPA	output: ['Replication Protein A (RPA) complex', '']
+output-gpt-3.5-turbo-1106-680.txt	match	target: G-TURC	output: G-TURC protein complex
+output-gpt-3.5-turbo-1106-681.txt	match	target: ADA HAT	output: ADA HAT protein complex
+output-gpt-3.5-turbo-1106-682.txt	match	target: cytosolic FAS	output: Cytosolic FAS protein complex
+output-gpt-3.5-turbo-1106-683.txt	match	target: Nar	output: Nar protein complex
+output-gpt-3.5-turbo-1106-684.txt	match	target: laminin-1	output: laminin-1
+output-gpt-3.5-turbo-1106-685.txt	match	target: PreaTs	output: PreaTs protein complex
+output-gpt-3.5-turbo-1106-686.txt	match	target: PBAF	output: PBAF protein complex
+output-gpt-3.5-turbo-1106-687.txt	match	target: FN-TGM2	output: FN-TGM2
+output-gpt-3.5-turbo-1106-688.txt	mismatch	target: PRC2.1	output: Polycomb Repressive Complex 2.1 (PRC2.1)
+output-gpt-3.5-turbo-1106-689.txt	match	target: gamma-secretases	output: gamma-secretases
+output-gpt-3.5-turbo-1106-69.txt	match	target: KPC	output: KPC protein complex
+output-gpt-3.5-turbo-1106-690.txt	match	target: F-actin	output: F-actin protein complex
+output-gpt-3.5-turbo-1106-691.txt	match	target: chloroplast RubisCO	output: Chloroplast RubisCO protein complex
+output-gpt-3.5-turbo-1106-692.txt	match	target: CURI	output: CURI protein complex
+output-gpt-3.5-turbo-1106-693.txt	match	target: TGF-beta	output: TGF-beta protein complex
+output-gpt-3.5-turbo-1106-694.txt	match	target: GPIb-V-IX	output: GPIb-V-IX protein complex
+output-gpt-3.5-turbo-1106-695.txt	mismatch	target: mtCU	output: mitochondrial calcium uptake complex (mtCU)
+output-gpt-3.5-turbo-1106-696.txt	mismatch	target: yFACT	output: 1. yFACT protein complex
+output-gpt-3.5-turbo-1106-697.txt	match	target: mitochondrial complex III	output: Mitochondrial complex III
+output-gpt-3.5-turbo-1106-698.txt	match	target: NTC	output: NTC protein complex
+output-gpt-3.5-turbo-1106-699.txt	match	target: AMY1	output: AMY1 protein complex
+output-gpt-3.5-turbo-1106-7.txt	match	target: elongator holoenzyme	output: Elongator holoenzyme
+output-gpt-3.5-turbo-1106-70.txt	match	target: laminin-332	output: Laminin-332
+output-gpt-3.5-turbo-1106-700.txt	mismatch	target: MCCC	output: 3-methylcrotonyl-coenzyme A carboxylase
+output-gpt-3.5-turbo-1106-701.txt	match	target: ODA-DC	output: ODA-DC
+output-gpt-3.5-turbo-1106-702.txt	match	target: CPS-A	output: CPS-A
+output-gpt-3.5-turbo-1106-703.txt	match	target: LHCII	output: LHCII protein complex
+output-gpt-3.5-turbo-1106-704.txt	match	target: matrilin	output: matrilin protein complex
+output-gpt-3.5-turbo-1106-705.txt	match	target: electron transport complex I	output: Electron transport complex I
+output-gpt-3.5-turbo-1106-706.txt	match	target: MSS	output: MSS
+output-gpt-3.5-turbo-1106-707.txt	match	target: mitochondrial respiratory chain complex I	output: mitochondrial respiratory chain complex I
+output-gpt-3.5-turbo-1106-708.txt	mismatch	target: type III PKS	output: ['Type III PKS', 'polyketide synthase']
+output-gpt-3.5-turbo-1106-709.txt	mismatch	target: MitOS	output: Mitochondrial Organizing Structure (MitOS)
+output-gpt-3.5-turbo-1106-71.txt	match	target: KFRC	output: KFRC protein complex
+output-gpt-3.5-turbo-1106-710.txt	mismatch	target: Biogenesis of Lysosome-related Organelles Complex-3	output: Biogenesis of Lysosome-related Organelles Complex-3 (BLOC-3)
+output-gpt-3.5-turbo-1106-711.txt	match	target: SapABCDF	output: SapABCDF
+output-gpt-3.5-turbo-1106-712.txt	match	target: DNA polymerase III holoenzyme	output: DNA polymerase III holoenzyme
+output-gpt-3.5-turbo-1106-713.txt	mismatch	target: transcription export complex 2	output: ['Transcription export complex 2 (TREX-2)', 'THO complex', 'RNA helicase UAP56']
+output-gpt-3.5-turbo-1106-714.txt	mismatch	target: Biogenesis of lysosomal organelles complex-3	output: Biogenesis of Lysosomal Organelles Complex-3 (BLOC-3)
+output-gpt-3.5-turbo-1106-715.txt	mismatch	target: m(6)A writer	output: N6-methyladenosine writer complex
+output-gpt-3.5-turbo-1106-716.txt	match	target: Sm	output: Sm protein complex
+output-gpt-3.5-turbo-1106-717.txt	match	target: CDL7	output: CDL7 protein complex
+output-gpt-3.5-turbo-1106-718.txt	match	target: serum ferritin	output: Serum ferritin
+output-gpt-3.5-turbo-1106-719.txt	match	target: IL-9 receptor	output: IL-9 receptor complex
+output-gpt-3.5-turbo-1106-72.txt	mismatch	target: DNA polymerase Vs	output: DNA polymerase Vε
+output-gpt-3.5-turbo-1106-720.txt	match	target: PP3	output: PP3 protein complex
+output-gpt-3.5-turbo-1106-721.txt	match	target: eaf5/7/3	output: eaf5/7/3 protein complex
+output-gpt-3.5-turbo-1106-722.txt	match	target: paaABCE	output: paaABCE protein complex
+output-gpt-3.5-turbo-1106-723.txt	match	target: DDD	output: DDD protein complex
+output-gpt-3.5-turbo-1106-724.txt	mismatch	target: mitotic septin	output: The mitotic septin protein complex
+output-gpt-3.5-turbo-1106-725.txt	match	target: HOPS	output: HOPS protein complex
+output-gpt-3.5-turbo-1106-726.txt	match	target: EBI3	output: EBI3
+output-gpt-3.5-turbo-1106-727.txt	mismatch	target: gamma-secretase	output: ['gamma-secretase complex', 'presenilin', 'nicastrin', 'Aph-1', 'Pen-2']
+output-gpt-3.5-turbo-1106-728.txt	match	target: FtsEX	output: FtsEX protein complex
+output-gpt-3.5-turbo-1106-729.txt	match	target: IgG4	output: IgG4 protein complex
+output-gpt-3.5-turbo-1106-73.txt	match	target: CydDC	output: CydDC
+output-gpt-3.5-turbo-1106-730.txt	match	target: AHAS I	output: AHAS I protein complex
+output-gpt-3.5-turbo-1106-731.txt	match	target: rixosome	output: rixosome
+output-gpt-3.5-turbo-1106-732.txt	mismatch	target: Dam1	output: ['Dam1 protein complex', 'Ndc80 complex']
+output-gpt-3.5-turbo-1106-733.txt	match	target: Tic	output: Tic protein complex
+output-gpt-3.5-turbo-1106-734.txt	match	target: elongin	output: Elongin protein complex
+output-gpt-3.5-turbo-1106-735.txt	mismatch	target: LinE	output: ['LinE protein complex', 'MAPK/ERK pathway']
+output-gpt-3.5-turbo-1106-736.txt	match	target: Degradosome	output: Degradosome
+output-gpt-3.5-turbo-1106-737.txt	match	target: CRL4	output: CRL4
+output-gpt-3.5-turbo-1106-738.txt	match	target: TRIKA1	output: TRIKA1 protein complex
+output-gpt-3.5-turbo-1106-739.txt	match	target: condensin	output: Condensin
+output-gpt-3.5-turbo-1106-74.txt	match	target: PKS	output: PKS protein complex
+output-gpt-3.5-turbo-1106-740.txt	match	target: 3CLpro	output: 3CLpro protein complex
+output-gpt-3.5-turbo-1106-741.txt	match	target: USH2	output: USH2 protein complex
+output-gpt-3.5-turbo-1106-742.txt	mismatch	target: SsuE	output: ['SsuE protein complex', 'NuoM']
+output-gpt-3.5-turbo-1106-743.txt	mismatch	target: chromatin assembly factor 1	output: Chromatin assembly factor 1 (CAF-1)
+output-gpt-3.5-turbo-1106-744.txt	mismatch	target: FIIa	output: Coagulation factor FIIa
+output-gpt-3.5-turbo-1106-745.txt	match	target: basal TBC	output: Basal TBC protein complex
+output-gpt-3.5-turbo-1106-746.txt	match	target: LINC	output: LINC protein complex
+output-gpt-3.5-turbo-1106-747.txt	match	target: p19	output: p19 protein complex
+output-gpt-3.5-turbo-1106-748.txt	match	target: HisJQMP	output: HisJQMP
+output-gpt-3.5-turbo-1106-749.txt	match	target: alpha1-beta1 integrin	output: alpha1-beta1 integrin protein complex
+output-gpt-3.5-turbo-1106-75.txt	match	target: NatA	output: NatA
+output-gpt-3.5-turbo-1106-750.txt	mismatch	target: Ragulator	output: ['Ragulator protein complex', 'mTORC1']
+output-gpt-3.5-turbo-1106-751.txt	match	target: discoidal HDL	output: discoidal HDL complex
+output-gpt-3.5-turbo-1106-752.txt	mismatch	target: mitotic cohesin	output: ['- mitotic cohesin protein complex', '- condensin complex']
+output-gpt-3.5-turbo-1106-753.txt	mismatch	target: DPD	output: Dihydropyrimidine dehydrogenase (DPD) protein complex
+output-gpt-3.5-turbo-1106-754.txt	match	target: CRL3	output: CRL3 protein complex
+output-gpt-3.5-turbo-1106-755.txt	match	target: BAP	output: BAP protein complex
+output-gpt-3.5-turbo-1106-756.txt	match	target: IgA immunoglobulin	output: IgA immunoglobulin complex
+output-gpt-3.5-turbo-1106-757.txt	match	target: mu-calpain	output: mu-calpain
+output-gpt-3.5-turbo-1106-758.txt	mismatch	target: Biogenesis of lysosome-related organelles complex-1	output: Biogenesis of Lysosome-Related Organelles Complex-1 (BLOC-1)
+output-gpt-3.5-turbo-1106-759.txt	match	target: UTP-B	output: UTP-B protein complex
+output-gpt-3.5-turbo-1106-76.txt	match	target: Galactitol-specific enzyme II	output: Galactitol-specific enzyme II complex
+output-gpt-3.5-turbo-1106-760.txt	mismatch	target: LSH	output: ['Nucleosome remodeling and deacetylase (NuRD) complex', 'lymphoid-specific helicase (LSH)']
+output-gpt-3.5-turbo-1106-761.txt	match	target: CCC	output: CCC protein complex
+output-gpt-3.5-turbo-1106-762.txt	match	target: TIMM23	output: TIMM23 protein complex
+output-gpt-3.5-turbo-1106-763.txt	match	target: RNApII	output: RNApII
+output-gpt-3.5-turbo-1106-764.txt	mismatch	target: T4SS	output: Type IV secretion system (T4SS)
+output-gpt-3.5-turbo-1106-765.txt	match	target: xseAB	output: xseAB protein complex
+output-gpt-3.5-turbo-1106-766.txt	match	target: artPIQM	output: artPIQM
+output-gpt-3.5-turbo-1106-767.txt	mismatch	target: BLOC	output: Biogenesis of Lysosome-related Organelles Complex (BLOC)
+output-gpt-3.5-turbo-1106-768.txt	mismatch	target: DDS	output: DNA damage-specific sirtuin 1 (DDS) protein complex
+output-gpt-3.5-turbo-1106-769.txt	match	target: PMM-1	output: PMM-1 protein complex
+output-gpt-3.5-turbo-1106-77.txt	mismatch	target: cardiac PLN	output: PLN
+output-gpt-3.5-turbo-1106-770.txt	match	target: RuvABC Holliday junction resolvasome	output: RuvABC Holliday junction resolvasome
+output-gpt-3.5-turbo-1106-771.txt	match	target: CK2	output: CK2
+output-gpt-3.5-turbo-1106-772.txt	match	target: RecBCD	output: RecBCD protein complex
+output-gpt-3.5-turbo-1106-773.txt	match	target: NEF3	output: NEF3
+output-gpt-3.5-turbo-1106-774.txt	match	target: dimeric IgA immunoglobulin	output: Dimeric IgA immunoglobulin
+output-gpt-3.5-turbo-1106-775.txt	mismatch	target: cytochrome b6/f	output: cytochrome b6/f (Cyt b6/f) complex
+output-gpt-3.5-turbo-1106-776.txt	match	target: Tenascin-N	output: Tenascin-N
+output-gpt-3.5-turbo-1106-777.txt	match	target: kinesin I	output: kinesin I
+output-gpt-3.5-turbo-1106-778.txt	match	target: SOSS1	output: SOSS1
+output-gpt-3.5-turbo-1106-779.txt	match	target: mini RTC	output: Mini RTC protein complex
+output-gpt-3.5-turbo-1106-78.txt	mismatch	target: Integration host factor	output: Integration Host Factor (IHF)
+output-gpt-3.5-turbo-1106-780.txt	match	target: RNA polymerase III	output: RNA polymerase III
+output-gpt-3.5-turbo-1106-781.txt	match	target: laminin-10	output: Laminin-10
+output-gpt-3.5-turbo-1106-782.txt	match	target: NLRC3 inflammasome	output: NLRC3 inflammasome
+output-gpt-3.5-turbo-1106-783.txt	match	target: GGTaseI	output: GGTaseI
+output-gpt-3.5-turbo-1106-784.txt	match	target: Hyd1	output: Hyd1 protein complex
+output-gpt-3.5-turbo-1106-785.txt	match	target: TauABC	output: TauABC
+output-gpt-3.5-turbo-1106-786.txt	match	target: SufBCD	output: SufBCD protein complex
+output-gpt-3.5-turbo-1106-787.txt	match	target: BCKADH	output: BCKADH protein complex
+output-gpt-3.5-turbo-1106-788.txt	match	target: IgT immunoglobulin	output: IgT immunoglobulin complex
+output-gpt-3.5-turbo-1106-789.txt	match	target: UgpABCE	output: UgpABCE protein complex
+output-gpt-3.5-turbo-1106-79.txt	match	target: gamma-tubulin large	output: gamma-tubulin large complex
+output-gpt-3.5-turbo-1106-790.txt	match	target: MutS	output: MutS protein complex
+output-gpt-3.5-turbo-1106-791.txt	match	target: SIP	output: SIP protein complex
+output-gpt-3.5-turbo-1106-792.txt	match	target: GATOR	output: GATOR protein complex
+output-gpt-3.5-turbo-1106-793.txt	match	target: Isw1a	output: Isw1a
+output-gpt-3.5-turbo-1106-794.txt	match	target: SWI/SNF-A	output: SWI/SNF-A
+output-gpt-3.5-turbo-1106-795.txt	match	target: Commander	output: Commander protein complex
+output-gpt-3.5-turbo-1106-796.txt	match	target: mitochondrial cytochrome bc(1)	output: mitochondrial cytochrome bc(1) complex
+output-gpt-3.5-turbo-1106-797.txt	match	target: Snf1 kinase	output: Snf1 kinase complex
+output-gpt-3.5-turbo-1106-798.txt	mismatch	target: IFT complex A	output: ['- intraflagellar transport (IFT) complex A', '- Bardet-Biedl syndrome', '- Joubert syndrome']
+output-gpt-3.5-turbo-1106-799.txt	mismatch	target: M-calpain	output: ['M-calpain', "Alzheimer's disease", "Parkinson's disease"]
+output-gpt-3.5-turbo-1106-8.txt	match	target: T lymphocyte receptors	output: T lymphocyte receptors
+output-gpt-3.5-turbo-1106-80.txt	match	target: HDL2	output: HDL2 protein complex
+output-gpt-3.5-turbo-1106-800.txt	match	target: OSTCIII	output: OSTCIII complex
+output-gpt-3.5-turbo-1106-801.txt	match	target: ExoVII	output: ExoVII protein complex
+output-gpt-3.5-turbo-1106-802.txt	match	target: ThiGH	output: ThiGH protein complex
+output-gpt-3.5-turbo-1106-803.txt	mismatch	target: Hageman factor	output: Factor XIIa
+output-gpt-3.5-turbo-1106-804.txt	match	target: IF-2B	output: IF-2B
+output-gpt-3.5-turbo-1106-805.txt	match	target: ulaABC	output: ulaABC protein complex
+output-gpt-3.5-turbo-1106-806.txt	match	target: GINS	output: GINS protein complex
+output-gpt-3.5-turbo-1106-807.txt	match	target: meiotic cohesin	output: meiotic cohesin protein complex
+output-gpt-3.5-turbo-1106-808.txt	match	target: eIF-2	output: eIF-2 protein complex
+output-gpt-3.5-turbo-1106-809.txt	match	target: cysND	output: cysND protein complex
+output-gpt-3.5-turbo-1106-81.txt	match	target: DOM-A	output: DOM-A protein complex
+output-gpt-3.5-turbo-1106-810.txt	match	target: BBSomes	output: BBSomes
+output-gpt-3.5-turbo-1106-811.txt	match	target: laminin 3B32	output: laminin 3B32
+output-gpt-3.5-turbo-1106-812.txt	match	target: collagen trimer	output: Collagen trimer
+output-gpt-3.5-turbo-1106-813.txt	match	target: Cryopyrin inflammasome	output: Cryopyrin inflammasome
+output-gpt-3.5-turbo-1106-814.txt	mismatch	target: light harvesting complex II	output: Light harvesting complex II (LHCII)
+output-gpt-3.5-turbo-1106-815.txt	match	target: IgW immunoglobulin	output: IgW immunoglobulin
+output-gpt-3.5-turbo-1106-816.txt	mismatch	target: HAUS augmin	output: ['HAUS augmin complex', 'γ-tubulin']
+output-gpt-3.5-turbo-1106-817.txt	match	target: interleukin-13 receptor	output: Interleukin-13 receptor
+output-gpt-3.5-turbo-1106-818.txt	mismatch	target: inhibin A	output: Inhibin A, activin
+output-gpt-3.5-turbo-1106-819.txt	match	target: matrilin-2	output: matrilin-2 protein complex
+output-gpt-3.5-turbo-1106-82.txt	match	target: GPI-MT I	output: GPI-MT I
+output-gpt-3.5-turbo-1106-820.txt	mismatch	target: TREX-2	output: 1. TREX-2 protein complex
+output-gpt-3.5-turbo-1106-821.txt	match	target: IKK	output: IKK protein complex
+output-gpt-3.5-turbo-1106-822.txt	match	target: IL-13 receptor	output: IL-13 receptor
+output-gpt-3.5-turbo-1106-823.txt	mismatch	target: FMN reductase	output: ['FMN reductase protein complex', 'flavin mononucleotide reductase']
+output-gpt-3.5-turbo-1106-824.txt	match	target: ThiBPQ	output: ThiBPQ
+output-gpt-3.5-turbo-1106-825.txt	match	target: laminin-121	output: laminin-121
+output-gpt-3.5-turbo-1106-826.txt	match	target: IL-15 receptor	output: IL-15 receptor complex
+output-gpt-3.5-turbo-1106-827.txt	match	target: ribonuclease H2	output: Ribonuclease H2
+output-gpt-3.5-turbo-1106-828.txt	match	target: ETF	output: ETF complex
+output-gpt-3.5-turbo-1106-829.txt	match	target: EFF-1	output: EFF-1 protein complex
+output-gpt-3.5-turbo-1106-83.txt	match	target: DiaA	output: DiaA protein complex
+output-gpt-3.5-turbo-1106-830.txt	match	target: PMM-2	output: PMM-2 protein complex
+output-gpt-3.5-turbo-1106-831.txt	match	target: BCR	output: BCR protein complex
+output-gpt-3.5-turbo-1106-832.txt	match	target: surface IgG3	output: Surface IgG3
+output-gpt-3.5-turbo-1106-833.txt	match	target: 5HT3 receptor	output: 5HT3 receptor
+output-gpt-3.5-turbo-1106-834.txt	match	target: BRM	output: BRM protein complex
+output-gpt-3.5-turbo-1106-835.txt	match	target: plus-end kinesin	output: plus-end kinesin complex
+output-gpt-3.5-turbo-1106-836.txt	mismatch	target: ribonuclease MRP	output: Ribonuclease MRP (RNase MRP)
+output-gpt-3.5-turbo-1106-837.txt	mismatch	target: RQC	output: Ribosome-Associated Quality Control (RQC) complex
+output-gpt-3.5-turbo-1106-838.txt	mismatch	target: TRAMP4	output: TRAMP complex
+output-gpt-3.5-turbo-1106-839.txt	mismatch	target: Multimerin-1	output: ['Multimerin-1', 'glycoprotein Ib-IX-V', 'von Willebrand factor']
+output-gpt-3.5-turbo-1106-84.txt	match	target: Hpa3	output: Hpa3 protein complex
+output-gpt-3.5-turbo-1106-840.txt	match	target: BCR3	output: BCR3 protein complex
+output-gpt-3.5-turbo-1106-841.txt	match	target: PreaT	output: PreaT
+output-gpt-3.5-turbo-1106-842.txt	mismatch	target: EARP	output: Endosome-Associated Recycling Protein (EARP) complex
+output-gpt-3.5-turbo-1106-843.txt	match	target: BFC	output: BFC protein complex
+output-gpt-3.5-turbo-1106-844.txt	mismatch	target: Follitropin	output: Follitropin receptor
+output-gpt-3.5-turbo-1106-845.txt	match	target: DNA polymerase V	output: DNA polymerase V
+output-gpt-3.5-turbo-1106-846.txt	match	target: galectin-1	output: Galectin-1
+output-gpt-3.5-turbo-1106-847.txt	match	target: Rad50	output: Rad50 protein complex
+output-gpt-3.5-turbo-1106-848.txt	match	target: MPCOX	output: MPCOX
+output-gpt-3.5-turbo-1106-849.txt	match	target: preprimosome	output: preprimosome
+output-gpt-3.5-turbo-1106-85.txt	match	target: dRAF	output: dRAF protein complex
+output-gpt-3.5-turbo-1106-850.txt	match	target: yNPC	output: yNPC protein complex
+output-gpt-3.5-turbo-1106-851.txt	match	target: BUR kinase	output: BUR kinase protein complex
+output-gpt-3.5-turbo-1106-852.txt	match	target: CENP-A containing nucleosome	output: CENP-A containing nucleosome
+output-gpt-3.5-turbo-1106-853.txt	mismatch	target: MAC	output: ['- membrane attack complex (MAC)', '- C5b', '- C6', '- C7', '- C8', '- C9']
+output-gpt-3.5-turbo-1106-854.txt	match	target: BRISC	output: BRISC
+output-gpt-3.5-turbo-1106-855.txt	match	target: alphaM-beta2 integrin	output: alphaM-beta2 integrin
+output-gpt-3.5-turbo-1106-856.txt	match	target: kbaYZ	output: kbaYZ complex
+output-gpt-3.5-turbo-1106-857.txt	match	target: J1-180	output: J1-180 protein complex
+output-gpt-3.5-turbo-1106-858.txt	match	target: gammaTuSCs	output: gammaTuSCs
+output-gpt-3.5-turbo-1106-859.txt	match	target: membrane-bound IgG1	output: Membrane-bound IgG1 protein complex
+output-gpt-3.5-turbo-1106-86.txt	match	target: SufBCDs	output: SufBCDs protein complex
+output-gpt-3.5-turbo-1106-860.txt	match	target: PGGTase-I	output: PGGTase-I
+output-gpt-3.5-turbo-1106-861.txt	match	target: Shu	output: Shu protein complex
+output-gpt-3.5-turbo-1106-862.txt	match	target: collagen type III trimer	output: Collagen type III trimer
+output-gpt-3.5-turbo-1106-863.txt	match	target: GABA-A receptor	output: GABA-A receptor
+output-gpt-3.5-turbo-1106-864.txt	match	target: TRiC/CCT Chaperonin	output: TRiC/CCT chaperonin
+output-gpt-3.5-turbo-1106-865.txt	mismatch	target: eukaryotic translation initiation factor 3	output: eukaryotic translation initiation factor 3 (eIF3)
+output-gpt-3.5-turbo-1106-866.txt	match	target: AP-4 adaptor	output: AP-4 adaptor protein complex
+output-gpt-3.5-turbo-1106-867.txt	mismatch	target: RES	output: ['RES protein complex', 'NF-κB transcription factor']
+output-gpt-3.5-turbo-1106-868.txt	match	target: PFDL modules	output: PFDL modules
+output-gpt-3.5-turbo-1106-869.txt	match	target: ICE	output: ICE
+output-gpt-3.5-turbo-1106-87.txt	match	target: matrilin-3	output: matrilin-3
+output-gpt-3.5-turbo-1106-870.txt	match	target: Canonical replication protein A	output: Canonical replication protein A
+output-gpt-3.5-turbo-1106-871.txt	match	target: GatFAB	output: GatFAB
+output-gpt-3.5-turbo-1106-872.txt	mismatch	target: Polymerase Associated Factor 1	output: PAF1 complex
+output-gpt-3.5-turbo-1106-873.txt	mismatch	target: CPS	output: Lysosomal Cysteine Protease System (CPS)
+output-gpt-3.5-turbo-1106-874.txt	match	target: Rix1	output: Rix1 protein complex
+output-gpt-3.5-turbo-1106-875.txt	match	target: mtEXO	output: mtEXO complex
+output-gpt-3.5-turbo-1106-876.txt	match	target: BDC	output: BDC protein complex
+output-gpt-3.5-turbo-1106-877.txt	mismatch	target: IgE	output: ['IgE complex', 'FcεRI']
+output-gpt-3.5-turbo-1106-878.txt	mismatch	target: VPS4	output: ['VPS4 complex', 'endosomal sorting complexes required for transport (ESCRT) machinery']
+output-gpt-3.5-turbo-1106-879.txt	mismatch	target: Mis12	output: ['Mis12 protein complex', 'Ndc80 complex']
+output-gpt-3.5-turbo-1106-88.txt	match	target: TGF-beta ligand-receptor	output: TGF-beta ligand-receptor complex
+output-gpt-3.5-turbo-1106-880.txt	match	target: MetNIQ	output: MetNIQ protein complex
+output-gpt-3.5-turbo-1106-881.txt	match	target: Lutropin	output: Lutropin protein complex
+output-gpt-3.5-turbo-1106-882.txt	match	target: HIR	output: HIR protein complex
+output-gpt-3.5-turbo-1106-883.txt	match	target: GATE-16	output: GATE-16 protein complex
+output-gpt-3.5-turbo-1106-884.txt	match	target: laminin-3	output: laminin-3
+output-gpt-3.5-turbo-1106-885.txt	match	target: mitochondrial editosome	output: mitochondrial editosome
+output-gpt-3.5-turbo-1106-886.txt	match	target: Tenascin-C	output: Tenascin-C
+output-gpt-3.5-turbo-1106-887.txt	match	target: IL-4 receptor	output: IL-4 receptor
+output-gpt-3.5-turbo-1106-888.txt	mismatch	target: nucleotide-excision repair factor 4	output: ['NERF4', 'nucleotide-excision repair factor 4']
+output-gpt-3.5-turbo-1106-889.txt	match	target: cyt b6-f	output: cyt b6-f protein complex
+output-gpt-3.5-turbo-1106-89.txt	match	target: mitochondrial cytochrome bc1	output: Mitochondrial cytochrome bc1 complex
+output-gpt-3.5-turbo-1106-890.txt	match	target: BLOC-3	output: BLOC-3
+output-gpt-3.5-turbo-1106-891.txt	mismatch	target: IPMDH	output: isocitrate dehydrogenase kinase-dependent protein complex (IPMDH)
+output-gpt-3.5-turbo-1106-892.txt	match	target: parCE	output: parCE protein complex
+output-gpt-3.5-turbo-1106-893.txt	mismatch	target: CESA	output: Cellulose synthase complex (CESA)
+output-gpt-3.5-turbo-1106-894.txt	match	target: HEX A	output: HEX A protein complex
+output-gpt-3.5-turbo-1106-895.txt	mismatch	target: PDH	output: Pyruvate dehydrogenase (PDH) complex
+output-gpt-3.5-turbo-1106-896.txt	match	target: NuMRP	output: NuMRP protein complex
+output-gpt-3.5-turbo-1106-897.txt	match	target: IgG2	output: IgG2 protein complex
+output-gpt-3.5-turbo-1106-898.txt	mismatch	target: RNR	output: Ribonucleotide reductase (RNR)
+output-gpt-3.5-turbo-1106-899.txt	match	target: PEP-A	output: PEP-A protein complex
+output-gpt-3.5-turbo-1106-9.txt	match	target: photosystem I antenna	output: Photosystem I antenna
+output-gpt-3.5-turbo-1106-90.txt	match	target: GBAF	output: GBAF protein complex
+output-gpt-3.5-turbo-1106-900.txt	match	target: LHCI	output: LHCI
+output-gpt-3.5-turbo-1106-901.txt	mismatch	target: interleukin-35	output: Interleukin-35 (IL-35)
+output-gpt-3.5-turbo-1106-902.txt	match	target: NLRP3 inflammasome	output: NLRP3 inflammasome
+output-gpt-3.5-turbo-1106-903.txt	match	target: interleukin-12 receptor	output: interleukin-12 receptor
+output-gpt-3.5-turbo-1106-904.txt	match	target: retromer CSC	output: retromer CSC
+output-gpt-3.5-turbo-1106-905.txt	match	target: surface IgG4	output: Surface IgG4
+output-gpt-3.5-turbo-1106-906.txt	match	target: BCDX2	output: BCDX2
+output-gpt-3.5-turbo-1106-907.txt	mismatch	target: gamma-TuRC	output: gamma-tubulin ring complex (gamma-TuRC)
+output-gpt-3.5-turbo-1106-908.txt	match	target: electron transport complex IV	output: electron transport complex IV
+output-gpt-3.5-turbo-1106-909.txt	mismatch	target: TXT	output: Transcription export (TXT) protein complex
+output-gpt-3.5-turbo-1106-91.txt	match	target: TRAP transporter	output: TRAP transporter
+output-gpt-3.5-turbo-1106-910.txt	match	target: SPOTS	output: SPOTS protein complex
+output-gpt-3.5-turbo-1106-911.txt	match	target: DASH	output: DASH protein complex
+output-gpt-3.5-turbo-1106-912.txt	match	target: SPT	output: SPT protein complex
+output-gpt-3.5-turbo-1106-913.txt	match	target: surface IgE	output: Surface IgE
+output-gpt-3.5-turbo-1106-914.txt	mismatch	target: DSIF	output: P-TEFb complex
+output-gpt-3.5-turbo-1106-915.txt	match	target: VCB	output: VCB protein complex
+output-gpt-3.5-turbo-1106-916.txt	match	target: interleukin-2 receptor	output: Interleukin-2 receptor
+output-gpt-3.5-turbo-1106-917.txt	match	target: p28	output: p28 protein complex
+output-gpt-3.5-turbo-1106-918.txt	mismatch	target: Fc-epsilon receptor I	output: Fc-epsilon receptor I (FcεRI)
+output-gpt-3.5-turbo-1106-919.txt	match	target: mt-SSU	output: mt-SSU
+output-gpt-3.5-turbo-1106-92.txt	mismatch	target: Toc	output: ['Toc protein complex', 'chloroplast outer membrane']
+output-gpt-3.5-turbo-1106-920.txt	match	target: Fcj1	output: Fcj1 protein complex
+output-gpt-3.5-turbo-1106-921.txt	match	target: LLC	output: LLC protein complex
+output-gpt-3.5-turbo-1106-922.txt	mismatch	target: IFT-B	output: Intraflagellar transport B (IFT-B) complex
+output-gpt-3.5-turbo-1106-923.txt	match	target: laminin-3A32	output: laminin-3A32
+output-gpt-3.5-turbo-1106-924.txt	match	target: AREX	output: AREX protein complex
+output-gpt-3.5-turbo-1106-925.txt	mismatch	target: HSC	output: Heat Shock Complex (HSC)
+output-gpt-3.5-turbo-1106-926.txt	mismatch	target: IL-3 receptor	output: ['IL-3 receptor', 'IL-3 receptor α', 'IL-3 receptor β']
+output-gpt-3.5-turbo-1106-927.txt	match	target: Kir6.2-SUR	output: Kir6.2-SUR complex
+output-gpt-3.5-turbo-1106-928.txt	match	target: electron transport complex II	output: electron transport complex II
+output-gpt-3.5-turbo-1106-929.txt	match	target: sgaTBA	output: sgaTBA protein complex
+output-gpt-3.5-turbo-1106-93.txt	match	target: phenylacetyl-CoA 1,2-epoxidase	output: Phenylacetyl-CoA 1,2-epoxidase
+output-gpt-3.5-turbo-1106-930.txt	match	target: Tenascin-R	output: Tenascin-R
+output-gpt-3.5-turbo-1106-931.txt	match	target: interleukin-23 receptor	output: Interleukin-23 receptor
+output-gpt-3.5-turbo-1106-932.txt	mismatch	target: necrosome	output: The necrosome
+output-gpt-3.5-turbo-1106-933.txt	match	target: Dissolvasome	output: Dissolvasome
+output-gpt-3.5-turbo-1106-934.txt	match	target: membrane-bound IgD	output: Membrane-bound IgD protein complex
+output-gpt-3.5-turbo-1106-935.txt	mismatch	target: RFC	output: Replication factor C (RFC) complex
+output-gpt-3.5-turbo-1106-936.txt	mismatch	target: GATOR1	output: ['GATOR1 complex', 'GATOR2 complex', 'mTORC1']
+output-gpt-3.5-turbo-1106-937.txt	mismatch	target: ATAC	output: ATAC (Ada-Two-A Containing) complex
+output-gpt-3.5-turbo-1106-938.txt	match	target: GIM	output: GIM protein complex
+output-gpt-3.5-turbo-1106-939.txt	match	target: NUMAC	output: NUMAC
+output-gpt-3.5-turbo-1106-94.txt	mismatch	target: photosystem IIs	output: Photosystem II
+output-gpt-3.5-turbo-1106-940.txt	match	target: IL-10-receptor	output: IL-10-receptor
+output-gpt-3.5-turbo-1106-941.txt	match	target: IL-1 receptor	output: IL-1 receptor
+output-gpt-3.5-turbo-1106-942.txt	match	target: HULC	output: HULC
+output-gpt-3.5-turbo-1106-943.txt	match	target: TauD	output: TauD protein complex
+output-gpt-3.5-turbo-1106-944.txt	match	target: HslVU protease	output: HslVU protease
+output-gpt-3.5-turbo-1106-945.txt	match	target: IL-23 receptor	output: IL-23 receptor
+output-gpt-3.5-turbo-1106-946.txt	match	target: APOBEC	output: APOBEC
+output-gpt-3.5-turbo-1106-947.txt	match	target: FcgRI	output: FcgRI
+output-gpt-3.5-turbo-1106-948.txt	match	target: Hyd-3	output: Hyd-3
+output-gpt-3.5-turbo-1106-949.txt	match	target: COMPASS	output: COMPASS
+output-gpt-3.5-turbo-1106-95.txt	match	target: CDL4	output: CDL4 protein complex
+output-gpt-3.5-turbo-1106-950.txt	match	target: inhibin B	output: Inhibin B
+output-gpt-3.5-turbo-1106-951.txt	match	target: GMPR2	output: GMPR2
+output-gpt-3.5-turbo-1106-952.txt	match	target: RSF	output: RSF protein complex
+output-gpt-3.5-turbo-1106-953.txt	match	target: invertasome	output: invertasome
+output-gpt-3.5-turbo-1106-954.txt	match	target: caseinolytic protease X	output: caseinolytic protease X
+output-gpt-3.5-turbo-1106-955.txt	mismatch	target: AHCR	output: ['AHCR protein complex', 'ZYR-348']
+output-gpt-3.5-turbo-1106-956.txt	match	target: LsrACDB	output: LsrACDB
+output-gpt-3.5-turbo-1106-957.txt	match	target: PET	output: PET protein complex
+output-gpt-3.5-turbo-1106-958.txt	match	target: Nic96	output: Nic96 protein complex
+output-gpt-3.5-turbo-1106-959.txt	match	target: RZZ	output: RZZ protein complex
+output-gpt-3.5-turbo-1106-96.txt	match	target: NAD(P)H dehydrogenase complex (plastoquinone)	output: NAD(P)H dehydrogenase complex (plastoquinone)
+output-gpt-3.5-turbo-1106-960.txt	match	target: MCM4/6/7	output: MCM4/6/7 complex
+output-gpt-3.5-turbo-1106-961.txt	match	target: THSC	output: THSC protein complex
+output-gpt-3.5-turbo-1106-962.txt	match	target: interleukin-6 receptor	output: Interleukin-6 receptor
+output-gpt-3.5-turbo-1106-963.txt	match	target: U12-type prespliceosome	output: U12-type prespliceosome
+output-gpt-3.5-turbo-1106-964.txt	match	target: DX2	output: DX2 protein complex
+output-gpt-3.5-turbo-1106-965.txt	match	target: FcaRI	output: FcaRI
+output-gpt-3.5-turbo-1106-966.txt	match	target: TRAPP1	output: TRAPP1 protein complex
+output-gpt-3.5-turbo-1106-967.txt	mismatch	target: BLOC-1	output: ['BLOC-1', 'BLOC-2', 'BLOC-3']
+output-gpt-3.5-turbo-1106-968.txt	match	target: ACF	output: ACF protein complex
+output-gpt-3.5-turbo-1106-969.txt	match	target: F1-Fo ATP synthase	output: F1-Fo ATP synthase complex
+output-gpt-3.5-turbo-1106-97.txt	match	target: SWI/SNF-B	output: SWI/SNF-B
+output-gpt-3.5-turbo-1106-970.txt	match	target: NifS	output: NifS protein complex
+output-gpt-3.5-turbo-1106-971.txt	match	target: SAT	output: SAT protein complex
+output-gpt-3.5-turbo-1106-972.txt	match	target: calpain	output: Calpain
+output-gpt-3.5-turbo-1106-973.txt	match	target: cohesin	output: Cohesin protein complex
+output-gpt-3.5-turbo-1106-974.txt	match	target: SPC	output: SPC complex
+output-gpt-3.5-turbo-1106-975.txt	match	target: 3M	output: 3M complex
+output-gpt-3.5-turbo-1106-976.txt	match	target: EAL	output: EAL protein complex
+output-gpt-3.5-turbo-1106-977.txt	match	target: MPTP	output: MPTP protein complex
+output-gpt-3.5-turbo-1106-978.txt	mismatch	target: protein kinase 5	output: Protein kinase 5 (PK5)
+output-gpt-3.5-turbo-1106-979.txt	match	target: RNAPIII	output: RNAPIII protein complex
+output-gpt-3.5-turbo-1106-98.txt	mismatch	target: SC5b-7	output: ['SC5b-7 complex', 'Membrane attack complex (MAC)']
+output-gpt-3.5-turbo-1106-980.txt	match	target: Paf1	output: Paf1 complex
+output-gpt-3.5-turbo-1106-981.txt	match	target: matrilin-1	output: matrilin-1
+output-gpt-3.5-turbo-1106-982.txt	match	target: flavocytochrome b558	output: Flavocytochrome b558
+output-gpt-3.5-turbo-1106-983.txt	mismatch	target: SAE	output: SUMO activating enzyme (SAE) protein complex
+output-gpt-3.5-turbo-1106-984.txt	match	target: TINTIN	output: TINTIN protein complex
+output-gpt-3.5-turbo-1106-985.txt	match	target: COMPASSs	output: COMPASSs
+output-gpt-3.5-turbo-1106-986.txt	match	target: IDH3	output: IDH3 protein complex
+output-gpt-3.5-turbo-1106-987.txt	match	target: SsuD	output: SsuD protein complex
+output-gpt-3.5-turbo-1106-988.txt	match	target: IgE immunoglobulin	output: IgE immunoglobulin
+output-gpt-3.5-turbo-1106-989.txt	match	target: VTC	output: VTC protein complex
+output-gpt-3.5-turbo-1106-99.txt	mismatch	target: WASH	output: ['WASH protein complex', 'Arp2/3 complex']
+output-gpt-3.5-turbo-1106-990.txt	match	target: cytochrome bc(1)	output: Cytochrome bc(1) complex
+output-gpt-3.5-turbo-1106-991.txt	mismatch	target: MICOSs	output: MITOCHONDRIAL CONTACT SITE AND CRISTAE ORGANIZING SYSTEM (MICOSs)
+output-gpt-3.5-turbo-1106-992.txt	match	target: interleukin-20 receptor	output: interleukin-20 receptor
+output-gpt-3.5-turbo-1106-993.txt	match	target: IL-12	output: IL-12 protein complex
+output-gpt-3.5-turbo-1106-994.txt	mismatch	target: NoRC	output: Nucleolar remodeling complex (NoRC)
+output-gpt-3.5-turbo-1106-995.txt	match	target: EKC	output: EKC protein complex
+output-gpt-3.5-turbo-1106-996.txt	mismatch	target: IDH	output: Isocitrate dehydrogenase (IDH) complex
+output-gpt-3.5-turbo-1106-997.txt	match	target: SufS	output: SufS protein complex
+output-gpt-3.5-turbo-1106-998.txt	match	target: laminin-4	output: Laminin-4
+output-gpt-3.5-turbo-1106-999.txt	match	target: E-RTC	output: E-RTC protein complex
