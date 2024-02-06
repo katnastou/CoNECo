@@ -1,0 +1,24 @@
+T21	Complex 32 40	clathrin
+T5	Complex 577 602	adaptor protein complex 2
+T22	Complex 604 608	AP-2
+T23	Complex 745 753	clathrin
+T24	Complex 662 670	clathrin
+T25	Complex 869 873	AP-2
+T26	Complex 878 886	clathrin
+T27	Complex 1160 1164	AP-2
+T28	Complex 1298 1302	AP-1
+T29	Complex 1404 1408	AP-2
+T30	Complex 1413 1421	clathrin
+T32	Complex 1045 1051	14.5 S
+N1	Reference T21 GO:0071439										
+N2	Reference T22 GO:0030122										
+N3	Reference T23 GO:0071439										
+N4	Reference T24 GO:0071439										
+N5	Reference T25 GO:0030122										
+N6	Reference T26 GO:0071439										
+N7	Reference T27 GO:0030122										
+N9	Reference T29 GO:0030122										
+N10	Reference T30 GO:0071439										
+N11	Reference T5 GO:0030122									AP-2 adaptor complex
+N8	Reference T28 GO:0030121							AP-1 adaptor complex
+#1	AnnotatorNotes T32	No normalization found for this

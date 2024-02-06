@@ -1,0 +1,18 @@
+T13	Complex 55 59	RISC
+T14	Complex 61 67	miRISC
+T15	Complex 100 106	miRISC
+T16	Complex 164 170	miRISC
+T17	Complex 297 303	miRISC
+T19	Complex 703 708	ESCRT
+T20	Complex 943 949	miRISC
+T21	Complex 1032 1038	miRISC
+T22	Complex 1096 1102	miRISC
+N1	Reference T13 GO:0016442			
+N2	Reference T14 GO:0016442			
+N3	Reference T15 GO:0016442			
+N4	Reference T16 GO:0016442			
+N5	Reference T17 GO:0016442			
+N6	Reference T19 GO:0036452			
+N7	Reference T20 GO:0016442			
+N8	Reference T21 GO:0016442			
+N9	Reference T22 GO:0016442			

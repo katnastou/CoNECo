@@ -1,0 +1,8 @@
+T12	Complex 7 22	gamma-secretase
+T13	Complex 70 85	Gamma-secretase
+T17	Complex 547 562	gamma-secretase
+T24	Complex 1347 1352	gamma
+N1	Reference T13 GO:0070765					gamma-secretase complex
+N2	Reference T12 GO:0070765				gamma-secretase complex
+N3	Reference T17 GO:0070765			gamma-secretase complex
+N4	Reference T24 GO:0070765		gamma-secretase complex

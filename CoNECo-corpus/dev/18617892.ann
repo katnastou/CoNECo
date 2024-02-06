@@ -1,0 +1,6 @@
+T9	Complex 155 176	nuclear factor-kappaB
+T10	Complex 178 187	NF-kappaB
+T23	Complex 956 965	NF-kappaB
+N1	Reference T9 GO:0071159											NF-kappaB complex
+N2	Reference T10 GO:0071159										NF-kappaB complex
+N3	Reference T23 GO:0071159									NF-kappaB complex

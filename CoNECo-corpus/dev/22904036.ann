@@ -1,0 +1,6 @@
+T28	Complex 635 639	AMPK
+T29	Complex 798 808	AMP kinase
+T31	Complex 1298 1302	AMPK
+N1	Reference T28 GO:0031588			
+N2	Reference T31 GO:0031588			
+N3	Reference T29 GO:0031588			nucleotide-activated protein kinase complex

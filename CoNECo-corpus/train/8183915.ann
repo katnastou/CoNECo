@@ -1,0 +1,6 @@
+T28	Complex 1070 1084	Rel/NF-kappa B
+T29	Complex 255 265	NF-kappa B
+N1	Reference T29 GO:0071159							NF-kappaB complex
+N2	Reference T28 GO:0071159						NF-kappaB complex
+T1	Complex 67 77	NF-kappa B
+N3	Reference T1 GO:0071159	NF-kappaB complex

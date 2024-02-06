@@ -1,0 +1,10 @@
+T25	Complex 107 113	Arp2/3
+T26	Complex 387 393	Arp2/3
+T33	Complex 748 754	Arp2/3
+T37	Complex 1115 1121	Arp2/3
+T39	Complex 1499 1506	Arp2/3p
+N1	Reference T25 GO:0005885			
+N2	Reference T26 GO:0005885			
+N3	Reference T33 GO:0005885			
+N4	Reference T37 GO:0005885			
+N5	Reference T39 GO:0005885		

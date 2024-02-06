@@ -1,0 +1,10 @@
+T18	Complex 486 521	ER-mitochondria encounter structure
+T19	Complex 523 528	ERMES
+T32	Complex 907 912	ERMES
+T33	Complex 1077 1082	ERMES
+T34	Complex 1223 1228	ERMES
+N1	Reference T18 GO:0032865	
+N2	Reference T19 GO:0032865	
+N3	Reference T32 GO:0032865	
+N4	Reference T33 GO:0032865	
+N5	Reference T34 GO:0032865	

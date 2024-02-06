@@ -1,0 +1,4 @@
+T7	Complex 421 427	Arp2/3
+T15	Complex 824 834	actomyosin
+N1	Reference T7 GO:0005885				
+N2	Reference T15 GO:0042642				

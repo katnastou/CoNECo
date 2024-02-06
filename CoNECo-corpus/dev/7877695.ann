@@ -1,0 +1,8 @@
+T3	Complex 28 45	RNA polymerase II
+T4	Complex 63 80	RNA polymerase II
+T5	Complex 104 121	RNA polymerase II
+T6	Complex 294 311	RNA polymerase II
+N1	Reference T3 GO:0016591	
+N2	Reference T4 GO:0016591	
+N3	Reference T5 GO:0016591	
+N4	Reference T6 GO:0016591	

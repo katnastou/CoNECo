@@ -1,0 +1,6 @@
+T21	Complex 174 177	ECV
+T22	Complex 571 574	ECV
+T1	Complex 179 199	Elongin B/C-CUL2-VHL
+N1	Reference T1 GO:0030891				VCB complex
+N2	Reference T21 GO:0030891			VCB complex
+N3	Reference T22 GO:0030891		VCB complex

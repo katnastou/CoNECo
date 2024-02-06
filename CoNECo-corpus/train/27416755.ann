@@ -1,0 +1,14 @@
+T26	Complex 77 87	proteasome
+T27	Complex 239 249	proteasome
+T28	Complex 441 451	proteasome
+T30	Complex 985 995	proteasome
+T31	Complex 1036 1046	proteasome
+T32	Complex 1123 1133	proteasome
+T33	Complex 1165 1175	proteasome
+N1	Reference T26 GO:0000502	
+N2	Reference T27 GO:0000502	
+N3	Reference T28 GO:0000502	
+N4	Reference T30 GO:0000502	
+N5	Reference T31 GO:0000502	
+N6	Reference T32 GO:0000502	
+N7	Reference T33 GO:0000502	

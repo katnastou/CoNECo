@@ -1,0 +1,10 @@
+T14	Complex 130 158	2-oxoglutarate dehydrogenase
+T16	Complex 251 256	2OGDH
+T17	Complex 258 286	2-oxoglutarate dehydrogenase
+T19	Complex 956 978	pyruvate dehydrogenase
+T21	Complex 1983 1988	2OGDH
+N1	Reference T14 GO:0045241						cytosolic alpha-ketoglutarate dehydrogenase complex
+N2	Reference T17 GO:0045241					cytosolic alpha-ketoglutarate dehydrogenase complex
+N3	Reference T16 GO:0045241				cytosolic alpha-ketoglutarate dehydrogenase complex
+N4	Reference T21 GO:0045241			cytosolic alpha-ketoglutarate dehydrogenase complex
+N5	Reference T19 GO:0045254		pyruvate dehydrogenase complex

@@ -1,0 +1,10 @@
+T1	Complex 140 151	calcineurin
+T8	Complex 1223 1234	calcineurin
+T13	Complex 78 89	calcineurin
+T14	Complex 1114 1125	calcineurin
+T15	Complex 378 389	calcineurin
+N1	Reference T1 GO:0005955	
+N2	Reference T8 GO:0005955	
+N3	Reference T13 GO:0005955	
+N4	Reference T14 GO:0005955	
+N5	Reference T15 GO:0005955	

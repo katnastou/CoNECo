@@ -1,0 +1,30 @@
+T7	Complex 272 294	protein phosphatases 1
+T8	Complex 272 292;296 298	protein phosphatases 2B
+T19	Complex 576 598	protein phosphatase 2A
+T23	Complex 712 734	protein phosphatase 2A
+T24	OOS 752 776	protein phosphatases 2A0
+T25	OOS 752 772;778 781	protein phosphatases 2A1
+T26	OOS 752 772;787 790	protein phosphatases 2A2
+T29	Complex 887 909	protein phosphatase 2A
+T31	OOS 1076 1099	protein phosphatase 2A0
+T32	OOS 1076 1095;1101 1104	protein phosphatase 2A1
+T33	OOS 1076 1095;1110 1113	protein phosphatase 2A2
+T34	Complex 1175 1197	protein phosphatase 2A
+T35	Complex 1234 1256	protein phosphatase 2A
+T39	Complex 1461 1483	protein phosphatase 2A
+T47	Complex 2096 2118	protein phosphatase 2A
+N1	Reference T19 GO:0000159																								protein phosphatase type 2A complex
+N2	Reference T29 GO:0000159																							protein phosphatase type 2A complex
+N3	Reference T23 GO:0000159																						protein phosphatase type 2A complex
+N4	Reference T47 GO:0000159																					protein phosphatase type 2A complex
+N5	Reference T39 GO:0000159																				protein phosphatase type 2A complex
+N6	Reference T35 GO:0000159																			protein phosphatase type 2A complex
+N7	Reference T34 GO:0000159																		protein phosphatase type 2A complex
+N8	Reference T7 GO:0000164																	protein phosphatase type 1 complex
+#1	AnnotatorNotes T25	TODO: check annotations
+#2	AnnotatorNotes T26	TODO: check annotations
+#3	AnnotatorNotes T24	TODO: check annotations
+#4	AnnotatorNotes T31	TODO: check annotations
+#5	AnnotatorNotes T33	TODO: check annotations
+#6	AnnotatorNotes T32	TODO: check annotations
+N9	Reference T8 GO:0005955		calcineurin complex

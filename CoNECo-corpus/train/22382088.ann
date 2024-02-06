@@ -1,0 +1,12 @@
+T3	Complex 13 28	type V collagen
+T5	Complex 100 115	Type V collagen
+T6	Complex 248 263	type V collagen
+T9	Complex 398 413	type V collagen
+T10	Complex 858 873	type V collagen
+T12	Complex 942 957	type V collagen
+N1	Reference T3 GO:0005588							collagen type V trimer
+N2	Reference T5 GO:0005588						collagen type V trimer
+N3	Reference T6 GO:0005588					collagen type V trimer
+N4	Reference T9 GO:0005588				collagen type V trimer
+N5	Reference T10 GO:0005588			collagen type V trimer
+N6	Reference T12 GO:0005588		collagen type V trimer

@@ -1,0 +1,8 @@
+T1	Complex 119 122	NPC
+T2	Complex 324 327	NPC
+T3	Complex 536 540	NPCs
+T4	Complex 923 927	NPCs
+N1	Reference T3 GO:0005643	nuclear pore
+N2	Reference T4 GO:0005643	nuclear pore
+N3	Reference T2 GO:0005643	nuclear pore
+N4	Reference T1 GO:0005643	nuclear pore

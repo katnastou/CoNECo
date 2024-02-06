@@ -1,0 +1,12 @@
+T15	OOS 277 296	farnesyltransferase
+T16	OOS 189 208	farnesyltransferase
+T17	Complex 217 223;236 262	type I geranylgeranyltransferases
+T18	Complex 228 262	type II geranylgeranyltransferases
+T19	Complex 264 270	GGTase
+T20	Complex 735 744	GGTase-II
+T21	Complex 301 309	GGTase-I
+N3	Reference T19 GO:0005968										Rab-protein geranylgeranyltransferase complex
+N4	Reference T18 GO:0005968									Rab-protein geranylgeranyltransferase complex
+N5	Reference T20 GO:0005968								Rab-protein geranylgeranyltransferase complex
+#1	AnnotatorNotes T21	https://www.ebi.ac.uk/complexportal/complex/CPX-1635
+#2	AnnotatorNotes T17	https://www.ebi.ac.uk/complexportal/complex/CPX-1635

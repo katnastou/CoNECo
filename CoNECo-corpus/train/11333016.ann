@@ -1,0 +1,12 @@
+T13	Complex 303 330	nuclear cap binding complex
+T14	Complex 332 335	CBC
+T16	Complex 561 564	CBC
+T17	Complex 996 999	CBC
+T18	Complex 1168 1192	U snRNA export complexes
+T19	Complex 582 604	U snRNA export complex
+N1	Reference T13 GO:0005846												
+N2	Reference T14 GO:0005846												
+N3	Reference T16 GO:0005846												
+N4	Reference T17 GO:0005846												
+#1	AnnotatorNotes T19	I am not sure about the normalization here
+#2	AnnotatorNotes T18	I am not sure about the normalization here

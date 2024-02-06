@@ -1,0 +1,16 @@
+T10	Complex 43 46	MSL
+T11	Complex 231 234	MSL
+T12	Complex 397 400	MSL
+T13	Complex 525 528	MSL
+T15	Complex 747 750	MSL
+T16	Complex 880 883	MSL
+T17	Complex 1020 1023	MSL
+T18	Complex 1106 1109	MSL
+N1	Reference T10 GO:0072487				
+N2	Reference T11 GO:0072487				
+N3	Reference T12 GO:0072487				
+N4	Reference T13 GO:0072487				
+N5	Reference T15 GO:0072487				
+N6	Reference T16 GO:0072487				
+N7	Reference T17 GO:0072487				
+N8	Reference T18 GO:0072487				

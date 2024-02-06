@@ -1,0 +1,5 @@
+T14	Complex 173 178	PeBoW
+T16	Complex 1071 1076	PeBoW
+T17	OOS 752 760	ribosome
+N1	Reference T14 GO:0070545									
+N2	Reference T16 GO:0070545									

@@ -1,0 +1,7 @@
+T21	Complex 1627 1638	calcineurin
+T26	Complex 1029 1040	calcineurin
+T27	OOS 1044 1073	calcium-dependent phosphatase
+T30	Complex 1409 1420	calcineurin
+N1	Reference T21 GO:0005955		
+N2	Reference T26 GO:0005955		
+N3	Reference T30 GO:0005955		

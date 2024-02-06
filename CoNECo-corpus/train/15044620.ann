@@ -1,0 +1,4 @@
+T37	Complex 790 794	AP-1
+T38	Complex 897 901	AP-1
+N1	Reference T37 GO:0035976					transcription factor AP-1 complex
+N2	Reference T38 GO:0035976				transcription factor AP-1 complex

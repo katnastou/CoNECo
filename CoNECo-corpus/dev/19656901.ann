@@ -1,0 +1,4 @@
+T43	Complex 1925 1934	NF-kappaB
+T61	Complex 555 566	signalosome
+N1	Reference T43 GO:0071159						NF-kappaB complex
+N2	Reference T61 GO:0008180					COP9 signalosome

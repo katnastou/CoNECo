@@ -1,0 +1,14 @@
+T6	Complex 14 23	NF-kappaB
+T9	Complex 147 156	NF-kappaB
+T10	Complex 300 309	NF-kappaB
+T11	Complex 375 384	NF-kappaB
+T18	Complex 701 710	NF-kappaB
+T20	Complex 784 793	NF-kappaB
+T22	Complex 1050 1059	NF-kappaB
+N1	Reference T6 GO:0071159															NF-kappaB complex
+N2	Reference T9 GO:0071159														NF-kappaB complex
+N3	Reference T10 GO:0071159													NF-kappaB complex
+N4	Reference T11 GO:0071159												NF-kappaB complex
+N5	Reference T20 GO:0071159											NF-kappaB complex
+N6	Reference T22 GO:0071159										NF-kappaB complex
+N7	Reference T18 GO:0071159									NF-kappaB complex

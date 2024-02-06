@@ -1,0 +1,8 @@
+T9	Complex 60 69	shelterin
+T10	Complex 185 194	shelterin
+T11	Complex 333 342	shelterin
+T13	Complex 818 827	shelterin
+N1	Reference T9 GO:0070187				
+N2	Reference T10 GO:0070187				
+N3	Reference T11 GO:0070187				
+N4	Reference T13 GO:0070187				

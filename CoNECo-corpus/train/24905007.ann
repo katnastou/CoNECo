@@ -1,0 +1,6 @@
+T3	Complex 358 365	FA core
+T4	Complex 472 479	FA core
+T11	Complex 943 950	FA core
+N1	Reference T3 GO:0043240							Fanconi anaemia nuclear complex
+N2	Reference T4 GO:0043240						Fanconi anaemia nuclear complex
+N3	Reference T11 GO:0043240					Fanconi anaemia nuclear complex

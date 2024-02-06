@@ -1,0 +1,24 @@
+T1	OOS 190 196	PDC-E2
+T2	Complex 190 193	PDC
+T3	OOS 906 912	PDC-E2
+T4	OOS 1052 1058	PDC-E2
+T5	OOS 1525 1531	PDC-E2
+T7	Complex 30 52	pyruvate dehydrogenase
+T8	OOS 142 144	E2
+T9	Complex 158 180	pyruvate dehydrogenase
+T35	Complex 1691 1694	PDC
+N1	Reference T7 GO:0045254																pyruvate dehydrogenase complex
+N2	Reference T9 GO:0045254															pyruvate dehydrogenase complex
+N3	Reference T35 GO:0045254														pyruvate dehydrogenase complex
+#1	AnnotatorNotes T1	https://www.uniprot.org/uniprotkb/P10515/entry
+#2	AnnotatorNotes T3	https://www.uniprot.org/uniprotkb/P10515/entry
+#3	AnnotatorNotes T4	https://www.uniprot.org/uniprotkb/P10515/entry
+#4	AnnotatorNotes T5	https://www.uniprot.org/uniprotkb/P10515/entry
+#5	AnnotatorNotes T8	https://www.uniprot.org/uniprotkb/P10515/entry
+N4	Reference T2 GO:0045254					pyruvate dehydrogenase complex
+T6	Complex 1052 1055	PDC
+N5	Reference T6 GO:0045254				pyruvate dehydrogenase complex
+T10	Complex 906 909	PDC
+N6	Reference T10 GO:0045254			pyruvate dehydrogenase complex
+T11	Complex 1525 1528	PDC
+N7	Reference T11 GO:0045254		pyruvate dehydrogenase complex

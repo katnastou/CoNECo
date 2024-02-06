@@ -1,0 +1,8 @@
+T10	Complex 718 728	proteasome
+T15	Complex 82 92	proteasome
+T16	Complex 386 396	proteasome
+T17	Complex 854 864	proteasome
+N1	Reference T10 GO:0000502	
+N2	Reference T15 GO:0000502	
+N3	Reference T16 GO:0000502	
+N4	Reference T17 GO:0000502	

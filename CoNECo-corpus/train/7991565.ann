@@ -1,0 +1,8 @@
+T1	Complex 0 30	Rab geranylgeranyl transferase
+T13	Complex 662 700	Rab-specific geranylgeranyltransferase
+T14	Complex 901 930	Rab geranylgeranyltransferase
+T20	Complex 1315 1344	Rab geranylgeranyltransferase
+N1	Reference T1 GO:0005968					
+N2	Reference T13 GO:0005968				
+N3	Reference T14 GO:0005968			
+N4	Reference T20 GO:0005968		

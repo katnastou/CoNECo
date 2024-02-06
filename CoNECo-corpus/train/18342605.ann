@@ -1,0 +1,16 @@
+T12	Complex 195 230	cleavage and polyadenylation factor
+T13	Complex 232 235	CPF
+T15	Complex 305 308	CPF
+T16	Complex 327 330	CPF
+T25	Complex 887 890	CPF
+T30	Complex 986 1022	Set1c histone H3K4 methyltransferase
+T29	Complex 36 71	cleavage and polyadenylation factor
+N1	Reference T13 GO:0005847						
+N2	Reference T15 GO:0005847						
+N3	Reference T16 GO:0005847						
+N4	Reference T25 GO:0005847						
+N5	Reference T12 GO:0005847				
+N6	Reference T29 GO:0005847			
+N7	Reference T30 GO:0048188		Set1C/COMPASS complex
+T1	Complex 150 171	protein phosphatase 1
+N8	Reference T1 GO:0000164	protein phosphatase type 1 complex

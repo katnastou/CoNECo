@@ -1,0 +1,23 @@
+T44	Complex 356 371	SCF(beta(TrCP))
+T45	Complex 38 53	SCF(beta(TrCP))
+T46	Complex 436 451	SCF(beta(TrCP))
+T47	Complex 481 496	SCF(beta(TrCP))
+T48	Complex 602 617	SCF(beta(TrCP))
+T49	Complex 716 731	SCF(beta(TrCP))
+T50	Complex 1085 1100	SCF(beta(TrCP))
+T51	Complex 1318 1333	SCF(beta(TrCP))
+T52	Complex 1198 1213	SCF(beta(TrCP))
+T53	Complex 111 120	NF-kappaB
+T54	Complex 219 233	26S proteasome
+N1	Reference T54 GO:0000502																
+N2	Reference T45 GO:0019005															SCF ubiquitin ligase complex
+#1	AnnotatorNotes T45	I have annotated this as one entity, because the parentheses denote an exponent. 
+N3	Reference T44 GO:0019005														SCF ubiquitin ligase complex
+N4	Reference T47 GO:0019005													SCF ubiquitin ligase complex
+N5	Reference T46 GO:0019005												SCF ubiquitin ligase complex
+N6	Reference T48 GO:0019005											SCF ubiquitin ligase complex
+N7	Reference T49 GO:0019005										SCF ubiquitin ligase complex
+N8	Reference T52 GO:0019005									SCF ubiquitin ligase complex
+N9	Reference T50 GO:0019005								SCF ubiquitin ligase complex
+N10	Reference T51 GO:0019005							SCF ubiquitin ligase complex
+N11	Reference T53 GO:0071159						NF-kappaB complex

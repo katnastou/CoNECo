@@ -1,0 +1,8 @@
+T33	Complex 415 444	chromosomal passenger complex
+T34	Complex 446 449	CPC
+T35	Complex 485 488	CPC
+T36	Complex 898 901	CPC
+N1	Reference T33 GO:0032133						chromosome passenger complex
+N2	Reference T34 GO:0032133					chromosome passenger complex
+N3	Reference T36 GO:0032133				chromosome passenger complex
+N4	Reference T35 GO:0032133			chromosome passenger complex

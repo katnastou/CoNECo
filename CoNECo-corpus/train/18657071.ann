@@ -1,0 +1,6 @@
+T12	Complex 219 227	clathrin
+T14	Complex 573 581	clathrin
+T17	Complex 1216 1226	proteosome
+N1	Reference T12 GO:0071439		
+N2	Reference T14 GO:0071439		
+N3	Reference T17 GO:0000502		

@@ -1,0 +1,4 @@
+T35	Complex 1127 1135	NFkappaB
+T36	Complex 1193 1201	NFkappaB
+N1	Reference T35 GO:0071159							NF-kappaB complex
+N2	Reference T36 GO:0071159						NF-kappaB complex

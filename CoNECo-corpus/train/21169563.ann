@@ -1,0 +1,15 @@
+T5	Complex 285 288	SCF
+T17	Complex 1286 1289	SCF
+T18	Complex 37 40	SCF
+T1	Complex 315 318	SCF
+T19	Complex 553 556	SCF
+T20	Complex 665 668	SCF
+T21	Complex 773 776	SCF
+T22	Complex 1152 1155	SCF
+N1	Reference T1 GO:0019005									
+N2	Reference T19 GO:0019005									
+N3	Reference T20 GO:0019005									
+N4	Reference T21 GO:0019005									
+N5	Reference T22 GO:0019005									
+N6	Reference T5 GO:0019005						
+N7	Reference T17 GO:0019005			

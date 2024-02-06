@@ -1,0 +1,24 @@
+T18	OOS 51 57	CaV2.2
+T19	OOS 101 112	N-type Ca2+
+T22	OOS 236 257	N-type Ca(2+) channel
+T23	OOS 259 267	Ca(V)2.2
+T24	OOS 271 280	N channel
+T28	OOS 592 600	Ca(V)2.2
+T29	OOS 947 955	Ca(V)2.2
+T31	OOS 1093 1101	Ca(V)2.2
+T33	OOS 1392 1400	Ca(V)2.2
+T36	OOS 1543 1551	Ca(V)2.2
+T37	OOS 1780 1788	Ca(V)2.2
+T39	OOS 2171 2179	Ca(V)2.2
+#1	AnnotatorNotes T18	https://reactome.org/content/detail/R-HSA-210504
+#2	AnnotatorNotes T23	https://reactome.org/content/detail/R-HSA-210504
+#3	AnnotatorNotes T19	https://reactome.org/content/detail/R-HSA-210504
+#4	AnnotatorNotes T22	https://reactome.org/content/detail/R-HSA-210504
+#5	AnnotatorNotes T28	https://reactome.org/content/detail/R-HSA-210504
+#6	AnnotatorNotes T24	https://reactome.org/content/detail/R-HSA-210504
+#7	AnnotatorNotes T29	https://reactome.org/content/detail/R-HSA-210504
+#8	AnnotatorNotes T31	https://reactome.org/content/detail/R-HSA-210504
+#9	AnnotatorNotes T33	https://reactome.org/content/detail/R-HSA-210504
+#10	AnnotatorNotes T36	https://reactome.org/content/detail/R-HSA-210504
+#11	AnnotatorNotes T37	https://reactome.org/content/detail/R-HSA-210504
+#12	AnnotatorNotes T39	https://reactome.org/content/detail/R-HSA-210504

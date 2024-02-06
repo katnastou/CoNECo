@@ -1,0 +1,8 @@
+T8	Complex 64 67	PP1
+T10	Complex 222 243	protein phosphatase 1
+T11	Complex 245 248	PP1
+T20	Complex 985 988	PP1
+N1	Reference T8 GO:0000164	
+N2	Reference T10 GO:0000164	
+N3	Reference T11 GO:0000164	
+N4	Reference T20 GO:0000164	

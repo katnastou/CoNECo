@@ -1,0 +1,4 @@
+T20	Complex 322 325	SBF
+T21	Complex 463 466	SBF
+N1	Reference T20 GO:0033309	
+N2	Reference T21 GO:0033309	

@@ -1,0 +1,10 @@
+T8	Complex 1124 1128	PP2A
+T16	Complex 380 390	NF-kappa B
+T17	Complex 1333 1343	NF-kappa B
+T18	Complex 918 925	kappa B
+T19	Complex 37 47	NF-kappa B
+N1	Reference T8 GO:0000159								
+N2	Reference T19 GO:0071159							NF-kappaB complex
+N3	Reference T18 GO:0071159						NF-kappaB complex
+N4	Reference T17 GO:0071159					NF-kappaB complex
+N5	Reference T16 GO:0071159				NF-kappaB complex

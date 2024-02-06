@@ -1,0 +1,4 @@
+T33	Complex 152 175	T cell antigen receptor
+T34	Complex 177 180	TCR
+N1	Reference T34 GO:0042101			
+N2	Reference T33 GO:0042101		T cell receptor complex

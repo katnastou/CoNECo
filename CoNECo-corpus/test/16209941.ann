@@ -1,0 +1,8 @@
+T2	Complex 71 97	SCF(Skp2) ubiquitin ligase
+T4	Complex 393 402	SCF(Skp2)
+T35	Complex 470 473	SCF
+T22	Complex 1128 1137	SCF(Skp2)
+N2	Reference T35 GO:0019005									
+N4	Reference T2 GO:0097669							SCF-Skp2 ubiquitin ligase complex
+N1	Reference T4 GO:0097669						SCF-Skp2 ubiquitin ligase complex
+N3	Reference T22 GO:0097669					SCF-Skp2 ubiquitin ligase complex

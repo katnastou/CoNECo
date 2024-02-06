@@ -1,0 +1,6 @@
+T7	Complex 663 676	IL-4 receptor
+T8	Complex 678 683	IL-4R
+T13	Complex 1009 1014	IL-4R
+N1	Reference T7 GO:0016516				interleukin-4 receptor complex
+N2	Reference T8 GO:0016516			interleukin-4 receptor complex
+N3	Reference T13 GO:0016516		interleukin-4 receptor complex

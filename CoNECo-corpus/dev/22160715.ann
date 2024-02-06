@@ -1,0 +1,4 @@
+T25	Complex 411 421	proteasome
+T26	Complex 1146 1156	proteasome
+N1	Reference T25 GO:0000502	
+N2	Reference T26 GO:0000502	

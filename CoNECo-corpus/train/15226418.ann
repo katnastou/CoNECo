@@ -1,0 +1,4 @@
+T8	Complex 110 120	proteasome
+T12	Complex 278 288	proteasome
+N1	Reference T8 GO:0000502	
+N2	Reference T12 GO:0000502	

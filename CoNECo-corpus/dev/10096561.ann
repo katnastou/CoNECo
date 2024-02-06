@@ -1,0 +1,6 @@
+T31	Complex 932 940	class II
+T32	Complex 916 927	MHC class I
+T33	Complex 1128 1149	nuclear factor kappaB
+N1	Reference T32 GO:0042612											MHC class I protein complex
+N2	Reference T31 GO:0042613										MHC class II protein complex
+N3	Reference T33 GO:0071159									NF-kappaB complex

@@ -1,0 +1,10 @@
+T14	Complex 64 82	Myosin phosphatase
+T16	Complex 11 29	myosin phosphatase
+T17	Complex 444 462	myosin phosphatase
+T21	Complex 1150 1168	myosin phosphatase
+T25	Complex 1440 1458	myosin phosphatase
+N1	Reference T14 GO:0017023					
+N2	Reference T16 GO:0017023					
+N3	Reference T17 GO:0017023					
+N4	Reference T21 GO:0017023					
+N5	Reference T25 GO:0017023					

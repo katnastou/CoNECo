@@ -1,0 +1,18 @@
+T20	Complex 390 411	exon-junction complex
+T21	Complex 413 416	EJC
+T22	Complex 453 456	EJC
+T24	Complex 562 565	EJC
+T26	Complex 691 694	UPF
+T29	Complex 833 836	EJC
+T31	Complex 45 66	exon junction complex
+N1	Reference T21 GO:0035145			
+N2	Reference T22 GO:0035145			
+N3	Reference T24 GO:0035145			
+N4	Reference T26 GO:0170010			
+N5	Reference T29 GO:0035145			
+N6	Reference T31 GO:0035145			
+N7	Reference T20 GO:0035145		
+T1	Complex 508 511	UPF
+N8	Reference T1 GO:0170010	
+T2	Complex 877 880	UPF
+N9	Reference T2 GO:0170010	

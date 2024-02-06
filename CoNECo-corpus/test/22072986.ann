@@ -1,0 +1,12 @@
+T8	Complex 60 66	BBSome
+T11	Complex 643 649	BBSome
+T12	Complex 723 729	BBSome
+T15	Complex 786 792	BBSome
+T16	Complex 845 851	BBSome
+T18	Complex 1087 1093	BBSome
+N1	Reference T8 GO:0034464			
+N2	Reference T11 GO:0034464			
+N3	Reference T12 GO:0034464			
+N4	Reference T15 GO:0034464			
+N5	Reference T16 GO:0034464			
+N6	Reference T18 GO:0034464			

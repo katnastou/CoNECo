@@ -1,0 +1,4 @@
+T14	Complex 18 23	TFIIH
+T15	Complex 202 226	transcription factor IIH
+N1	Reference T14 GO:0005675				
+N2	Reference T15 GO:0005675		

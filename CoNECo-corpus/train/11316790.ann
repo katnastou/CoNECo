@@ -1,0 +1,6 @@
+T24	Complex 653 656	ORC
+T25	Complex 558 584	origin recognition complex
+T26	Complex 586 589	ORC
+N1	Reference T24 GO:0000808				
+N2	Reference T25 GO:0000808				
+N3	Reference T26 GO:0000808				

@@ -1,0 +1,8 @@
+T7	Complex 49 54	TRAPP
+T8	Complex 72 77	TRAPP
+T11	Complex 418 423	TRAPP
+T13	Complex 806 811	TRAPP
+N1	Reference T7 GO:0030008					
+N2	Reference T8 GO:0030008					
+N3	Reference T11 GO:0030008					
+N4	Reference T13 GO:0030008					

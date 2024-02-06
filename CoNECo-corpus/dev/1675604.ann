@@ -1,0 +1,14 @@
+T18	Complex 53 67	rel/NF-kappa B
+T19	Complex 302 312	NF-kappa B
+T20	Complex 1076 1086	NF-kappa B
+T25	Complex 1467 1481	rel/NF-kappa B
+T26	Complex 1274 1285	MHC class I
+T29	Complex 196 207	MHC class I
+N3	Reference T18 GO:0071159																NF-kappaB complex
+N4	Reference T19 GO:0071159															NF-kappaB complex
+N5	Reference T20 GO:0071159														NF-kappaB complex
+N6	Reference T25 GO:0071159													NF-kappaB complex
+#1	AnnotatorNotes T18	maybe family?
+#2	AnnotatorNotes T25	maybe family
+N1	Reference T26 GO:0042612										MHC class I protein complex
+N2	Reference T29 GO:0042612		MHC class I protein complex

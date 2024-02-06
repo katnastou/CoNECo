@@ -1,0 +1,8 @@
+T1	Complex 293 368	soluble NSF (N-ethylmaleimide-sensitive factor) attachment protein receptor
+T2	Complex 370 375	SNARE
+N1	Reference T2 GO:0031201	SNARE complex
+N2	Reference T1 GO:0031201	SNARE complex
+T3	Complex 536 541	SNARE
+N3	Reference T3 GO:0031201	SNARE complex
+T4	Complex 1013 1018	SNARE
+N4	Reference T4 GO:0031201	SNARE complex

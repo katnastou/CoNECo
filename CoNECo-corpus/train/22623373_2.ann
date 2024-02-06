@@ -1,0 +1,16 @@
+T1	Complex 203 206	CPs
+T2	Complex 384 399	Proteasomal CPs
+T3	Complex 570 573	CPs
+T4	Complex 836 839	CPs
+T5	Complex 910 913	CPs
+T6	Complex 1229 1232	CPs
+T7	Complex 1294 1309	proteasomal CPs
+T8	Complex 171 201	Proteasomal 20S core particles
+N1	Reference T8 GO:0005839									proteasome core complex
+N2	Reference T1 GO:0005839								proteasome core complex
+N3	Reference T2 GO:0005839							proteasome core complex
+N4	Reference T3 GO:0005839						proteasome core complex
+N5	Reference T5 GO:0005839					proteasome core complex
+N6	Reference T6 GO:0005839				proteasome core complex
+N8	Reference T7 GO:0005839		proteasome core complex
+N7	Reference T4 GO:0005839	proteasome core complex

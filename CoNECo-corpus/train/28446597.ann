@@ -1,0 +1,6 @@
+T12	Complex 524 528	Swr1
+T13	Complex 655 666	spliceosome
+T14	Complex 763 767	Swr1
+N1	Reference T12 GO:0000812	
+N2	Reference T13 GO:0005681	
+N3	Reference T14 GO:0000812	

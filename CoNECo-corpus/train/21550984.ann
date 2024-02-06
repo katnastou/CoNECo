@@ -1,0 +1,8 @@
+T6	Complex 277 306	Polycomb repressive complex 2
+T25	Complex 271 275	PRC2
+T27	Complex 573 577	PRC2
+T3	Complex 88 117	polycomb repressive complex 2
+N1	Reference T6 GO:0035098		
+N2	Reference T25 GO:0035098		
+N3	Reference T27 GO:0035098		
+N4	Reference T3 GO:0035098		

@@ -1,0 +1,4 @@
+T6	Complex 116 125	shelterin
+T11	OOS 391 405	DNA polymerase
+N1	Reference T6 GO:0070187	
+#1	AnnotatorNotes T11	TODO: check normalization

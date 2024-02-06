@@ -1,0 +1,16 @@
+T16	Complex 240 257	RNA polymerase II
+T17	Complex 259 265	Pol II
+T21	Complex 674 680	Pol II
+T22	Complex 684 689	Pol V
+T26	Complex 1003 1008	Pol V
+T28	Complex 1526 1531	Pol V
+T30	Complex 959 962	DDR
+T31	Complex 1073 1076	DDR
+N1	Reference T16 GO:0016591										
+N2	Reference T17 GO:0016591										
+N3	Reference T21 GO:0016591										
+N4	Reference T22 GO:0000419										RNA polymerase V complex
+N5	Reference T26 GO:0000419									RNA polymerase V complex
+N6	Reference T28 GO:0000419								RNA polymerase V complex
+#1	AnnotatorNotes T31	paper: https://www.nature.com/articles/s41467-019-11759-9, PDB: https://www.rcsb.org/structure/6OIT)
+#2	AnnotatorNotes T30	paper: https://www.nature.com/articles/s41467-019-11759-9, PDB: https://www.rcsb.org/structure/6OIT)

@@ -1,0 +1,12 @@
+T7	Complex 25 38	cholera toxin
+T17	OOS 834 855	stimulatory G-protein
+T18	OOS 857 859	Gs
+T20	OOS 1004 1006	Gs
+T21	Complex 1102 1115	cholera toxin
+T22	Complex 1117 1120	CTX
+#1	AnnotatorNotes T17	discussed as complex
+#2	AnnotatorNotes T18	discussed as complex
+#3	AnnotatorNotes T20	discussed as complex
+#4	AnnotatorNotes T21	https://www.ebi.ac.uk/complexportal/complex/CPX-2345
+#5	AnnotatorNotes T22	https://www.ebi.ac.uk/complexportal/complex/CPX-2345
+#6	AnnotatorNotes T7	https://www.ebi.ac.uk/complexportal/complex/CPX-2345

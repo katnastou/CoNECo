@@ -1,0 +1,6 @@
+T32	Complex 617 622	IL-12
+T39	Complex 1269 1274	IL-12
+T42	Complex 1409 1414	IL-12
+N1	Reference T32 GO:0043514				interleukin-12 complex
+N2	Reference T42 GO:0043514			interleukin-12 complex
+N3	Reference T39 GO:0043514		interleukin-12 complex

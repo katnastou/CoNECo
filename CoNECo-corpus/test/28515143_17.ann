@@ -1,0 +1,6 @@
+T41	Complex 405 413	Mediator
+T44	Complex 651 659	Mediator
+T53	Complex 151 159	Mediator
+N1	Reference T41 GO:0016592		
+N2	Reference T44 GO:0016592		
+N3	Reference T53 GO:0016592		

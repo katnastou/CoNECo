@@ -1,0 +1,8 @@
+T15	Complex 486 507	protein phosphatase 1
+T16	Complex 509 512	PP1
+T17	Complex 575 578	PP1
+T25	Complex 786 789	PP1
+N1	Reference T15 GO:0000164	
+N2	Reference T16 GO:0000164	
+N3	Reference T17 GO:0000164	
+N4	Reference T25 GO:0000164	

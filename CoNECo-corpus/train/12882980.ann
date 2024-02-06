@@ -1,0 +1,12 @@
+T12	OOS 18 37	farnesyltransferase
+T13	OOS 115 134	farnesyltransferase
+T14	OOS 148 167	Farnesyltransferase
+T18	OOS 618 637	farnesyltransferase
+T19	OOS 791 810	farnesyltransferase
+T25	OOS 1171 1190	farnesyltransferase
+#1	AnnotatorNotes T12	TODO: check normalization
+#2	AnnotatorNotes T13	TODO: check normalization
+#3	AnnotatorNotes T14	TODO: check normalization
+#4	AnnotatorNotes T25	TODO: check normalization
+#5	AnnotatorNotes T18	TODO: check normalization
+#6	AnnotatorNotes T19	TODO: check normalization

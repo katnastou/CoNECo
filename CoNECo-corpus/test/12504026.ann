@@ -1,0 +1,10 @@
+T3	Complex 64 87	SCF ubiquitin E3 ligase
+T4	Complex 102 125	SCF ubiquitin E3 ligase
+T30	Complex 702 705	SCF
+T32	Complex 807 810	SCF
+N1	Reference T30 GO:0019005							
+N2	Reference T32 GO:0019005							
+N3	Reference T3 GO:0019005					SCF ubiquitin ligase complex
+N4	Reference T4 GO:0019005				SCF ubiquitin ligase complex
+T1	Complex 215 222	IkappaB
+N5	Reference T1 GO:0008385	IkappaB kinase complex

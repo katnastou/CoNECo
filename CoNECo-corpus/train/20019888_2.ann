@@ -1,0 +1,19 @@
+T23	OOS 83 91	ribosome
+T24	Complex 227 267	small ribosomal subunit (SSU) processome
+T25	Complex 310 324	SSU-processome
+T26	Complex 630 644	SSU-processome
+T27	Complex 1058 1072	SSU-processome
+T29	Complex 1828 1851	small ribosomal subunit
+N2	Reference T24 GO:0032040													small-subunit processome
+N3	Reference T25 GO:0032040												small-subunit processome
+N4	Reference T26 GO:0032040											small-subunit processome
+N5	Reference T27 GO:0032040										small-subunit processome
+T1	Complex 979 992	pre-ribosomes
+N1	Reference T1 GO:0030686	90S preribosome
+T2	Complex 1230 1243	pre-ribosomes
+N6	Reference T2 GO:0030686	90S preribosome
+N7	Reference T29 GO:0015935	small ribosomal subunit
+T3	Complex 905 928	small ribosomal subunit
+N8	Reference T3 GO:0015935	small ribosomal subunit
+T4	Complex 390 413	small ribosomal subunit
+N9	Reference T4 GO:0015935	small ribosomal subunit

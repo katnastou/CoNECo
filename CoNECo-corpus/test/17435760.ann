@@ -1,0 +1,8 @@
+T20	Complex 874 883	NF-kappaB
+T22	Complex 766 778	inflammasome
+T23	Complex 370 382	inflammasome
+T24	Complex 40 52	inflammasome
+N1	Reference T22 GO:0061702					
+N2	Reference T23 GO:0061702					
+N3	Reference T24 GO:0061702					
+N4	Reference T20 GO:0071159					NF-kappaB complex

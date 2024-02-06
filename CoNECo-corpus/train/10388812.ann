@@ -1,0 +1,12 @@
+T1	OOS 30 34	Sin3
+T19	OOS 126 130	Sin3
+T20	OOS 282 286	SIN3
+T21	OOS 423 427	SIN3
+T22	OOS 481 485	Sin3
+T23	OOS 598 602	Sin3
+T24	OOS 646 650	Sin3
+T26	OOS 1155 1159	Sin3
+T29	OOS 40 59	histone deacetylase
+T38	Complex 1119 1150	CAF-I chromatin assembly factor
+T39	OOS 136 155	histone deacetylase
+N9	Reference T38 GO:0033186			

@@ -1,0 +1,4 @@
+T29	Complex 1919 1929	proteasome
+T32	Complex 327 337	proteasome
+N1	Reference T29 GO:0000502	
+N2	Reference T32 GO:0000502	

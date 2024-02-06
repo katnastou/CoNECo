@@ -1,0 +1,4 @@
+T3	Complex 208 237	Polycomb Repressive Complex-2
+T11	Complex 239 243	PRC2
+N1	Reference T11 GO:0035098			ESC/E(Z) complex
+N2	Reference T3 GO:0035098		ESC/E(Z) complex

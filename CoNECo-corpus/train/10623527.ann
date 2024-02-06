@@ -1,0 +1,13 @@
+T15	Complex 115 137	pyruvate dehydrogenase
+T16	OOS 206 235	dihydrolipoyl acyltransferase
+T17	Complex 265 273;293 306	pyruvate dehydrogenase
+T18	Complex 278 306	2-oxoglutarate dehydrogenase
+T19	Complex 374 398	2-oxo acid decarboxylase
+T21	Complex 2377 2379	E1
+N3	Reference T15 GO:0045254													pyruvate dehydrogenase complex
+N4	Reference T17 GO:0045254												pyruvate dehydrogenase complex
+N5	Reference T18 GO:0045241										cytosolic alpha-ketoglutarate dehydrogenase complex
+N2	Reference T19 GO:0017086									3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex
+#2	AnnotatorNotes T19	alt names: https://en.wikipedia.org/wiki/Branched-chain-2-oxoacid_decarboxylase
+N6	Reference T21 GO:0017086							3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex
+#3	AnnotatorNotes T21	E1: 2-oxo acid decarboxylase (from paper abbreviations)

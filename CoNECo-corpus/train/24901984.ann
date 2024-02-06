@@ -1,0 +1,10 @@
+T3	Complex 88 98	proteasome
+T6	Complex 204 220	RNA polymerase I
+T7	Complex 222 227	pol I
+T23	Complex 1170 1180	proteasome
+T26	Complex 1277 1282	pol I
+N1	Reference T3 GO:0000502				
+N2	Reference T23 GO:0000502				
+N3	Reference T7 GO:0005736				RNA polymerase I complex
+N4	Reference T26 GO:0005736			RNA polymerase I complex
+N5	Reference T6 GO:0005736		RNA polymerase I complex

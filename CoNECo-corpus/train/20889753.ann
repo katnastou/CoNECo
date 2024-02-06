@@ -1,0 +1,6 @@
+T5	OOS 165 174	ribosomes
+T6	OOS 339 352	70S ribosomes
+T7	Complex 358 361	50S
+T8	Complex 366 369	30S
+N1	Reference T7 GO:0022625							cytosolic large ribosomal subunit
+N2	Reference T8 GO:0022627						cytosolic small ribosomal subunit

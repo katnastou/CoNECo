@@ -1,0 +1,10 @@
+T7	OOS 306 337	dihydrolipoyl acetyltransferase
+T8	OOS 339 341	E2
+T16	OOS 908 910	E2
+T19	OOS 1060 1062	E2
+T20	OOS 1142 1144	E2
+#1	AnnotatorNotes T7	not a complex according to new rules
+#2	AnnotatorNotes T8	not a complex according to new rules
+#3	AnnotatorNotes T16	not a complex according to new rules
+#4	AnnotatorNotes T19	not a complex according to new rules
+#5	AnnotatorNotes T20	not a complex according to new rules

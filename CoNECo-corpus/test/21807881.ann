@@ -1,0 +1,4 @@
+T23	Complex 865 870	SNARE
+T27	Complex 1136 1141	SNARE
+N1	Reference T23 GO:0031201										
+N2	Reference T27 GO:0031201										

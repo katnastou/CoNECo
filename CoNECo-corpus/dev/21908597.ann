@@ -1,0 +1,4 @@
+T12	Complex 1041 1046	ESCRT
+T13	Complex 1048 1096	endosomal sorting complex required for transport
+N1	Reference T12 GO:0036452	
+N2	Reference T13 GO:0036452	

@@ -1,0 +1,6 @@
+T33	Complex 1092 1096	GINS
+T36	Complex 1241 1245	GINS
+T38	Complex 826 830	GINS
+N1	Reference T33 GO:0000811		
+N2	Reference T36 GO:0000811		
+N3	Reference T38 GO:0000811		

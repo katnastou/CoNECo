@@ -1,0 +1,10 @@
+T8	Complex 188 213	high-density lipoproteins
+T9	Complex 215 218	HDL
+T10	Complex 337 340	HDL
+T14	Complex 656 659	HDL
+T15	Complex 822 825	HDL
+N1	Reference T9 GO:0034364						high-density lipoprotein particle
+N2	Reference T8 GO:0034364					high-density lipoprotein particle
+N3	Reference T10 GO:0034364				high-density lipoprotein particle
+N4	Reference T15 GO:0034364			high-density lipoprotein particle
+N5	Reference T14 GO:0034364		high-density lipoprotein particle

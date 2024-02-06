@@ -1,0 +1,4 @@
+T24	Complex 945 949	AP-2
+T26	Complex 1033 1041	clathrin
+N1	Reference T24 GO:0030122			
+N2	Reference T26 GO:0071439			

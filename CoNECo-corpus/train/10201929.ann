@@ -1,0 +1,10 @@
+T10	Complex 54 58	AP-1
+T14	Complex 1195 1199	AP-1
+T15	Complex 367 391	activator protein (AP)-1
+T13	Complex 988 992	AP-1
+T16	Complex 1136 1147	MHC class I
+N1	Reference T10 GO:0035976									transcription factor AP-1 complex
+N5	Reference T15 GO:0035976								transcription factor AP-1 complex
+N3	Reference T13 GO:0035976							transcription factor AP-1 complex
+N2	Reference T14 GO:0035976						transcription factor AP-1 complex
+N4	Reference T16 GO:0042612					MHC class I protein complex

@@ -1,0 +1,26 @@
+T12	Complex 305 308	SCF
+T13	Complex 83 90	SCFFbh1
+T15	Complex 357 365	SCFhFBH1
+T16	Complex 502 510	SCFhFBH1
+T19	Complex 892 899	SCFFbh1
+T21	Complex 973 980	SCFFbh1
+T23	Complex 1039 1046	SCFFbh1
+T25	Complex 1244 1251	SCFFbh1
+T26	Complex 1284 1291	SCFFbh1
+N1	Reference T12 GO:0019005												
+N2	Reference T13 GO:0019005									SCF ubiquitin ligase complex
+#1	AnnotatorNotes T13	https://www.ebi.ac.uk/complexportal/complex/CPX-7928, this is more specific, maybe normalization should be removed
+N3	Reference T15 GO:0019005								SCF ubiquitin ligase complex
+#2	AnnotatorNotes T15	https://www.ebi.ac.uk/complexportal/complex/CPX-7928, this is more specific, maybe normalization should be removed
+N4	Reference T21 GO:0019005							SCF ubiquitin ligase complex
+#3	AnnotatorNotes T21	https://www.ebi.ac.uk/complexportal/complex/CPX-7928, this is more specific, maybe normalization should be removed
+N5	Reference T26 GO:0019005						SCF ubiquitin ligase complex
+#4	AnnotatorNotes T26	https://www.ebi.ac.uk/complexportal/complex/CPX-7928, this is more specific, maybe normalization should be removed
+N6	Reference T25 GO:0019005					SCF ubiquitin ligase complex
+#5	AnnotatorNotes T25	https://www.ebi.ac.uk/complexportal/complex/CPX-7928, this is more specific, maybe normalization should be removed
+N7	Reference T19 GO:0019005				SCF ubiquitin ligase complex
+#6	AnnotatorNotes T19	https://www.ebi.ac.uk/complexportal/complex/CPX-7928, this is more specific, maybe normalization should be removed
+N8	Reference T23 GO:0019005			SCF ubiquitin ligase complex
+#7	AnnotatorNotes T23	https://www.ebi.ac.uk/complexportal/complex/CPX-7928, this is more specific, maybe normalization should be removed
+N9	Reference T16 GO:0019005		SCF ubiquitin ligase complex
+#8	AnnotatorNotes T16	https://www.ebi.ac.uk/complexportal/complex/CPX-7928, this is more specific, maybe normalization should be removed

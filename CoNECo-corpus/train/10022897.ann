@@ -1,0 +1,16 @@
+T30	Complex 83 92	NF-kappaB
+T31	Complex 1251 1260	NF-kappaB
+T32	Complex 1497 1506	NF-kappaB
+T33	Complex 1550 1559	NF-kappaB
+T34	Complex 1739 1745	kappaB
+T35	Complex 1828 1834	kappaB
+T36	Complex 2069 2075	kappaB
+T37	Complex 776 791	T-cell receptor
+N1	Reference T37 GO:0042101																				
+N2	Reference T30 GO:0071159																	NF-kappaB complex
+N3	Reference T31 GO:0071159																NF-kappaB complex
+N4	Reference T32 GO:0071159															NF-kappaB complex
+N5	Reference T35 GO:0071159														NF-kappaB complex
+N6	Reference T36 GO:0071159													NF-kappaB complex
+N7	Reference T34 GO:0071159												NF-kappaB complex
+N8	Reference T33 GO:0071159											NF-kappaB complex

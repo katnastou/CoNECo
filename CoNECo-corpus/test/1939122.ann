@@ -1,0 +1,9 @@
+T12	OOS 502 525	mitochondrial ribosomes
+T16	Complex 609 632	30 S ribosomal subunits
+T17	OOS 703 726	mitochondrial ribosomes
+T20	OOS 1033 1056	mitochondrial ribosomes
+T21	OOS 1189 1198	ribosomes
+T23	Complex 1352 1356	28 S
+T24	OOS 1361 1386	55 S initiation complexes
+N1	Reference T23 GO:0005763																							
+N6	Reference T16 GO:0022629															chloroplast small ribosomal subunit

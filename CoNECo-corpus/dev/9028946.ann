@@ -1,0 +1,16 @@
+T15	Complex 177 185	collagen
+T19	Complex 657 665	collagen
+T27	Complex 1034 1042	collagen
+T31	Complex 1304 1312	collagen
+T33	Complex 1386 1394	collagen
+T35	Complex 1512 1520	collagen
+T37	Complex 1615 1623	collagen
+T39	Complex 1847 1855	collagen
+N1	Reference T15 GO:0005581	
+N2	Reference T19 GO:0005581	
+N3	Reference T27 GO:0005581	
+N4	Reference T31 GO:0005581	
+N5	Reference T33 GO:0005581	
+N6	Reference T35 GO:0005581	
+N7	Reference T37 GO:0005581	
+N8	Reference T39 GO:0005581	

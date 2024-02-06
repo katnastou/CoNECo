@@ -1,0 +1,16 @@
+T23	Complex 292 318	origin recognition complex
+T24	Complex 335 349	pre-initiation
+T25	Complex 422 428	pre-RC
+T26	Complex 444 450	pre-IC
+T27	Complex 245 260	pre-replicative
+T30	Complex 1281 1287	pre-RC
+T31	Complex 1292 1298	pre-IC
+T36	Complex 1987 1994	pre-RCs
+N1	Reference T23 GO:0000808								
+N2	Reference T24 GO:0097550								transcription preinitiation complex
+N3	Reference T31 GO:0097550							transcription preinitiation complex
+N4	Reference T26 GO:0097550						transcription preinitiation complex
+N5	Reference T27 GO:0036387					pre-replicative complex
+N6	Reference T30 GO:0036387				pre-replicative complex
+N7	Reference T36 GO:0036387			pre-replicative complex
+N8	Reference T25 GO:0036387		pre-replicative complex

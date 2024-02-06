@@ -1,0 +1,4 @@
+T5	Complex 299 302	IgE
+T15	Complex 1555 1558	IgE
+N1	Reference T5 GO:0071742	IgE immunoglobulin complex
+N2	Reference T15 GO:0071742	IgE immunoglobulin complex

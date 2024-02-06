@@ -1,0 +1,10 @@
+T12	Complex 272 282	proteasome
+T14	Complex 486 500	26S proteasome
+T17	Complex 669 683	26S proteasome
+T18	Complex 715 729	26S proteasome
+T28	Complex 1107 1121	20S proteasome
+N1	Reference T12 GO:0000502		
+N2	Reference T14 GO:0000502		
+N3	Reference T17 GO:0000502		
+N4	Reference T18 GO:0000502		
+N5	Reference T28 GO:0005839		

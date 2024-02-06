@@ -1,0 +1,8 @@
+T7	Complex 545 550	TFIIH
+T9	Complex 721 726	TFIIH
+T11	Complex 932 937	TFIIH
+T12	Complex 979 984	TFIIH
+N1	Reference T7 GO:0005675	
+N2	Reference T9 GO:0005675	
+N3	Reference T11 GO:0005675	
+N4	Reference T12 GO:0005675	

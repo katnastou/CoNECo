@@ -1,0 +1,4 @@
+T26	Complex 793 815	protein phosphatase 2A
+T33	Complex 1009 1031	protein phosphatase 2A
+N1	Reference T26 GO:0000159			protein phosphatase type 2A complex
+N2	Reference T33 GO:0000159		protein phosphatase type 2A complex

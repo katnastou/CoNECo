@@ -1,0 +1,6 @@
+T28	Complex 15 30	gamma-secretase
+T5	Complex 973 988	gamma-secretase
+T29	Complex 1215 1230	gamma-secretase
+N1	Reference T28 GO:0070765				gamma-secretase complex
+N2	Reference T5 GO:0070765			gamma-secretase complex
+N3	Reference T29 GO:0070765		gamma-secretase complex

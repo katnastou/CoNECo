@@ -1,0 +1,54 @@
+T5	Complex 69 78	MutSalpha
+T6	Complex 83 91	MutSbeta
+T7	Complex 152 161	MutSalpha
+T8	Complex 178 186	MutSbeta
+T9	Complex 378 387	MutSalpha
+T10	Complex 388 396	MutSbeta
+T11	Complex 524 533	MutSalpha
+T12	Complex 538 546	MutSbeta
+T13	Complex 669 678	MutSalpha
+T14	Complex 769 777	MutSbeta
+T15	Complex 954 962	MutSbeta
+T16	Complex 968 977	MutSalpha
+T17	Complex 984 993	MutSalpha
+T18	Complex 1000 1008	MutSbeta
+T19	Complex 1040 1048	MutSbeta
+T20	Complex 1101 1110	MutSalpha
+T21	Complex 1111 1119	MutSbeta
+T22	Complex 1190 1199	MutSalpha
+T23	Complex 1204 1212	MutSbeta
+T24	Complex 1293 1301	MutSbeta
+T25	Complex 1341 1350	MutSalpha
+T26	Complex 1411 1420	MutSalpha
+T27	Complex 1453 1461	MutSbeta
+T28	Complex 1650 1659	MutSalpha
+T29	Complex 1664 1672	MutSbeta
+T30	Complex 1780 1789	MutSalpha
+T31	Complex 1790 1798	MutSbeta
+N1	Reference T5 GO:0032301				
+N2	Reference T6 GO:0032302				
+N3	Reference T7 GO:0032301				
+N4	Reference T8 GO:0032302				
+N5	Reference T9 GO:0032301				
+N6	Reference T10 GO:0032302				
+N7	Reference T11 GO:0032301				
+N8	Reference T12 GO:0032302				
+N9	Reference T13 GO:0032301				
+N10	Reference T14 GO:0032302				
+N11	Reference T15 GO:0032302				
+N12	Reference T16 GO:0032301				
+N13	Reference T17 GO:0032301				
+N14	Reference T18 GO:0032302				
+N15	Reference T19 GO:0032302				
+N16	Reference T20 GO:0032301				
+N17	Reference T21 GO:0032302				
+N18	Reference T22 GO:0032301				
+N19	Reference T23 GO:0032302				
+N20	Reference T24 GO:0032302				
+N21	Reference T25 GO:0032301				
+N22	Reference T26 GO:0032301				
+N23	Reference T27 GO:0032302				
+N24	Reference T28 GO:0032301				
+N25	Reference T29 GO:0032302				
+N26	Reference T30 GO:0032301				
+N27	Reference T31 GO:0032302				

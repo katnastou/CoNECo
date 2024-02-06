@@ -1,0 +1,10 @@
+T34	Complex 181 191	NF-kappa B
+T36	Complex 1296 1310	NF-kappa B/Rel
+T38	Complex 475 478	IgM
+T39	Complex 480 483	IgD
+T41	Complex 331 334	IgG
+N4	Reference T34 GO:0071159					NF-kappaB complex
+N5	Reference T36 GO:0071159				NF-kappaB complex
+N2	Reference T39 GO:0071738	IgD immunoglobulin complex
+N3	Reference T41 GO:0071735	IgG immunoglobulin complex
+N1	Reference T38 GO:0071753	IgM immunoglobulin complex

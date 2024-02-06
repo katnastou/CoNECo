@@ -1,0 +1,16 @@
+T16	Complex 14 27	AMPA receptor
+T17	Complex 115 129	AMPA receptors
+T18	Complex 131 137	AMPARs
+T19	Complex 213 219	AMPARs
+T20	Complex 311 316	AMPAR
+T21	Complex 402 407	AMPAR
+T25	Complex 1041 1046	AMPAR
+T26	Complex 1136 1141	AMPAR
+N1	Reference T16 GO:0032281									
+N2	Reference T20 GO:0032281									
+N3	Reference T21 GO:0032281									
+N4	Reference T25 GO:0032281									
+N5	Reference T26 GO:0032281									
+N6	Reference T17 GO:0032281								
+N7	Reference T18 GO:0032281							
+N8	Reference T19 GO:0032281					

@@ -1,0 +1,8 @@
+T6	Complex 509 514	NF-kB
+T10	Complex 698 703	NF-kB
+T24	Complex 1385 1390	NF-kB
+T25	Complex 1477 1482	NF-kB
+N1	Reference T6 GO:0071159									NF-kappaB complex
+N2	Reference T10 GO:0071159								NF-kappaB complex
+N3	Reference T24 GO:0071159							NF-kappaB complex
+N4	Reference T25 GO:0071159						NF-kappaB complex

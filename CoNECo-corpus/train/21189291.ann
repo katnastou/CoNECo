@@ -1,0 +1,16 @@
+T7	Complex 9 16	cohesin
+T8	Complex 125 132	cohesin
+T9	Complex 205 212	cohesin
+T10	Complex 301 308	cohesin
+T11	Complex 936 943	cohesin
+T14	Complex 1303 1310	cohesin
+T16	Complex 1347 1354	cohesin
+T20	Complex 1141 1148	cohesin
+N1	Reference T7 GO:0008278	
+N2	Reference T8 GO:0008278	
+N3	Reference T9 GO:0008278	
+N4	Reference T10 GO:0008278	
+N5	Reference T11 GO:0008278	
+N6	Reference T14 GO:0008278	
+N7	Reference T16 GO:0008278	
+N8	Reference T20 GO:0008278	

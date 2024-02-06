@@ -1,0 +1,6 @@
+T14	Complex 594 598	AP-1
+T34	Complex 1158 1162	AP-1
+T37	Complex 1299 1303	AP-1
+N1	Reference T14 GO:0035976									transcription factor AP-1 complex
+N2	Reference T34 GO:0035976								transcription factor AP-1 complex
+N3	Reference T37 GO:0035976							transcription factor AP-1 complex

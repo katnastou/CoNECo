@@ -1,0 +1,14 @@
+T33	Complex 436 445	NF-kappaB
+T35	Complex 679 688	NF-kappaB
+T36	Complex 716 725	NF-kappaB
+T37	Complex 847 856	NF-kappaB
+T38	Complex 947 956	NF-kappaB
+T39	Complex 1223 1232	NF-kappaB
+T40	Complex 218 227	NF-kappaB
+N1	Reference T40 GO:0071159																		NF-kappaB complex
+N2	Reference T33 GO:0071159																NF-kappaB complex
+N3	Reference T35 GO:0071159														NF-kappaB complex
+N4	Reference T36 GO:0071159													NF-kappaB complex
+N5	Reference T37 GO:0071159												NF-kappaB complex
+N6	Reference T38 GO:0071159											NF-kappaB complex
+N7	Reference T39 GO:0071159										NF-kappaB complex

@@ -1,0 +1,14 @@
+T25	Complex 280 283	TCR
+T26	Complex 1125 1129	AP-2
+T27	Complex 1089 1124	clathrin-associated adaptor complex
+T28	Complex 1232 1236	AP-2
+T29	Complex 31 39	clathrin
+T30	Complex 962 970	clathrin
+T31	Complex 1045 1053	clathrin
+N1	Reference T25 GO:0042101		
+N2	Reference T26 GO:0030122		
+N3	Reference T28 GO:0030122		
+N4	Reference T29 GO:0071439		
+N5	Reference T30 GO:0071439		
+N6	Reference T31 GO:0071439		
+N7	Reference T27 GO:0030131		clathrin adaptor complex

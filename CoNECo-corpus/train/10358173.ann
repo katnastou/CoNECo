@@ -1,0 +1,32 @@
+T26	Complex 0 5	IL-12
+T27	Complex 88 93	IL-12
+T28	Complex 261 266	IL-12
+T29	Complex 343 348	IL-12
+T30	Complex 406 411	IL-12
+T31	Complex 434 439	IL-12
+T33	Complex 516 521	IL-12
+T34	Complex 712 717	IL-12
+T36	Complex 834 839	IL-12
+T38	Complex 968 973	IL-12
+T40	Complex 1027 1032	IL-12
+T41	Complex 1160 1165	IL-12
+T42	Complex 1309 1314	IL-12
+T43	Complex 1401 1406	IL-12
+T44	Complex 1493 1498	IL-12
+T45	Complex 1546 1551	IL-12
+N1	Reference T26 GO:0043514																	interleukin-12 complex
+N2	Reference T27 GO:0043514																interleukin-12 complex
+N3	Reference T28 GO:0043514															interleukin-12 complex
+N4	Reference T29 GO:0043514														interleukin-12 complex
+N5	Reference T30 GO:0043514													interleukin-12 complex
+N6	Reference T31 GO:0043514												interleukin-12 complex
+N7	Reference T33 GO:0043514											interleukin-12 complex
+N8	Reference T34 GO:0043514										interleukin-12 complex
+N9	Reference T36 GO:0043514									interleukin-12 complex
+N10	Reference T40 GO:0043514								interleukin-12 complex
+N11	Reference T38 GO:0043514							interleukin-12 complex
+N12	Reference T41 GO:0043514						interleukin-12 complex
+N13	Reference T42 GO:0043514					interleukin-12 complex
+N14	Reference T43 GO:0043514				interleukin-12 complex
+N15	Reference T44 GO:0043514			interleukin-12 complex
+N16	Reference T45 GO:0043514		interleukin-12 complex

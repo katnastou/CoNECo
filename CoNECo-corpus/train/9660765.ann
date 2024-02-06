@@ -1,0 +1,4 @@
+T22	Complex 1317 1322	TFIID
+T33	Complex 1398 1415	RNA polymerase II
+N1	Reference T22 GO:0005669	
+N2	Reference T33 GO:0016591	

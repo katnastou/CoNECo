@@ -1,0 +1,14 @@
+T15	Complex 100 141	major histocompatibility complex class II
+T16	Complex 150 194	Class II major histocompatibility (class II)
+T17	Complex 1008 1016	class II
+T18	Complex 482 490	class II
+T19	Complex 670 678	class II
+T20	Complex 703 711	class II
+T21	Complex 777 785	class II
+N1	Reference T15 GO:0042613								MHC class II protein complex
+N2	Reference T16 GO:0042613							MHC class II protein complex
+N3	Reference T18 GO:0042613						MHC class II protein complex
+N4	Reference T19 GO:0042613					MHC class II protein complex
+N5	Reference T20 GO:0042613				MHC class II protein complex
+N6	Reference T17 GO:0042613			MHC class II protein complex
+N7	Reference T21 GO:0042613		MHC class II protein complex

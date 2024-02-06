@@ -1,0 +1,4 @@
+T2	Complex 150 155	Sec61
+T8	Complex 1190 1195	Sec61
+N1	Reference T2 GO:0005784		
+N2	Reference T8 GO:0005784		

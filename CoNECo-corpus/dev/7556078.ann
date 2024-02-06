@@ -1,0 +1,6 @@
+T25	Complex 1325 1339	release factor
+T28	Complex 940 954	release factor
+T29	Complex 249 263	release factor
+N1	Reference T25 GO:0018444	
+N2	Reference T28 GO:0018444	
+N3	Reference T29 GO:0018444	

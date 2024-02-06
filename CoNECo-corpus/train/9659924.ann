@@ -1,0 +1,14 @@
+T8	Complex 277 287	NF-kappa B
+T12	Complex 673 683	NF-kappa B
+N1	Reference T8 GO:0071159							NF-kappaB complex
+N2	Reference T12 GO:0071159						NF-kappaB complex
+T1	Complex 40 52	enhanceosome
+N3	Reference T1 GO:0034206	enhanceosome
+T2	Complex 218 230	enhanceosome
+N4	Reference T2 GO:0034206	enhanceosome
+T3	Complex 587 599	enhanceosome
+N5	Reference T3 GO:0034206	enhanceosome
+T4	Complex 765 777	enhanceosome
+N6	Reference T4 GO:0034206	enhanceosome
+T5	Complex 997 1009	enhanceosome
+N7	Reference T5 GO:0034206	enhanceosome

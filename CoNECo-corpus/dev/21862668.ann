@@ -1,0 +1,14 @@
+T17	Complex 222 236	photosystem II
+T18	Complex 238 242	PSII
+T19	Complex 103 117	photosystem II
+T20	Complex 470 474	PSII
+T21	Complex 990 994	PSII
+T22	Complex 1449 1453	PSII
+T23	Complex 898 902	PSII
+N1	Reference T17 GO:0009523	
+N2	Reference T18 GO:0009523	
+N3	Reference T19 GO:0009523	
+N4	Reference T20 GO:0009523	
+N5	Reference T21 GO:0009523	
+N6	Reference T22 GO:0009523	
+N7	Reference T23 GO:0009523	

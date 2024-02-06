@@ -1,0 +1,8 @@
+T3	Complex 679 683	pVHL
+T5	Complex 1077 1081	pVHL
+T6	Complex 1420 1424	pVHL
+T12	Complex 75 112	von Hippel-Lindau E3 ubiquitin ligase
+N2	Reference T3 GO:0030891				VCB complex
+N3	Reference T5 GO:0030891			VCB complex
+N4	Reference T6 GO:0030891		VCB complex
+N1	Reference T12 GO:0030891	VCB complex

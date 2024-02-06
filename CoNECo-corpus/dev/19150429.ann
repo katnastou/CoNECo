@@ -1,0 +1,5 @@
+T13	Complex 123 140	decapping complex
+T16	Complex 1047 1064	decapping complex
+T17	OOS 1111 1115	RNPs
+N1	Reference T13 GO:0098745			
+N2	Reference T16 GO:0098745			

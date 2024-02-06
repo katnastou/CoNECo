@@ -1,0 +1,4 @@
+T7	Complex 68 83	T-cell receptor
+T8	Complex 85 88	TCR
+N1	Reference T7 GO:0042101			
+N2	Reference T8 GO:0042101			

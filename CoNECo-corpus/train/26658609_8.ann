@@ -1,0 +1,8 @@
+T22	Complex 369 373	AP-1
+T24	Complex 613 618	AP-1R
+T29	Complex 1114 1118	AP-1
+T30	Complex 1159 1163	AP-1
+N1	Reference T22 GO:0030121					AP-1 adaptor complex
+N2	Reference T29 GO:0030121				AP-1 adaptor complex
+N3	Reference T30 GO:0030121			AP-1 adaptor complex
+#1	AnnotatorNotes T24	 no function has been identified for the Apm2-containing complex, which we refer to as AP-1R (AP-1 Related)

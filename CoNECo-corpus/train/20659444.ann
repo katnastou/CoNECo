@@ -1,0 +1,6 @@
+T23	Complex 1412 1423	SCF(LIN-23)
+T20	Complex 1279 1290	SCF(LIN-23)
+N1	Reference T23 GO:0019005						SCF ubiquitin ligase complex
+N2	Reference T20 GO:0019005					SCF ubiquitin ligase complex
+#1	AnnotatorNotes T20	TODO: check normalization
+#2	AnnotatorNotes T23	TODO: check normalization

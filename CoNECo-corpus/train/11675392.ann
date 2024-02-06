@@ -1,0 +1,22 @@
+T11	Complex 43 72	Rab geranylgeranyltransferase
+T12	Complex 86 115	Rab geranylgeranyltransferase
+T13	Complex 117 126	RabGGTase
+T14	Complex 130 139	GGTase-II
+T21	Complex 440 449	RabGGTase
+T25	Complex 575 584	RabGGTase
+T30	Complex 761 770	RabGGTase
+T32	Complex 940 949	RabGGTase
+T34	Complex 1130 1139	RabGGTase
+T36	Complex 1272 1281	RabGGTase
+T38	Complex 1465 1474	RabGGTase
+N1	Reference T11 GO:0005968													Rab-protein geranylgeranyltransferase complex
+N2	Reference T12 GO:0005968												Rab-protein geranylgeranyltransferase complex
+N3	Reference T13 GO:0005968											Rab-protein geranylgeranyltransferase complex
+N4	Reference T14 GO:0005968										Rab-protein geranylgeranyltransferase complex
+N5	Reference T21 GO:0005968									Rab-protein geranylgeranyltransferase complex
+N6	Reference T25 GO:0005968								Rab-protein geranylgeranyltransferase complex
+N7	Reference T30 GO:0005968							Rab-protein geranylgeranyltransferase complex
+N8	Reference T32 GO:0005968						Rab-protein geranylgeranyltransferase complex
+N9	Reference T34 GO:0005968					Rab-protein geranylgeranyltransferase complex
+N10	Reference T36 GO:0005968				Rab-protein geranylgeranyltransferase complex
+N11	Reference T38 GO:0005968			Rab-protein geranylgeranyltransferase complex

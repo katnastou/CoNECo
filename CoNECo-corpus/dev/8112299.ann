@@ -1,0 +1,28 @@
+T13	Complex 83 93	NF-kappa B
+T14	Complex 952 962	NF-kappa B
+T15	Complex 0 11	Calcineurin
+T17	Complex 162 177	T cell receptor
+T18	Complex 179 182	TcR
+T23	Complex 346 357	Calcineurin
+T24	Complex 361 406	Ca2+/calmodulin-dependent protein phosphatase
+T27	Complex 461 464	TcR
+T28	Complex 554 565	calcineurin
+T32	Complex 815 825	NF-kappa B
+T33	Complex 872 882	NF-kappa B
+T34	Complex 845 856	Calcineurin
+T35	Complex 1005 1015	NF-kappa B
+T39	Complex 1305 1316	calcineurin
+N1	Reference T15 GO:0005955													
+N2	Reference T18 GO:0042101													
+N3	Reference T23 GO:0005955													
+N4	Reference T27 GO:0042101													
+N5	Reference T28 GO:0005955													
+N6	Reference T34 GO:0005955													
+N7	Reference T39 GO:0005955													
+N8	Reference T13 GO:0071159													NF-kappaB complex
+N9	Reference T17 GO:0042101												T cell receptor complex
+N10	Reference T32 GO:0071159											NF-kappaB complex
+N11	Reference T33 GO:0071159										NF-kappaB complex
+N12	Reference T14 GO:0071159									NF-kappaB complex
+N13	Reference T35 GO:0071159								NF-kappaB complex
+N14	Reference T24 GO:0005954							calcium- and calmodulin-dependent protein kinase complex

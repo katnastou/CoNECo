@@ -1,0 +1,24 @@
+T23	Complex 236 279	nuclear factor kappa B transcription factor
+T24	Complex 331 353	nuclear factor kappa B
+T25	Complex 115 122	kappa B
+T26	Complex 388 395	kappa B
+T27	Complex 551 558	kappa B
+T28	Complex 667 674	kappa B
+T29	Complex 971 978	kappa B
+T30	Complex 987 994	kappa B
+T31	Complex 1055 1062	kappa B
+T32	Complex 1350 1357	kappa B
+T33	Complex 1366 1373	kappa B
+T34	OOS 25 39	nuclear factor
+T35	OOS 772 786	nuclear factor
+N1	Reference T24 GO:0071159														NF-kappaB complex
+N3	Reference T25 GO:0071159												NF-kappaB complex
+N4	Reference T23 GO:0071159											NF-kappaB complex
+N5	Reference T26 GO:0071159										NF-kappaB complex
+N6	Reference T27 GO:0071159									NF-kappaB complex
+N7	Reference T28 GO:0071159								NF-kappaB complex
+N9	Reference T29 GO:0071159						NF-kappaB complex
+N10	Reference T30 GO:0071159					NF-kappaB complex
+N11	Reference T31 GO:0071159				NF-kappaB complex
+N12	Reference T32 GO:0071159			NF-kappaB complex
+N13	Reference T33 GO:0071159		NF-kappaB complex

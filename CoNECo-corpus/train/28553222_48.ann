@@ -1,0 +1,4 @@
+T10	Complex 411 417	AMPARs
+T14	Complex 866 872	AMPARs
+N1	Reference T10 GO:0032281			AMPA glutamate receptor complex
+N2	Reference T14 GO:0032281		AMPA glutamate receptor complex

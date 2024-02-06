@@ -1,0 +1,30 @@
+T3	Complex 105 108	IgE
+T8	Complex 850 861	NF kappa B1
+T11	Complex 941 952	NF kappa B2
+T14	Complex 1073 1084	NF kappa B2
+T16	Complex 1220 1231	NF kappa B1
+T17	Complex 1311 1322	NF kappa B2
+T19	Complex 1410 1421	NF kappa B2
+T22	Complex 1733 1744	NF kappa B2
+T25	Complex 393 396	IgE
+T26	Complex 1852 1855	IgE
+T28	Complex 43 57	NF kappa B/rel
+T29	Complex 672 686	NF kappa B/rel
+T30	Complex 1532 1546	NF kappa B/rel
+T32	Complex 353 356	IgE
+T33	Complex 994 997	IgE
+N6	Reference T28 GO:0071159																																		NF-kappaB complex
+N7	Reference T29 GO:0071159																																	NF-kappaB complex
+N8	Reference T8 GO:0071159																																NF-kappaB complex
+N9	Reference T30 GO:0071159																															NF-kappaB complex
+N10	Reference T16 GO:0071159																	NF-kappaB complex
+N11	Reference T11 GO:0071159															NF-kappaB complex
+N12	Reference T14 GO:0071159														NF-kappaB complex
+N13	Reference T17 GO:0071159													NF-kappaB complex
+N14	Reference T22 GO:0071159												NF-kappaB complex
+N15	Reference T19 GO:0071159											NF-kappaB complex
+N1	Reference T3 GO:0071742	IgE immunoglobulin complex
+N4	Reference T32 GO:0071742	IgE immunoglobulin complex
+N2	Reference T25 GO:0071742	IgE immunoglobulin complex
+N5	Reference T33 GO:0071742	IgE immunoglobulin complex
+N3	Reference T26 GO:0071742	IgE immunoglobulin complex

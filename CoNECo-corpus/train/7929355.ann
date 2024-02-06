@@ -1,0 +1,6 @@
+T23	Complex 488 502	NF-kappa B/Rel
+T28	Complex 754 768	NF-kappa B/Rel
+T42	Complex 367 374	kappa B
+N1	Reference T23 GO:0071159								NF-kappaB complex
+N2	Reference T28 GO:0071159							NF-kappaB complex
+N3	Reference T42 GO:0071159						NF-kappaB complex

@@ -1,0 +1,6 @@
+T12	Complex 42 52	NF kappa B
+T14	Complex 807 817	NF kappa B
+T18	Complex 284 308	T-cell antigen receptors
+N1	Reference T12 GO:0071159									NF-kappaB complex
+N2	Reference T14 GO:0071159								NF-kappaB complex
+N3	Reference T18 GO:0042101			T cell receptor complex

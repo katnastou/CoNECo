@@ -1,0 +1,24 @@
+T26	Complex 205 208	TcR
+T28	Complex 455 458	TcR
+T31	Complex 1480 1490	NF-kappa B
+T32	Complex 1735 1745	NF-kappa B
+T33	Complex 1530 1533	TcR
+T35	Complex 1559 1562	TcR
+T37	Complex 20 42	nuclear factor-kappa B
+T38	Complex 142 169	nuclear factor (NF)-kappa B
+T30	Complex 337 344	kappa B
+T39	Complex 188 203	T cell receptor
+T40	Complex 308 318	NF-kappa B
+T44	Complex 61 76	T cell receptor
+N1	Reference T26 GO:0042101															
+N2	Reference T28 GO:0042101															
+N3	Reference T33 GO:0042101															
+N4	Reference T35 GO:0042101															
+N5	Reference T38 GO:0071159														NF-kappaB complex
+N6	Reference T37 GO:0071159													NF-kappaB complex
+N7	Reference T30 GO:0071159												NF-kappaB complex
+N8	Reference T40 GO:0071159											NF-kappaB complex
+N9	Reference T31 GO:0071159										NF-kappaB complex
+N10	Reference T32 GO:0071159									NF-kappaB complex
+N11	Reference T44 GO:0042101			
+N12	Reference T39 GO:0042101		

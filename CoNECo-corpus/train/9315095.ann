@@ -1,0 +1,20 @@
+T26	OOS 125 144	farnesyltransferase
+T27	Complex 151 178	geranylgeranyltransferase I
+T28	OOS 221 240	farnesyltransferase
+T29	OOS 242 247	FTase
+T30	Complex 448 475	geranylgeranyltransferase I
+T31	Complex 477 485	GGTase I
+T35	OOS 879 884	FTase
+T36	Complex 889 897	GGTase I
+T49	OOS 2184 2189	FTase
+T50	Complex 2213 2221	GGTase I
+#1	AnnotatorNotes T31	https://www.ebi.ac.uk/complexportal/complex/CPX-1635
+#2	AnnotatorNotes T30	https://www.ebi.ac.uk/complexportal/complex/CPX-1635
+#3	AnnotatorNotes T36	https://www.ebi.ac.uk/complexportal/complex/CPX-1635
+#4	AnnotatorNotes T50	https://www.ebi.ac.uk/complexportal/complex/CPX-1635
+#5	AnnotatorNotes T27	https://www.ebi.ac.uk/complexportal/complex/CPX-1635
+#6	AnnotatorNotes T26	TODO: check normalization
+#7	AnnotatorNotes T28	TODO: check normalization
+#8	AnnotatorNotes T29	TODO: check normalization
+#9	AnnotatorNotes T35	TODO: check normalization
+#10	AnnotatorNotes T49	TODO: check normalization

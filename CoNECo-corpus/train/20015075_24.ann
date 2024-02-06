@@ -1,0 +1,4 @@
+T12	Complex 375 383	collagen
+T13	Complex 72 80	collagen
+N1	Reference T12 GO:0005581	
+N2	Reference T13 GO:0005581	

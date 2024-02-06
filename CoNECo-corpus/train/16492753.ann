@@ -1,0 +1,12 @@
+T7	Complex 0 17	RNA polymerase II
+T10	Complex 106 123	RNA polymerase II
+T11	Complex 125 131	Pol II
+T15	Complex 317 323	Pol II
+T16	OOS 456 470	RNA polymerase
+T18	Complex 717 723	Pol II
+N1	Reference T7 GO:0016591		
+N2	Reference T10 GO:0016591		
+N3	Reference T11 GO:0016591		
+N4	Reference T15 GO:0016591		
+N5	Reference T18 GO:0016591		
+#1	AnnotatorNotes T16	TODO: check normalization

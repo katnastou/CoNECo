@@ -1,0 +1,10 @@
+T19	Complex 292 302	Gbetagamma
+T20	OOS 236 245	betagamma
+T21	OOS 434 444	Gbetagamma
+T22	OOS 537 547	Gbetagamma
+T23	OOS 594 604	Gbetagamma
+T24	OOS 745 755	Gbetagamma
+T12	OOS 1481 1497	Gbeta(1)gamma(2)
+T13	OOS 1973 1983	Gbetagamma
+N1	Reference T19 GO:0031680								
+T1	OOS 36 56	G protein beta gamma

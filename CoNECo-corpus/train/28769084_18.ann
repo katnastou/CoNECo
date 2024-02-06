@@ -1,0 +1,6 @@
+T7	Complex 51 59	clathrin
+T10	Complex 226 234	clathrin
+T19	Complex 562 570	clathrin
+N1	Reference T7 GO:0071439	
+N2	Reference T10 GO:0071439	
+N3	Reference T19 GO:0071439	

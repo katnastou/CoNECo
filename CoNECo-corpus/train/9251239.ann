@@ -1,0 +1,14 @@
+T1	Complex 29 49	vitronectin receptor
+T2	Complex 74 94	vitronectin receptor
+T3	Complex 4 27	alpha v beta 3 integrin
+T4	Complex 58 72	alpha v beta 3
+T7	Complex 467 481	alpha v beta 3
+T8	Complex 548 562	alpha v beta 3
+T9	Complex 740 754	alpha v beta 3
+N1	Reference T1 GO:0034683								
+N3	Reference T3 GO:0034683								
+N2	Reference T2 GO:0034683						
+N4	Reference T4 GO:0034683					
+N5	Reference T9 GO:0034683				
+N6	Reference T7 GO:0034683			
+N7	Reference T8 GO:0034683		

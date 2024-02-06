@@ -1,0 +1,12 @@
+T2	Complex 55 63	NFkappaB
+T30	Complex 1133 1141	NFkappaB
+T31	Complex 1146 1150	AP-1
+T34	Complex 1220 1228	NFkappaB
+T40	Complex 1382 1390	NFkappaB
+T48	Complex 1727 1735	NFkappaB
+N1	Reference T31 GO:0035976													transcription factor AP-1 complex
+N2	Reference T2 GO:0071159											NF-kappaB complex
+N3	Reference T30 GO:0071159										NF-kappaB complex
+N4	Reference T34 GO:0071159									NF-kappaB complex
+N5	Reference T40 GO:0071159								NF-kappaB complex
+N6	Reference T48 GO:0071159							NF-kappaB complex

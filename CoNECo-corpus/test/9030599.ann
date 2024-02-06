@@ -1,0 +1,4 @@
+T2	Complex 467 489	interleukin-6 receptor
+T1	Complex 315 337	interleukin-5 receptor
+N1	Reference T2 GO:0005896			
+N2	Reference T1 GO:0005895			

@@ -1,0 +1,6 @@
+T20	Complex 693 697	DRIP
+T21	Complex 708 712	DRIP
+T30	Complex 1431 1435	DRIP
+N1	Reference T20 GO:0016592				
+N2	Reference T21 GO:0016592				
+N3	Reference T30 GO:0016592				

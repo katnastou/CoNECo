@@ -1,0 +1,28 @@
+T7	Complex 0 18	Protein kinase CK2
+T8	Complex 232 235	SBF
+T9	Complex 237 255	SCB binding factor
+T10	Complex 272 275	MBF
+T11	Complex 277 295	MCB binding factor
+T13	Complex 319 322	CK2
+T14	Complex 431 434	CK2
+T15	Complex 636 639	CK2
+T18	Complex 764 767	CK2
+T19	Complex 870 873	SBF
+T20	Complex 879 882	MBF
+T22	Complex 1057 1074	RNA polymerase II
+T23	Complex 1137 1140	CK2
+T24	Complex 1211 1214	CK2
+N1	Reference T8 GO:0033309				
+N2	Reference T9 GO:0033309				
+N3	Reference T10 GO:0030907				
+N4	Reference T11 GO:0030907				
+N5	Reference T13 GO:0005956				
+N6	Reference T14 GO:0005956				
+N7	Reference T15 GO:0005956				
+N8	Reference T18 GO:0005956				
+N9	Reference T19 GO:0033309				
+N10	Reference T20 GO:0030907				
+N11	Reference T22 GO:0016591				
+N12	Reference T23 GO:0005956				
+N13	Reference T24 GO:0005956				
+N14	Reference T7 GO:0005956		

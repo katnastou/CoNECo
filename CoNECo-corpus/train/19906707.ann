@@ -1,0 +1,11 @@
+T7	Complex 0 7	Cohesin
+T8	Complex 113 120	cohesin
+T9	Complex 386 393	cohesin
+T13	OOS 818 824	DNA-PK
+T16	Complex 1235 1242	cohesin
+T18	Complex 870 877	cohesin
+N1	Reference T7 GO:0008278		
+N2	Reference T8 GO:0008278		
+N3	Reference T9 GO:0008278		
+N4	Reference T16 GO:0008278		
+N5	Reference T18 GO:0008278		

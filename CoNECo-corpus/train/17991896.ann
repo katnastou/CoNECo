@@ -1,0 +1,11 @@
+T3	Complex 516 520	PP2A
+T4	Complex 710 714	PP2A
+T5	OOS 831 835	PP2A
+T9	Complex 1205 1209	PP2A
+T12	Complex 0 22	Protein phosphatase 2A
+T18	Complex 492 514	Protein phosphatase 2A
+N1	Reference T3 GO:0000159					
+N2	Reference T4 GO:0000159					
+N4	Reference T9 GO:0000159					
+N5	Reference T18 GO:0000159			
+N6	Reference T12 GO:0000159		

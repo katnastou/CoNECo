@@ -1,0 +1,6 @@
+T24	Complex 670 690	activation protein 1
+T25	Complex 692 696	AP-1
+T30	Complex 663 668	NF-kB
+N1	Reference T25 GO:0035976									transcription factor AP-1 complex
+N2	Reference T24 GO:0035976								transcription factor AP-1 complex
+N3	Reference T30 GO:0071159				NF-kappaB complex

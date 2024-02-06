@@ -1,0 +1,4 @@
+T42	Complex 1354 1364	proteasome
+T46	Complex 1457 1467	proteasome
+N1	Reference T42 GO:0000502	
+N2	Reference T46 GO:0000502	

@@ -1,0 +1,6 @@
+T21	Complex 221 230	NF-kappaB
+T24	Complex 847 856	NF-kappaB
+T25	Complex 1011 1020	NF-kappaB
+N1	Reference T21 GO:0071159								NF-kappaB complex
+N2	Reference T24 GO:0071159							NF-kappaB complex
+N3	Reference T25 GO:0071159						NF-kappaB complex

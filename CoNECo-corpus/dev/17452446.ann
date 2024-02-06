@@ -1,0 +1,15 @@
+T10	Complex 246 263	RNA polymerase II
+T16	Complex 662 677	casein kinase 2
+T17	Complex 679 682	CK2
+T18	Complex 804 807	CK2
+T19	Complex 651 655	CURI
+T20	Complex 738 742	CURI
+T22	Complex 1186 1190	CURI
+T23	OOS 1265 1273	ribosome
+N1	Reference T10 GO:0016591					
+N2	Reference T17 GO:0005956					
+N3	Reference T18 GO:0005956					
+N4	Reference T19 GO:0032545					
+N5	Reference T20 GO:0032545					
+N6	Reference T22 GO:0032545					
+N8	Reference T16 GO:0005956					protein kinase CK2 complex

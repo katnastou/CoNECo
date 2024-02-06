@@ -1,0 +1,6 @@
+T37	Complex 1681 1691	proteosome
+T38	Complex 2037 2047	proteosome
+T39	Complex 93 103	proteosome
+N1	Reference T37 GO:0000502				
+N2	Reference T38 GO:0000502				
+N3	Reference T39 GO:0000502				

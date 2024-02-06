@@ -1,0 +1,8 @@
+T12	Complex 22 25	Lpt
+T19	Complex 1195 1198	Lpt
+T27	Complex 627 630	Lpt
+T29	Complex 821 824	Lpt
+N1	Reference T12 GO:0062051	
+N2	Reference T19 GO:0062051	
+N3	Reference T27 GO:0062051	
+N4	Reference T29 GO:0062051	

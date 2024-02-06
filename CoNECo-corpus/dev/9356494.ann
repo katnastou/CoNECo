@@ -1,0 +1,6 @@
+T18	Complex 200 209	NF-kappaB
+T19	Complex 1686 1695	NF-kappaB
+T20	Complex 1832 1841	NF-kappaB
+N1	Reference T18 GO:0071159						NF-kappaB complex
+N2	Reference T19 GO:0071159					NF-kappaB complex
+N3	Reference T20 GO:0071159				NF-kappaB complex

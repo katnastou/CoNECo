@@ -1,0 +1,4 @@
+T18	Complex 454 464	NF kappa B
+T19	Complex 466 470	AP-1
+N2	Reference T18 GO:0071159					NF-kappaB complex
+N1	Reference T19 GO:0035976				transcription factor AP-1 complex

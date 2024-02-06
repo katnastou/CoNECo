@@ -1,0 +1,10 @@
+T5	OOS 276 304	mitochondrial 55 S ribosomes
+T6	OOS 325 345	initiation complexes
+T7	Complex 468 472	28 S
+T9	OOS 868 886	initiation complex
+T10	OOS 934 948	55 S ribosomes
+T11	OOS 101 110	ribosomes
+T12	OOS 1181 1201	initiation complexes
+N1	Reference T7 GO:0005763																			
+T1	Complex 587 610	large ribosomal subunit
+N2	Reference T1 GO:0015934	large ribosomal subunit

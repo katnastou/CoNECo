@@ -1,0 +1,6 @@
+T12	Complex 552 582	Rab geranylgeranyl transferase
+T4	Complex 35 65	Rab geranylgeranyl transferase
+T41	Complex 2125 2154	Rab geranylgeranyltransferase
+N1	Reference T12 GO:0005968			
+N2	Reference T4 GO:0005968			
+N3	Reference T41 GO:0005968		

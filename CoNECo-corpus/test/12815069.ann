@@ -1,0 +1,4 @@
+T40	Complex 910 915	TRAIL
+T41	Complex 1006 1011	TRAIL
+N1	Reference T40 GO:0031266					
+N2	Reference T41 GO:0031266					

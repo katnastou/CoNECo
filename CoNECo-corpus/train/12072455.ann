@@ -1,0 +1,16 @@
+T16	Complex 6 9	RSC
+T18	Complex 112 115	RSC
+T19	Complex 186 193	Snf-Swi
+T20	Complex 318 321	RSC
+T21	Complex 420 423	RSC
+T22	Complex 476 479	RSC
+T29	Complex 1128 1131	RSC
+T32	Complex 1474 1477	RSC
+N1	Reference T16 GO:0016586			
+N2	Reference T18 GO:0016586			
+N3	Reference T20 GO:0016586			
+N4	Reference T21 GO:0016586			
+N5	Reference T22 GO:0016586			
+N6	Reference T29 GO:0016586			
+N7	Reference T32 GO:0016586			
+N8	Reference T19 GO:0016514		SWI/SNF complex

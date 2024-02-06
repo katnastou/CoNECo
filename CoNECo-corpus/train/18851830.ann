@@ -1,0 +1,4 @@
+T5	Complex 46 49	SCF
+T10	Complex 435 438	SCF
+N1	Reference T5 GO:0019005	
+N2	Reference T10 GO:0019005	

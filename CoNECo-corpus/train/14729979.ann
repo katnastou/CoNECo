@@ -1,0 +1,3 @@
+T25	Complex 1091 1115	eIF2 protein phosphatase
+N1	Reference T25 GO:0072357		PTW/PP1 phosphatase complex
+#1	AnnotatorNotes T25	paper: https://www.repository.cam.ac.uk/bitstream/handle/1810/283601/041018_FINAL_THESIS.pdf?sequence=1, **** not sure about this normalization

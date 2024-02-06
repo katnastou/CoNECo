@@ -1,0 +1,16 @@
+T8	Complex 69 79	NF-kappa B
+T9	Complex 82 92	NF-kappa B
+T10	Complex 812 822	NF-kappa B
+T11	Complex 507 514	kappa B
+T12	Complex 658 665	kappa B
+T13	Complex 1059 1066	kappa B
+T14	Complex 1214 1221	kappa B
+T16	Complex 1252 1267	T cell receptor
+N1	Reference T8 GO:0071159														NF-kappaB complex
+N2	Reference T9 GO:0071159													NF-kappaB complex
+N3	Reference T11 GO:0071159												NF-kappaB complex
+N4	Reference T12 GO:0071159											NF-kappaB complex
+N5	Reference T10 GO:0071159										NF-kappaB complex
+N6	Reference T13 GO:0071159									NF-kappaB complex
+N7	Reference T14 GO:0071159								NF-kappaB complex
+N8	Reference T16 GO:0042101		T cell receptor complex

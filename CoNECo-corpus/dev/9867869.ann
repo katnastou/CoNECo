@@ -1,0 +1,14 @@
+T16	Complex 555 560	eIF-2
+T18	Complex 730 735	eIF-2
+T21	Complex 889 894	eIF-2
+T22	Complex 1047 1052	eIF-2
+T24	Complex 1343 1348	eIF-2
+T26	Complex 1469 1474	eIF-2
+T28	Complex 1576 1581	eIF-2
+N1	Reference T16 GO:0005850								eukaryotic translation initiation factor 2 complex
+N2	Reference T18 GO:0005850							eukaryotic translation initiation factor 2 complex
+N3	Reference T21 GO:0005850						eukaryotic translation initiation factor 2 complex
+N4	Reference T22 GO:0005850					eukaryotic translation initiation factor 2 complex
+N5	Reference T26 GO:0005850				eukaryotic translation initiation factor 2 complex
+N6	Reference T28 GO:0005850			eukaryotic translation initiation factor 2 complex
+N7	Reference T24 GO:0005850		eukaryotic translation initiation factor 2 complex

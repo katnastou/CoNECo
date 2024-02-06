@@ -1,0 +1,4 @@
+T23	Complex 1083 1092	NF-kappaB
+T24	Complex 173 182	NF-kappaB
+N1	Reference T24 GO:0071159												NF-kappaB complex
+N2	Reference T23 GO:0071159											NF-kappaB complex

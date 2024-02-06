@@ -1,0 +1,4 @@
+T21	Complex 1043 1053	proteasome
+T22	Complex 1083 1097	26S proteasome
+N1	Reference T21 GO:0000502	
+N2	Reference T22 GO:0000502	

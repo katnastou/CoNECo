@@ -1,0 +1,4 @@
+T17	Complex 1093 1097	Sin3
+T18	Complex 1141 1145	Sin3
+N1	Reference T17 GO:0016580	
+N2	Reference T18 GO:0016580	

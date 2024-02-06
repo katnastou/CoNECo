@@ -1,0 +1,10 @@
+T3	Complex 6 32	origin recognition complex
+T6	Complex 314 340	origin recognition complex
+T10	Complex 670 680	proteasome
+T11	Complex 712 721	SCF(Skp2)
+T13	Complex 754 758	hORC
+N1	Reference T3 GO:0000808						
+N2	Reference T6 GO:0000808						
+N3	Reference T10 GO:0000502						
+N5	Reference T13 GO:0000808					
+N4	Reference T11 GO:0097669			SCF-Skp2 ubiquitin ligase complex

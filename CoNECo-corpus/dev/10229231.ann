@@ -1,0 +1,4 @@
+T1	Complex 330 345	T cell-receptor
+N1	Reference T1 GO:0042101	T cell receptor complex
+T2	Complex 417 432	T cell-receptor
+N2	Reference T2 GO:0042101	T cell receptor complex

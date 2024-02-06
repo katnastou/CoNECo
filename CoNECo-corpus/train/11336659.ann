@@ -1,0 +1,21 @@
+T12	Complex 81 102	protein phosphatase 1
+T14	Complex 123 144	protein phosphatase 1
+T15	Complex 146 149	PP1
+T16	Complex 265 268	PP1
+T17	Complex 381 384	PP1
+T21	Complex 863 866	PP1
+T24	Complex 1283 1286	PP1
+T25	Complex 1365 1368	PP1
+T29	Complex 1542 1545	PP1
+T31	OOS 1242 1261	farnesyltransferase
+N1	Reference T12 GO:0000164					
+N2	Reference T14 GO:0000164					
+N3	Reference T15 GO:0000164					
+N4	Reference T16 GO:0000164					
+N5	Reference T17 GO:0000164					
+N6	Reference T21 GO:0000164					
+N7	Reference T24 GO:0000164					
+N8	Reference T25 GO:0000164					
+N9	Reference T29 GO:0000164					
+T1	Complex 442 460	myosin phosphatase
+N11	Reference T1 GO:0017023	myosin phosphatase complex

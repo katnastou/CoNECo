@@ -1,0 +1,20 @@
+T12	Complex 77 98	nuclear factor kappaB
+T19	Complex 477 503	nuclear factor (NF)-kappaB
+T21	Complex 594 603	NF-kappaB
+T22	Complex 704 713	NF-kappaB
+T25	Complex 844 853	NF-kappaB
+T27	Complex 899 908	NF-kappaB
+T34	Complex 1305 1308	IKK
+T36	Complex 1382 1391	NF-kappaB
+T37	Complex 1430 1433	IKK
+N1	Reference T34 GO:0008385														
+N2	Reference T37 GO:0008385														
+N3	Reference T12 GO:0071159														NF-kappaB complex
+N4	Reference T19 GO:0071159													NF-kappaB complex
+N5	Reference T22 GO:0071159												NF-kappaB complex
+N6	Reference T21 GO:0071159											NF-kappaB complex
+N7	Reference T25 GO:0071159										NF-kappaB complex
+N8	Reference T27 GO:0071159									NF-kappaB complex
+N9	Reference T36 GO:0071159								NF-kappaB complex
+T1	Complex 1136 1143	IkappaB
+N10	Reference T1 GO:0008385	IkappaB kinase complex

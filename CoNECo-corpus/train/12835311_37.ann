@@ -1,0 +1,6 @@
+T8	Complex 458 461	IgG
+T9	Complex 534 537	IgG
+T10	Complex 565 568	IgG
+N1	Reference T8 GO:0071735	IgG immunoglobulin complex
+N2	Reference T9 GO:0071735	IgG immunoglobulin complex
+N3	Reference T10 GO:0071735	IgG immunoglobulin complex

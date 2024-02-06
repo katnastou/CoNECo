@@ -1,0 +1,20 @@
+T1	Complex 94 97	AP1
+T2	Complex 102 111	NF-kappaB
+T12	Complex 658 677	activator protein 1
+T13	Complex 679 682	AP1
+T14	Complex 735 744	NF-kappaB
+T19	Complex 949 952	AP1
+T20	Complex 1049 1058	NF-kappaB
+N1	Reference T2 GO:0071159													NF-kappaB complex
+N2	Reference T14 GO:0071159												NF-kappaB complex
+N3	Reference T20 GO:0071159											NF-kappaB complex
+N4	Reference T1 GO:0035976					transcription factor AP-1 complex
+N5	Reference T12 GO:0035976				transcription factor AP-1 complex
+N6	Reference T13 GO:0035976			transcription factor AP-1 complex
+N7	Reference T19 GO:0035976		transcription factor AP-1 complex
+T3	Complex 148 151	IKK
+N8	Reference T3 GO:0008385	IkappaB kinase complex
+T4	Complex 132 146	IkappaB kinase
+N9	Reference T4 GO:0008385	IkappaB kinase complex
+T5	Complex 523 526	IKK
+N10	Reference T5 GO:0008385	IkappaB kinase complex

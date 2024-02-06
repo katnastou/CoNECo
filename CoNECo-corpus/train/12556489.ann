@@ -1,0 +1,20 @@
+T18	Complex 1598 1621	eIF-2 alpha phosphatase
+T23	Complex 295 316	protein phosphatase 1
+T24	Complex 318 321	PP1
+T26	Complex 866 869	PP1
+T27	Complex 1044 1047	PP1
+T28	Complex 1128 1131	PP1
+T11	Complex 1195 1198	PP1
+T29	Complex 1486 1489	PP1
+T9	Complex 912 935	eIF-2 alpha phosphatase
+N1	Reference T23 GO:0000164						
+N2	Reference T24 GO:0000164						
+N3	Reference T26 GO:0000164						
+N4	Reference T27 GO:0000164						
+N5	Reference T28 GO:0000164						
+N6	Reference T11 GO:0000164						
+N7	Reference T29 GO:0000164						
+N8	Reference T18 GO:0072357				PTW/PP1 phosphatase complex
+#1	AnnotatorNotes T18	paper: https://www.repository.cam.ac.uk/bitstream/handle/1810/283601/041018_FINAL_THESIS.pdf?sequence=1 **** not sure about this normalization
+#2	AnnotatorNotes T9	paper: https://www.repository.cam.ac.uk/bitstream/handle/1810/283601/041018_FINAL_THESIS.pdf?sequence=1 **** not sure about this normalization
+N9	Reference T9 GO:0072357	PTW/PP1 phosphatase complex

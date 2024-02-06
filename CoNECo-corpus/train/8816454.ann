@@ -1,0 +1,19 @@
+T22	Complex 309 326	RNA polymerase II
+T23	Complex 332 350	RNA polymerase III
+T24	Complex 793 796	PTF
+T26	Complex 213 273	proximal sequence element (PSE)-binding transcription factor
+T27	Complex 275 278	PTF
+T28	Complex 493 496	PTF
+T29	Complex 1176 1179	PTF
+T31	Complex 1547 1553	TFIIIB
+T33	Complex 1670 1673	PTF
+N1	Reference T22 GO:0016591		
+N2	Reference T23 GO:0005666		
+N3	Reference T24 GO:0019185		
+N4	Reference T26 GO:0019185		
+N5	Reference T27 GO:0019185		
+N6	Reference T28 GO:0019185		
+N7	Reference T29 GO:0019185		
+N8	Reference T33 GO:0019185		
+N9	Reference T31 GO:0000126		transcription factor TFIIIB complex
+#1	AnnotatorNotes T27	https://pubmed.ncbi.nlm.nih.gov/7891697/

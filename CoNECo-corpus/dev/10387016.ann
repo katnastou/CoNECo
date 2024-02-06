@@ -1,0 +1,4 @@
+T30	Complex 614 617	20S
+T32	Complex 722 725	20S
+N1	Reference T30 GO:0000502				proteasome complex
+N2	Reference T32 GO:0000502			proteasome complex

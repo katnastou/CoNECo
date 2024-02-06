@@ -1,0 +1,6 @@
+T1	Complex 71 76	SNARE
+N1	Reference T1 GO:0031201	SNARE complex
+T2	Complex 78 156	soluble N-ethylmaleimide-sensitive fusion protein-attachment protein receptor)
+N2	Reference T2 GO:0031201	SNARE complex
+T3	Complex 313 318	SNARE
+N3	Reference T3 GO:0031201	SNARE complex

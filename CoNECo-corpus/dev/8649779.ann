@@ -1,0 +1,12 @@
+T19	Complex 33 42	NF-kappaB
+T20	Complex 126 135	NF-kappaB
+T21	Complex 253 262	NF-kappaB
+T22	Complex 956 965	NF-kappaB
+T23	Complex 1138 1147	NF-kappaB
+T24	Complex 145 155	proteasome
+N1	Reference T24 GO:0000502											
+N2	Reference T19 GO:0071159											NF-kappaB complex
+N3	Reference T20 GO:0071159										NF-kappaB complex
+N4	Reference T23 GO:0071159									NF-kappaB complex
+N5	Reference T22 GO:0071159								NF-kappaB complex
+N6	Reference T21 GO:0071159							NF-kappaB complex

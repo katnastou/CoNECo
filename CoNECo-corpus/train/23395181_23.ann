@@ -1,0 +1,10 @@
+T6	Complex 178 183	COPII
+T8	Complex 278 297	clathrin adaptor AP
+T9	Complex 510 512	AP
+T10	Complex 589 595	Exomer
+T11	Complex 42 48	exomer
+N2	Reference T10 GO:0034044					
+N3	Reference T11 GO:0034044					
+N4	Reference T8 GO:0030119					AP-type membrane coat adaptor complex
+N1	Reference T9 GO:0030119				AP-type membrane coat adaptor complex
+N5	Reference T6 GO:0030127		COPII vesicle coat

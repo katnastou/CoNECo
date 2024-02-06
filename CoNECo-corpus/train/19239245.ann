@@ -1,0 +1,14 @@
+T10	OOS 734 752	initiation complex
+T11	OOS 790 817	mitochondrial 55S ribosomes
+T12	Complex 870 873	28S
+T13	OOS 890 922	mammalian mitochondrial ribosome
+T14	Complex 1072 1075	39S
+T15	OOS 1110 1123	55S monosomes
+T16	OOS 1294 1312	initiation complex
+T17	OOS 1326 1353	mitochondrial 55S ribosomes
+T19	OOS 1500 1508	ribosome
+T20	OOS 1092 1100	ribosome
+N9	Reference T14 GO:0005762																										mitochondrial large ribosomal subunit
+N10	Reference T12 GO:0005763																									mitochondrial small ribosomal subunit
+#1	AnnotatorNotes T12	TODO: check boundaries
+#2	AnnotatorNotes T14	TODO: check boundaries

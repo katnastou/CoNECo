@@ -1,0 +1,12 @@
+T3	Complex 75 85	TCP-1 ring
+T11	Complex 377 387	TCP-1 ring
+T12	Complex 397 401	TRiC
+T15	Complex 494 498	TRiC
+T24	Complex 725 729	TRiC
+N1	Reference T12 GO:0005832									chaperonin-containing T-complex
+N2	Reference T15 GO:0005832								chaperonin-containing T-complex
+N3	Reference T24 GO:0005832							chaperonin-containing T-complex
+N4	Reference T3 GO:0005832						chaperonin-containing T-complex
+N5	Reference T11 GO:0005832					chaperonin-containing T-complex
+#1	AnnotatorNotes T3	more synonyms in CP: https://www.ebi.ac.uk/complexportal/complex/CPX-2772
+#2	AnnotatorNotes T11	more synonyms in CP: https://www.ebi.ac.uk/complexportal/complex/CPX-2772

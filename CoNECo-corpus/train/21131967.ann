@@ -1,0 +1,10 @@
+T1	Complex 26 35	NF-kappaB
+T4	OOS 82 107	histone methyltransferase
+T6	Complex 148 157	NF-kappaB
+T8	Complex 556 565	NF-kappaB
+T14	OOS 818 843	histone methyltransferase
+T20	Complex 996 1005	NF-kappaB
+N3	Reference T1 GO:0071159									NF-kappaB complex
+N4	Reference T6 GO:0071159								NF-kappaB complex
+N5	Reference T8 GO:0071159							NF-kappaB complex
+N6	Reference T20 GO:0071159						NF-kappaB complex

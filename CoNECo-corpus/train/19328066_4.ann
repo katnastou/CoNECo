@@ -1,0 +1,8 @@
+T19	Complex 514 518	TREX
+T20	Complex 520 544	TRanscription and EXport
+N1	Reference T19 GO:0000346	
+N2	Reference T20 GO:0000346	
+T1	Complex 44 48	NPCs
+T2	Complex 426 430	NPCs
+N3	Reference T1 GO:0005643	nuclear pore
+N4	Reference T2 GO:0005643	nuclear pore

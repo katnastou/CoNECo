@@ -1,0 +1,28 @@
+T17	Complex 17 23	NF-GM2
+T19	Complex 222 232	NF-kappa B
+T22	Complex 1827 1834	kappa B
+T23	Complex 2081 2088	kappa B
+T24	Complex 811 817	NF-GM2
+T25	Complex 969 975	NF-GM2
+T26	Complex 1088 1094	NF-GM2
+T27	Complex 1393 1399	NF-GM2
+T28	Complex 1518 1524	NF-GM2
+T29	Complex 1638 1644	NF-GM2
+T30	Complex 1666 1672	NF-GM2
+T31	Complex 1778 1784	NF-GM2
+T41	Complex 1594 1604	NF-kappa B
+T42	Complex 1753 1763	NF-kappa B
+N1	Reference T19 GO:0071159																											NF-kappaB complex
+N2	Reference T41 GO:0071159																										NF-kappaB complex
+N3	Reference T42 GO:0071159																									NF-kappaB complex
+N4	Reference T23 GO:0071159																								NF-kappaB complex
+N5	Reference T22 GO:0071159																							NF-kappaB complex
+#1	AnnotatorNotes T17	not normalizable
+#2	AnnotatorNotes T24	not normalizable
+#3	AnnotatorNotes T25	not normalizable
+#4	AnnotatorNotes T26	not normalizable
+#5	AnnotatorNotes T27	not normalizable
+#6	AnnotatorNotes T28	not normalizable
+#7	AnnotatorNotes T29	not normalizable
+#8	AnnotatorNotes T30	not normalizable
+#9	AnnotatorNotes T31	not normalizable

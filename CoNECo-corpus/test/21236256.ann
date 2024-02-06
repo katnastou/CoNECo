@@ -1,0 +1,8 @@
+T17	Complex 61 65	AP-1
+T19	Complex 384 388	AP-1
+T21	Complex 573 577	AP-1
+T24	Complex 714 718	AP-1
+N1	Reference T17 GO:0035976												transcription factor AP-1 complex
+N2	Reference T19 GO:0035976											transcription factor AP-1 complex
+N5	Reference T21 GO:0035976										transcription factor AP-1 complex
+N3	Reference T24 GO:0035976								transcription factor AP-1 complex

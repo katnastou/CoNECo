@@ -1,0 +1,6 @@
+T2	Complex 761 766	STAGA
+T25	Complex 1301 1315	19S proteasome
+T16	OOS 1449 1467	PML nuclear bodies
+N1	Reference T25 GO:0005838			proteasome regulatory particle
+N2	Reference T2 GO:0000124		SAGA complex
+#1	AnnotatorNotes T2	TODO: check boundaries

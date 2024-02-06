@@ -1,0 +1,8 @@
+T14	Complex 222 236	26S proteasome
+T15	Complex 310 320	proteasome
+T16	Complex 94 104	proteasome
+T21	Complex 802 812	proteasome
+N1	Reference T14 GO:0000502	
+N2	Reference T15 GO:0000502	
+N3	Reference T16 GO:0000502	
+N4	Reference T21 GO:0000502	

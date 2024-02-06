@@ -1,0 +1,5 @@
+T16	Complex 859 893	type IV basement membrane collagen
+T18	Complex 946 952;961 970	type I collagens
+T19	Complex 946 950;957 970	type III collagens
+N1	Reference T16 GO:0005587					collagen type IV trimer
+N2	Reference T18 GO:0005584				collagen type I trimer

@@ -1,0 +1,6 @@
+T10	Complex 3 9	Pol II
+T11	Complex 21 24	RSC
+T13	Complex 721 727	Pol II
+N1	Reference T10 GO:0016591	
+N2	Reference T11 GO:0016586	
+N3	Reference T13 GO:0016591	

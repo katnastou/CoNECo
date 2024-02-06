@@ -1,0 +1,4 @@
+T9	Complex 681 691	NF-kappa B
+T14	Complex 810 817	kappa B
+N1	Reference T9 GO:0071159					NF-kappaB complex
+N2	Reference T14 GO:0071159				NF-kappaB complex

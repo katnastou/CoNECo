@@ -1,0 +1,24 @@
+T10	Complex 95 106	U4/U6 snRNP
+T11	Complex 309 320	U4/U6 snRNP
+T12	Complex 115 130	box C/D snoRNPs
+T13	Complex 326 340	box C/D snoRNP
+T14	Complex 350 353	RNP
+T15	Complex 553 556	RNP
+T16	Complex 625 628	RNP
+T17	Complex 918 921	RNP
+T18	Complex 969 972	RNP
+T19	Complex 1094 1097	RNP
+T20	Complex 1294 1297	RNP
+T21	Complex 240 243	RNP
+N1	Reference T21 GO:0097525													spliceosomal snRNP complex
+N2	Reference T14 GO:0097525												spliceosomal snRNP complex
+N3	Reference T11 GO:0071001											U4/U6 snRNP
+N4	Reference T15 GO:0097525										spliceosomal snRNP complex
+N5	Reference T16 GO:0097525									spliceosomal snRNP complex
+N6	Reference T18 GO:0097525								spliceosomal snRNP complex
+N7	Reference T17 GO:0097525							spliceosomal snRNP complex
+N8	Reference T19 GO:0097525						spliceosomal snRNP complex
+N9	Reference T20 GO:0097525					spliceosomal snRNP complex
+N10	Reference T10 GO:0071001				U4/U6 snRNP
+N11	Reference T12 GO:0031428			box C/D RNP complex
+N12	Reference T13 GO:0031428		box C/D RNP complex

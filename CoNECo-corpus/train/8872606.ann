@@ -1,0 +1,4 @@
+T9	Complex 977 981	AP-1
+T10	Complex 1020 1024	AP-1
+N1	Reference T9 GO:0035976				transcription factor AP-1 complex
+N2	Reference T10 GO:0035976			transcription factor AP-1 complex

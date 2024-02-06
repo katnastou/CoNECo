@@ -1,0 +1,4 @@
+T30	Complex 222 237	T cell receptor
+T31	Complex 831 846	T cell receptor
+N1	Reference T30 GO:0042101					T cell receptor complex
+N2	Reference T31 GO:0042101				T cell receptor complex

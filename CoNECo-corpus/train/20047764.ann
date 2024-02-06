@@ -1,0 +1,4 @@
+T19	Complex 456 465	NF-kappaB
+T34	Complex 1029 1038	NF-kappaB
+N1	Reference T19 GO:0071159					NF-kappaB complex
+N2	Reference T34 GO:0071159				NF-kappaB complex

@@ -1,0 +1,8 @@
+T6	Complex 13 27	SSU processome
+T7	OOS 134 142	ribosome
+T8	Complex 814 823	U3 snoRNP
+T9	Complex 1596 1601	TRAMP
+T10	Complex 1584 1591	exosome
+N1	Reference T6 GO:0032040						
+N3	Reference T9 GO:0031499						
+N4	Reference T10 GO:1990563						

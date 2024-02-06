@@ -1,0 +1,4 @@
+T34	Complex 314 324	proteasome
+T35	Complex 1006 1016	proteasome
+N1	Reference T34 GO:0000502	
+N2	Reference T35 GO:0000502	

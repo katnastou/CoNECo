@@ -1,0 +1,6 @@
+T18	Complex 502 510	collagen
+T30	Complex 1840 1846;1860 1868	type I collagen
+T31	Complex 1851 1868	type III collagen
+N1	Reference T18 GO:0005581				
+N2	Reference T31 GO:0005586			collagen type III trimer
+N3	Reference T30 GO:0005584		collagen type I trimer

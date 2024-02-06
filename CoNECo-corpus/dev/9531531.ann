@@ -1,0 +1,4 @@
+T33	Complex 92 99	SCFCdc4
+T4	Complex 1031 1038	SCFCdc4
+N1	Reference T4 GO:0097660			SCF-Cdc4 ubiquitin ligase complex
+N2	Reference T33 GO:0097660		SCF-Cdc4 ubiquitin ligase complex

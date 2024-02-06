@@ -1,0 +1,26 @@
+T23	Complex 18 34	COP9 signalosome
+T25	Complex 215 231	COP9 signalosome
+T26	Complex 233 236	CSN
+T27	Complex 316 330	26S proteasome
+T28	Complex 332 335	CSN
+T29	Complex 354 357	SCF
+T7	Complex 502 505	SCF
+T8	Complex 535 538	CSN
+T31	Complex 1066 1069	CSN
+T33	Complex 1148 1151	CSN
+T34	Complex 1176 1179	SCF
+T35	Complex 1190 1200	proteasome
+N1	Reference T27 GO:0000502											
+N2	Reference T7 GO:0019005											
+N3	Reference T34 GO:0019005											
+N4	Reference T35 GO:0000502											
+N5	Reference T28 GO:0008180											COP9 signalosome
+N6	Reference T23 GO:0008180										COP9 signalosome
+N7	Reference T25 GO:0008180									COP9 signalosome
+N8	Reference T26 GO:0008180								COP9 signalosome
+N9	Reference T33 GO:0008180							COP9 signalosome
+N10	Reference T31 GO:0008180						COP9 signalosome
+N11	Reference T8 GO:0008180					COP9 signalosome
+N12	Reference T29 GO:0019005		SCF ubiquitin ligase complex
+T1	Complex 607 614	IkappaB
+N13	Reference T1 GO:0008385	IkappaB kinase complex

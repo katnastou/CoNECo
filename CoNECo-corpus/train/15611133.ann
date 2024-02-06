@@ -1,0 +1,12 @@
+T19	Complex 190 205	26 S proteasome
+T20	Complex 53 68	26 S proteasome
+T21	Complex 402 417	26 S proteasome
+T22	Complex 1004 1019	26 S proteasome
+T23	Complex 1480 1495	26 S proteasome
+T24	Complex 661 672	proteasomes
+N1	Reference T20 GO:0000502								proteasome complex
+N2	Reference T19 GO:0000502							proteasome complex
+N3	Reference T21 GO:0000502						proteasome complex
+N4	Reference T22 GO:0000502					proteasome complex
+N5	Reference T24 GO:0000502				proteasome complex
+N6	Reference T23 GO:0000502			proteasome complex

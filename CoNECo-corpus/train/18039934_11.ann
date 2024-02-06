@@ -1,0 +1,6 @@
+T19	Complex 36 39	SAM
+T20	Complex 1026 1029	TOM
+T21	Complex 1474 1477	SAM
+N1	Reference T19 GO:0001401	
+N2	Reference T20 GO:0140596	
+N3	Reference T21 GO:0001401	

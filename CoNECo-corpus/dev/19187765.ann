@@ -1,0 +1,5 @@
+T7	OOS 367 397	HBO1 histone acetyltransferase
+T14	OOS 687 691	HBO1
+#1	AnnotatorNotes T14	not sure this normalizes to GO:0000123
+#2	AnnotatorNotes T7	not sure this normalizes to GO:0000123
+T1	OOS 399 402	HAT

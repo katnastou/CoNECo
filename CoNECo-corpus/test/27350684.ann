@@ -1,0 +1,8 @@
+T11	Complex 69 80	Spliceosome
+T12	Complex 173 184	Spliceosome
+T13	Complex 85 102	3'-end processing
+T14	Complex 226 243	3'-end processing
+N1	Reference T11 GO:0005681										
+N2	Reference T12 GO:0005681										
+N3	Reference T13 GO:0071204										histone pre-mRNA 3'end processing complex
+N4	Reference T14 GO:0071204									histone pre-mRNA 3'end processing complex

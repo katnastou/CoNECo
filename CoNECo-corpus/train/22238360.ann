@@ -1,0 +1,12 @@
+T1	OOS 18 24	NUP107
+T2	OOS 211 217	NUP107
+T3	OOS 489 495	NUP107
+T4	OOS 534 540	NUP107
+T10	OOS 815 821	NUP107
+T5	Complex 151 173	Nuclear pore complexes
+T6	Complex 25 48	nuclear pore subcomplex
+#1	AnnotatorNotes T1	https://www.uniprot.org/uniprotkb/P57740/entry
+#2	AnnotatorNotes T10	https://www.uniprot.org/uniprotkb/P57740/entry
+#3	AnnotatorNotes T4	https://www.uniprot.org/uniprotkb/P57740/entry
+#4	AnnotatorNotes T3	https://www.uniprot.org/uniprotkb/P57740/entry
+#5	AnnotatorNotes T2	https://www.uniprot.org/uniprotkb/P57740/entry

@@ -1,0 +1,6 @@
+T28	Complex 1046 1050	AP-1
+T31	Complex 1190 1194	AP-1
+T32	Complex 228 251	T cell antigen receptor
+N3	Reference T32 GO:0042101						T cell receptor complex
+N1	Reference T28 GO:0035976					transcription factor AP-1 complex
+N2	Reference T31 GO:0035976				transcription factor AP-1 complex

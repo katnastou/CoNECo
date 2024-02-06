@@ -1,0 +1,20 @@
+T1	OOS 272 277	Ctf19
+T2	OOS 401 406	Ctf19
+T4	OOS 463 468	Ctf19
+T7	OOS 745 750	Ctf19
+T12	Complex 0 7	Cohesin
+T13	Complex 73 80	cohesin
+T14	Complex 570 577	cohesin
+T15	Complex 651 658	cohesin
+T16	Complex 768 775	cohesin
+T17	Complex 869 876	cohesin
+N1	Reference T12 GO:0008278									
+N2	Reference T13 GO:0008278									
+N3	Reference T14 GO:0008278									
+N4	Reference T15 GO:0008278									
+N5	Reference T16 GO:0008278									
+N6	Reference T17 GO:0008278									
+#1	AnnotatorNotes T1	https://www.uniprot.org/uniprotkb/Q02732/entry
+#2	AnnotatorNotes T2	https://www.uniprot.org/uniprotkb/Q02732/entry
+#3	AnnotatorNotes T4	https://www.uniprot.org/uniprotkb/Q02732/entry
+#4	AnnotatorNotes T7	https://www.uniprot.org/uniprotkb/Q02732/entry

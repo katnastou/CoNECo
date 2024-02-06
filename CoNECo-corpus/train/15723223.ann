@@ -1,0 +1,12 @@
+T24	OOS 126 147	nitrogenase reductase
+#1	AnnotatorNotes T24	https://en.wikipedia.org/wiki/Nitrogenase#Reductase : dimer
+T1	OOS 362 385	dinitrogenase reductase
+#2	AnnotatorNotes T1	https://en.wikipedia.org/wiki/Nitrogenase#Reductase : dimer
+T2	OOS 387 397	Fe Protein
+#3	AnnotatorNotes T2	https://en.wikipedia.org/wiki/Nitrogenase#Reductase : dimer
+T3	OOS 989 999	Fe Protein
+#4	AnnotatorNotes T3	https://en.wikipedia.org/wiki/Nitrogenase#Reductase : dimer
+T4	OOS 1037 1047	Fe Protein
+#5	AnnotatorNotes T4	https://en.wikipedia.org/wiki/Nitrogenase#Reductase : dimer
+T5	OOS 1175 1185	Fe Protein
+#6	AnnotatorNotes T5	https://en.wikipedia.org/wiki/Nitrogenase#Reductase : dimer

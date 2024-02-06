@@ -1,0 +1,12 @@
+T16	Complex 287 318	polycomb repressive complexes 1
+T17	Complex 287 316;323 324	polycomb repressive complexes 2
+T18	Complex 326 330	PRC1
+T19	Complex 335 339	PRC2
+T20	Complex 496 500	PRC1
+T22	Complex 1108 1112	PRC1
+N1	Reference T18 GO:0035102						
+N2	Reference T19 GO:0035098						
+N3	Reference T20 GO:0035102						
+N4	Reference T22 GO:0035102						
+N5	Reference T16 GO:0035102					
+N6	Reference T17 GO:0035098			

@@ -1,0 +1,6 @@
+T10	Complex 382 384	3M
+T11	Complex 646 648	3M
+T12	Complex 744 746	3M
+N1	Reference T10 GO:1990393	
+N2	Reference T11 GO:1990393	
+N3	Reference T12 GO:1990393	

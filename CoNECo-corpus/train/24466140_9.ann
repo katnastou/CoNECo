@@ -1,0 +1,6 @@
+T4	Complex 52 56	UTPB
+T5	Complex 158 162	UTPB
+T6	Complex 393 397	UTPB
+N1	Reference T4 GO:0034388		
+N2	Reference T5 GO:0034388		
+N3	Reference T6 GO:0034388		

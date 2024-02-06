@@ -1,0 +1,15 @@
+T20	Complex 319 326	cohesin
+T21	Complex 331 340	condensin
+T22	OOS 136 172	Structural Maintenance of Chromosome
+T23	OOS 174 177	SMC
+T24	OOS 395 398	SMC
+T25	Complex 563 570	cohesin
+T26	Complex 1373 1380	cohesin
+T27	Complex 623 630	cohesin
+T28	Complex 720 727	cohesin
+N1	Reference T20 GO:0008278			
+N2	Reference T21 GO:0000796			
+N5	Reference T25 GO:0008278			
+N6	Reference T26 GO:0008278			
+N7	Reference T27 GO:0008278			
+N8	Reference T28 GO:0008278			

@@ -1,0 +1,4 @@
+T4	Complex 15 18	40S
+T8	Complex 570 573	60S
+N1	Reference T8 GO:0022625			cytosolic large ribosomal subunit
+N2	Reference T4 GO:0022627		cytosolic small ribosomal subunit

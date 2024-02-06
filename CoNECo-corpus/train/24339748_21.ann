@@ -1,0 +1,8 @@
+T30	Complex 876 884	Mediator
+T31	Complex 897 905	Mediator
+T33	Complex 1017 1025	Mediator
+T34	Complex 502 510	Mediator
+N1	Reference T30 GO:0016592	
+N2	Reference T31 GO:0016592	
+N3	Reference T33 GO:0016592	
+N4	Reference T34 GO:0016592	

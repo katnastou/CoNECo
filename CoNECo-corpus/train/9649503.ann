@@ -1,0 +1,22 @@
+T10	OOS 26 29	SMC
+T11	OOS 94 131	structural maintenance of chromosomes
+T12	OOS 133 136	SMC
+T13	OOS 211 214	SMC
+T14	Complex 234 244	condensins
+T15	OOS 333 336	SMC
+T16	Complex 470 478	cohesins
+T17	Complex 552 562	9S cohesin
+T18	Complex 608 619	14S cohesin
+T19	Complex 860 871	14S cohesin
+T20	Complex 1003 1011	cohesins
+T21	OOS 1239 1242	SMC
+T22	Complex 1262 1270	cohesins
+T23	Complex 1275 1285	condensins
+N5	Reference T17 GO:0008278										
+N6	Reference T18 GO:0008278										
+N7	Reference T19 GO:0008278										
+N9	Reference T14 GO:0000796									
+N11	Reference T23 GO:0000796							
+N12	Reference T16 GO:0008278				
+N13	Reference T20 GO:0008278			
+N14	Reference T22 GO:0008278		

@@ -1,0 +1,20 @@
+T23	Complex 40 56	COP9 signalosome
+T28	Complex 453 457	SCFs
+T30	Complex 513 529	COP9 signalosome
+T31	Complex 531 534	CSN
+T33	Complex 728 731	CSN
+T34	Complex 780 783	CSN
+T35	Complex 822 825	CSN
+T36	Complex 984 987	CSN
+T37	Complex 1110 1113	CSN
+T38	Complex 1204 1208	SCFs
+N1	Reference T23 GO:0008180											COP9 signalosome
+N2	Reference T30 GO:0008180										COP9 signalosome
+N3	Reference T31 GO:0008180									COP9 signalosome
+N4	Reference T33 GO:0008180								COP9 signalosome
+N5	Reference T34 GO:0008180							COP9 signalosome
+N6	Reference T37 GO:0008180						COP9 signalosome
+N7	Reference T36 GO:0008180					COP9 signalosome
+N8	Reference T35 GO:0008180				COP9 signalosome
+N9	Reference T28 GO:0019005			SCF ubiquitin ligase complex
+N10	Reference T38 GO:0019005		SCF ubiquitin ligase complex

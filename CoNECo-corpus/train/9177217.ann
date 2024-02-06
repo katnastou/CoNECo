@@ -1,0 +1,4 @@
+T22	Complex 915 956	class II major histocompatibility complex
+T23	Complex 1540 1581	class II major histocompatibility complex
+N1	Reference T22 GO:0042613			MHC class II protein complex
+N2	Reference T23 GO:0042613		MHC class II protein complex

@@ -1,0 +1,12 @@
+T3	Complex 2 8	BBSome
+T4	Complex 280 286	BBSome
+T5	Complex 386 392	BBSome
+T7	Complex 440 446	BBSome
+T12	Complex 758 764	BBSome
+T16	Complex 934 940	BBSome
+N1	Reference T3 GO:0034464	
+N2	Reference T4 GO:0034464	
+N3	Reference T5 GO:0034464	
+N4	Reference T7 GO:0034464	
+N5	Reference T12 GO:0034464	
+N6	Reference T16 GO:0034464	

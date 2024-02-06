@@ -1,0 +1,5 @@
+T14	Complex 437 454	RNA polymerase II
+T28	Complex 476 508	transcription initiation complex
+N1	Reference T14 GO:0016591				
+N2	Reference T28 GO:0097550			transcription preinitiation complex
+#1	AnnotatorNotes T28	I think it's transcription pre-initiation complex

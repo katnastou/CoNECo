@@ -1,0 +1,14 @@
+T7	Complex 4 8	LINC
+T8	Complex 93 97	LINC
+T9	Complex 717 721	LINC
+T10	Complex 885 889	LINC
+T11	Complex 1235 1239	LINC
+T12	Complex 1025 1029	LINC
+T13	Complex 563 567	LINC
+N1	Reference T7 GO:0034993	
+N2	Reference T8 GO:0034993	
+N3	Reference T9 GO:0034993	
+N4	Reference T10 GO:0034993	
+N5	Reference T11 GO:0034993	
+N6	Reference T12 GO:0034993	
+N7	Reference T13 GO:0034993	

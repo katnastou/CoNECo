@@ -1,0 +1,31 @@
+T1	Complex 36 43	SCF UFO
+T20	Complex 4 20	COP9 signalosome
+T22	Complex 101 117	COP9 signalosome
+T23	Complex 119 122	CSN
+T24	Complex 191 212	SCF ubiquitin ligases
+T25	Complex 271 274	CSN
+T26	Complex 353 356	CSN
+T27	Complex 418 421	CSN
+T28	Complex 727 735	SCF(UFO)
+T10	Complex 770 773	CSN
+T21	Complex 827 830	CSN
+T30	Complex 1188 1191	CSN
+T31	Complex 1269 1272	CSN
+T32	Complex 1336 1344	SCF(UFO)
+N1	Reference T20 GO:0008180															COP9 signalosome
+N2	Reference T22 GO:0008180														COP9 signalosome
+N3	Reference T23 GO:0008180													COP9 signalosome
+N4	Reference T25 GO:0008180												COP9 signalosome
+N5	Reference T26 GO:0008180											COP9 signalosome
+N6	Reference T27 GO:0008180										COP9 signalosome
+N7	Reference T10 GO:0008180									COP9 signalosome
+N8	Reference T21 GO:0008180								COP9 signalosome
+N9	Reference T30 GO:0008180							COP9 signalosome
+N10	Reference T31 GO:0008180						COP9 signalosome
+N11	Reference T24 GO:0019005					SCF ubiquitin ligase complex
+N12	Reference T1 GO:0019005				SCF ubiquitin ligase complex
+#1	AnnotatorNotes T1	the plant SCF is not in the databases
+N13	Reference T28 GO:0019005			SCF ubiquitin ligase complex
+#2	AnnotatorNotes T28	the plant SCF is not in the databases
+N14	Reference T32 GO:0019005		SCF ubiquitin ligase complex
+#3	AnnotatorNotes T32	the plant SCF is not in the databases

@@ -1,0 +1,16 @@
+T28	Complex 559 569	NF.kappa B
+T29	Complex 64 86	nuclear factor.kappa B
+T31	OOS 266 280	nuclear factor
+T32	OOS 282 284	NF
+T33	Complex 485 495	NF.kappa B
+T35	Complex 640 647	kappa B
+T37	Complex 1069 1079	NF.kappa B
+T39	Complex 1239 1249	NF.kappa B
+T40	Complex 1492 1502	NF.kappa B
+N1	Reference T29 GO:0071159																					NF-kappaB complex
+N2	Reference T33 GO:0071159																				NF-kappaB complex
+N3	Reference T35 GO:0071159																			NF-kappaB complex
+N4	Reference T28 GO:0071159																		NF-kappaB complex
+N5	Reference T37 GO:0071159																	NF-kappaB complex
+N6	Reference T39 GO:0071159																NF-kappaB complex
+N7	Reference T40 GO:0071159															NF-kappaB complex

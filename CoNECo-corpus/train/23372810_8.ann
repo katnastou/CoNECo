@@ -1,0 +1,21 @@
+T2	Complex 107 117	telomerase
+T4	Complex 693 703	telomerase
+T5	Complex 765 775	telomerase
+T8	Complex 229 232	APC
+T11	Complex 391 394	APC
+T13	Complex 470 473	APC
+T15	Complex 577 580	APC
+T16	Complex 633 636	APC
+N1	Reference T2 GO:0005697						
+N2	Reference T4 GO:0005697						
+N3	Reference T5 GO:0005697						
+N4	Reference T8 GO:0005680						anaphase-promoting complex
+#1	AnnotatorNotes T8	anaphase promoting complex from fulltext
+N5	Reference T11 GO:0005680					anaphase-promoting complex
+#2	AnnotatorNotes T11	anaphase promoting complex from fulltext
+N6	Reference T15 GO:0005680				anaphase-promoting complex
+#3	AnnotatorNotes T15	anaphase promoting complex from fulltext
+N7	Reference T16 GO:0005680			anaphase-promoting complex
+#4	AnnotatorNotes T16	anaphase promoting complex from fulltext
+N8	Reference T13 GO:0005680		anaphase-promoting complex
+#5	AnnotatorNotes T13	anaphase promoting complex from fulltext

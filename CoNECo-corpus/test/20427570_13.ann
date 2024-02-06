@@ -1,0 +1,20 @@
+T10	Complex 57 70	complexes III
+T11	Complex 75 77	IV
+T12	Complex 111 122	Complex III
+T13	Complex 124 134	complex IV
+T14	OOS 140 160	malate dehydrogenase
+T16	Complex 429 440	complex III
+T17	Complex 449 459	complex IV
+T18	Complex 469 474	TIM22
+T19	Complex 495 506	FoF1-ATPase
+N1	Reference T12 GO:0005750											
+N2	Reference T13 GO:0045277											
+N3	Reference T16 GO:0005750											
+N4	Reference T17 GO:0045277											
+N5	Reference T19 GO:0005753											
+N6	Reference T11 GO:0045277										
+N7	Reference T10 GO:0005750								
+#1	AnnotatorNotes T14	wiki: https://en.wikipedia.org/wiki/Malate_dehydrogenase#Evolution_and_structure, PDB: https://www.rcsb.org/structure/7MDH
+N8	Reference T18 GO:0042721				TIM22 mitochondrial import inner membrane insertion complex
+T1	Complex 775 786	FoF1-ATPase
+N9	Reference T1 GO:0005753	

@@ -1,0 +1,26 @@
+T3	Complex 71 77	PR-DUB
+T9	Complex 662 691	Polycomb repressive complex 1
+T10	Complex 693 697	PRC1
+T11	Complex 715 739	dRing-associated factors
+T14	Complex 741 745	dRAF
+T23	Complex 1057 1091	Polycomb repressive deubiquitinase
+T27	Complex 1193 1199	PR-DUB
+T31	Complex 1300 1306	PR-DUB
+T39	Complex 1621 1625	PRC1
+T40	Complex 1630 1634	dRAF
+T42	Complex 1664 1670	PR-DUB
+T24	Complex 1093 1099	PR-DUB
+T2	Complex 43 62	Polycomb repressive
+N1	Reference T9 GO:0035102															
+N2	Reference T10 GO:0035102															
+N3	Reference T39 GO:0035102															
+N4	Reference T3 GO:0035517														PR-DUB complex
+N5	Reference T2 GO:0035517													PR-DUB complex
+N6	Reference T27 GO:0035517												PR-DUB complex
+N7	Reference T24 GO:0035517											PR-DUB complex
+N8	Reference T23 GO:0035517										PR-DUB complex
+N9	Reference T31 GO:0035517									PR-DUB complex
+N10	Reference T42 GO:0035517								PR-DUB complex
+#1	AnnotatorNotes T14	https://www.ebi.ac.uk/complexportal/complex/CPX-2427
+#2	AnnotatorNotes T11	https://www.ebi.ac.uk/complexportal/complex/CPX-2427
+#3	AnnotatorNotes T40	https://www.ebi.ac.uk/complexportal/complex/CPX-2427

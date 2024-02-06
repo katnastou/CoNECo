@@ -1,0 +1,18 @@
+T6	Complex 90 105	glycoprotein Ib
+T7	Complex 247 267	glycoprotein (GP) Ib
+T13	Complex 704 708	GPIb
+T17	Complex 954 958	GPIb
+T22	Complex 1299 1303	GPIb
+T24	Complex 1357 1361	GPIb
+T27	Complex 1468 1472	GPIb
+T28	Complex 1585 1589	GPIb
+T29	Complex 1731 1735	GPIb
+#1	AnnotatorNotes T13	https://meshb.nlm.nih.gov/record/ui?name=Glycoprotein+Ib
+#2	AnnotatorNotes T7	https://meshb.nlm.nih.gov/record/ui?name=Glycoprotein+Ib
+#3	AnnotatorNotes T6	https://meshb.nlm.nih.gov/record/ui?name=Glycoprotein+Ib
+#4	AnnotatorNotes T17	https://meshb.nlm.nih.gov/record/ui?name=Glycoprotein+Ib
+#5	AnnotatorNotes T24	https://meshb.nlm.nih.gov/record/ui?name=Glycoprotein+Ib
+#6	AnnotatorNotes T29	https://meshb.nlm.nih.gov/record/ui?name=Glycoprotein+Ib
+#7	AnnotatorNotes T28	https://meshb.nlm.nih.gov/record/ui?name=Glycoprotein+Ib
+#8	AnnotatorNotes T27	https://meshb.nlm.nih.gov/record/ui?name=Glycoprotein+Ib
+#9	AnnotatorNotes T22	https://meshb.nlm.nih.gov/record/ui?name=Glycoprotein+Ib

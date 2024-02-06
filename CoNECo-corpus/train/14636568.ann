@@ -1,0 +1,10 @@
+T6	Complex 194 203	MutSalpha
+T7	Complex 294 303	MutSalpha
+T10	Complex 519 528	MutSalpha
+T11	Complex 534 543	MutLalpha
+T12	Complex 751 760	MutLalpha
+N1	Reference T6 GO:0032301	
+N2	Reference T7 GO:0032301	
+N3	Reference T10 GO:0032301	
+N4	Reference T11 GO:0032389	
+N5	Reference T12 GO:0032389	

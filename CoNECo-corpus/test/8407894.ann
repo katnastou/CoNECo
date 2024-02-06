@@ -1,0 +1,8 @@
+T2	Complex 741 747	TFIIIB
+T3	Complex 33 51	RNA polymerase III
+T5	Complex 378 396	RNA polymerase III
+T20	Complex 722 740	RNA polymerase III
+N1	Reference T3 GO:0005666			
+N2	Reference T5 GO:0005666			
+N3	Reference T20 GO:0005666			
+N4	Reference T2 GO:0000126			transcription factor TFIIIB complex

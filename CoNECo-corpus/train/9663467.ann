@@ -1,0 +1,10 @@
+T18	Complex 400 410	hemoglobin
+T19	Complex 412 414	Hb
+T20	Complex 514 516	Hb
+T21	Complex 945 947	Hb
+T22	Complex 1007 1009	Hb
+N1	Reference T18 GO:0005833						hemoglobin complex
+N2	Reference T19 GO:0005833					hemoglobin complex
+N3	Reference T20 GO:0005833				hemoglobin complex
+N4	Reference T21 GO:0005833			hemoglobin complex
+N5	Reference T22 GO:0005833		hemoglobin complex

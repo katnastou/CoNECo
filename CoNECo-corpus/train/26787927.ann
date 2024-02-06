@@ -1,0 +1,28 @@
+T7	Complex 37 46	NF-kappaB
+T9	Complex 187 222	Nuclear transcription factor kappaB
+T10	Complex 224 233	NF-kappaB
+T11	Complex 407 416	NF-kappaB
+T14	Complex 598 607	NF-kappaB
+T16	Complex 648 657	NF-kappaB
+T20	Complex 993 1002	NF-kappaB
+T22	Complex 1070 1079	NF-kappaB
+T23	Complex 1164 1173	NF-kappaB
+T25	Complex 1347 1356	NF-kappaB
+N1	Reference T7 GO:0071159																				NF-kappaB complex
+N2	Reference T9 GO:0071159																			NF-kappaB complex
+N3	Reference T10 GO:0071159																		NF-kappaB complex
+N4	Reference T11 GO:0071159																	NF-kappaB complex
+N5	Reference T14 GO:0071159																NF-kappaB complex
+N6	Reference T16 GO:0071159															NF-kappaB complex
+N7	Reference T20 GO:0071159														NF-kappaB complex
+N8	Reference T22 GO:0071159													NF-kappaB complex
+N9	Reference T23 GO:0071159												NF-kappaB complex
+N10	Reference T25 GO:0071159											NF-kappaB complex
+T1	Complex 76 79	IKK
+N11	Reference T1 GO:0008385	IkappaB kinase complex
+T2	Complex 542 545	IKK
+N12	Reference T2 GO:0008385	IkappaB kinase complex
+T3	Complex 958 961	IKK
+N13	Reference T3 GO:0008385	IkappaB kinase complex
+T4	Complex 521 540	IkappaBalpha kinase
+N14	Reference T4 GO:0008385	IkappaB kinase complex

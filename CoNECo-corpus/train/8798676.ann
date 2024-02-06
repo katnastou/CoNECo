@@ -1,0 +1,4 @@
+T14	Complex 259 262	IgG
+T15	Complex 267 270	IgE
+N2	Reference T15 GO:0071742	IgE immunoglobulin complex
+N1	Reference T14 GO:0071735	IgG immunoglobulin complex

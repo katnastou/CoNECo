@@ -1,0 +1,4 @@
+T18	Complex 1386 1409	mitochondrial complex I
+T19	Complex 1386 1407;1409 1412	mitochondrial complex -IV
+N1	Reference T18 GO:0005747					
+N2	Reference T19 GO:0045277					respiratory chain complex IV

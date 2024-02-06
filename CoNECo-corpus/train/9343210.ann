@@ -1,0 +1,7 @@
+T22	Complex 1925 1934	NF-kappaB
+T23	Complex 1645 1654	NF-kappaB
+T24	Complex 2007 2013	kappaB
+T25	OOS 754 768	immunoglobulin
+N2	Reference T23 GO:0071159								NF-kappaB complex
+N3	Reference T22 GO:0071159							NF-kappaB complex
+N4	Reference T24 GO:0071159						NF-kappaB complex

@@ -1,0 +1,4 @@
+T23	Complex 1065 1096	SCF(beta-TrCP) ubiquitin ligase
+T25	Complex 1170 1194	SCF E3 ubiquitin ligases
+N1	Reference T23 GO:0019005					SCF ubiquitin ligase complex
+N2	Reference T25 GO:0019005				SCF ubiquitin ligase complex

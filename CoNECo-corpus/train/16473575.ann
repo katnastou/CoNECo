@@ -1,0 +1,4 @@
+T9	Complex 498 528	Rab geranylgeranyl transferase
+T10	Complex 530 540	Rab GGTase
+N1	Reference T9 GO:0005968			
+N2	Reference T10 GO:0005968		

@@ -1,0 +1,10 @@
+T14	Complex 85 94	NF-kappaB
+T15	Complex 315 341	nuclear factor (NF)-kappaB
+T17	Complex 688 697	NF-kappaB
+T18	Complex 1004 1013	NF-kappaB
+N1	Reference T14 GO:0071159										NF-kappaB complex
+N2	Reference T15 GO:0071159									NF-kappaB complex
+N3	Reference T17 GO:0071159								NF-kappaB complex
+N4	Reference T18 GO:0071159							NF-kappaB complex
+T1	Complex 453 467	IkappaB kinase
+N6	Reference T1 GO:0008385	IkappaB kinase complex

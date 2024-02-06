@@ -1,0 +1,10 @@
+T25	Complex 327 340	IL-4 receptor
+T26	Complex 342 347	IL-4R
+T30	Complex 283 286	IgE
+T31	Complex 584 587	IgE
+T33	Complex 1736 1739	IgE
+N4	Reference T25 GO:0016516			interleukin-4 receptor complex
+N5	Reference T26 GO:0016516		interleukin-4 receptor complex
+N1	Reference T30 GO:0071742	IgE immunoglobulin complex
+N2	Reference T31 GO:0071742	IgE immunoglobulin complex
+N3	Reference T33 GO:0071742	IgE immunoglobulin complex

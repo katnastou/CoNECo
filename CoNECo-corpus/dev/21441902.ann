@@ -1,0 +1,8 @@
+T1	Complex 411 414	NPC
+T2	Complex 389 409	nuclear pore complex
+T3	Complex 442 445	NPC
+T4	Complex 642 645	NPC
+N1	Reference T2 GO:0005643	nuclear pore
+N2	Reference T1 GO:0005643	nuclear pore
+N3	Reference T3 GO:0005643	nuclear pore
+N4	Reference T4 GO:0005643	nuclear pore

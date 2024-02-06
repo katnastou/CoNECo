@@ -1,0 +1,1 @@
+The Newton-Raphson algorithm (Equation 9) uses known values of PT(i), FPAT(i) and RT(i) and chosen values of Ka1 and Ka2 where iterations (i) proceed to convergence where F1 = F2 = 0. where V is a column vector with rows P and FPA, and F is a column vector with rows F1 and F2.

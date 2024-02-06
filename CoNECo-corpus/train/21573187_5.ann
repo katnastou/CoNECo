@@ -1,0 +1,10 @@
+T12	Complex 169 173	Tub4
+T13	Complex 211 221	gamma-TuSC
+T14	Complex 236 240	Tub4
+T15	Complex 255 259	Tub4
+T16	Complex 381 385	Tub4
+N1	Reference T12 GO:0008275	
+N2	Reference T13 GO:0008275	
+N3	Reference T14 GO:0008275	
+N4	Reference T15 GO:0008275	
+N5	Reference T16 GO:0008275	

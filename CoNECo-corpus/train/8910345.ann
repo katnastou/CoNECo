@@ -1,0 +1,12 @@
+T15	OOS 317 336	Farnesyltransferase
+T16	OOS 338 343	FTase
+T17	OOS 633 638	FTase
+T18	OOS 801 806	FTase
+T21	OOS 499 504	FTase
+T24	OOS 1206 1211	FTase
+#1	AnnotatorNotes T15	TODO: check normalization
+#2	AnnotatorNotes T16	TODO: check normalization
+#3	AnnotatorNotes T21	TODO: check normalization
+#4	AnnotatorNotes T17	TODO: check normalization
+#5	AnnotatorNotes T18	TODO: check normalization
+#6	AnnotatorNotes T24	TODO: check normalization

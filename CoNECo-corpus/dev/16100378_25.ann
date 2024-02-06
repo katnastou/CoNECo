@@ -1,0 +1,5 @@
+T20	Complex 277 280	60S
+T22	Complex 496 499	60S
+T47	OOS 1088 1096	ribosome
+N2	Reference T20 GO:0022625							cytosolic large ribosomal subunit
+N3	Reference T22 GO:0022625						cytosolic large ribosomal subunit

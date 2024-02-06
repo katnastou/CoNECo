@@ -1,0 +1,10 @@
+T27	Complex 265 273	retromer
+T28	Complex 311 319	retromer
+T29	Complex 23 31	retromer
+T30	Complex 584 592	retromer
+T32	Complex 692 700	retromer
+N1	Reference T27 GO:0030904	
+N2	Reference T28 GO:0030904	
+N3	Reference T29 GO:0030904	
+N4	Reference T30 GO:0030904	
+N5	Reference T32 GO:0030904	

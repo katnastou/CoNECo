@@ -1,0 +1,4 @@
+T23	Complex 67 99	death-inducing signaling complex
+T24	Complex 101 105	DISC
+N1	Reference T23 GO:0031264		
+N2	Reference T24 GO:0031264		

@@ -1,0 +1,6 @@
+T22	Complex 1042 1055	AMPA receptor
+T24	Complex 1320 1333	AMPA receptor
+T26	Complex 1616 1629	AMPA receptor
+N1	Reference T22 GO:0032281	
+N2	Reference T24 GO:0032281	
+N3	Reference T26 GO:0032281	

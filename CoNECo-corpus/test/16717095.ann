@@ -1,0 +1,22 @@
+T12	OOS 25 44	G protein betagamma
+T13	Complex 72 75	CK2
+T14	Complex 122 150	cytosolic chaperonin complex
+T16	OOS 229 248	G protein betagamma
+T17	OOS 266 276	Gbetagamma
+T18	OOS 340 350	Gbetagamma
+T19	OOS 502 512	Gbetagamma
+T20	Complex 582 585	CK2
+T21	Complex 640 668	cytosolic chaperonin complex
+T22	Complex 670 673	CCT
+T23	OOS 712 722	Gbetagamma
+T24	OOS 793 803	Gbetagamma
+T25	Complex 902 905	CCT
+T27	Complex 1013 1016	CCT
+T29	OOS 1114 1124	Gbetagamma
+N1	Reference T13 GO:0005956											
+N5	Reference T20 GO:0005956											
+N6	Reference T22 GO:0016465											
+N9	Reference T25 GO:0016465											
+N10	Reference T27 GO:0016465											
+N13	Reference T14 GO:0016465										chaperonin ATPase complex
+N14	Reference T21 GO:0016465								

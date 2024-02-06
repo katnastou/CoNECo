@@ -1,0 +1,6 @@
+T1	Complex 0 9	SCF(Pof1)
+N4	Reference T1 GO:0097666								SCF-Met30/Pof1 ubiquitin ligase complex
+T2	Complex 655 664	SCF(Pof1)
+N1	Reference T2 GO:0097666					SCF-Met30/Pof1 ubiquitin ligase complex
+T3	Complex 1331 1340	SCF(Pof1)
+N5	Reference T3 GO:0097666				SCF-Met30/Pof1 ubiquitin ligase complex

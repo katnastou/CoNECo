@@ -1,0 +1,8 @@
+T15	Complex 140 162	acetyl-CoA carboxylase
+T16	Complex 224 246	acetyl-CoA carboxylase
+T20	Complex 760 782	acetyl-CoA carboxylase
+T24	Complex 1359 1381	acetyl-CoA carboxylase
+N1	Reference T15 GO:0009317																				
+N2	Reference T16 GO:0009317																				
+N3	Reference T20 GO:0009317																				
+N4	Reference T24 GO:0009317																				

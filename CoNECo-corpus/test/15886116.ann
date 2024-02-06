@@ -1,0 +1,12 @@
+T16	Complex 170 193	T-cell antigen receptor
+T17	Complex 195 198	TCR
+T19	Complex 450 453	TCR
+T24	Complex 536 545	NF-kappaB
+T26	Complex 613 616	TCR
+T28	Complex 1009 1012	TCR
+N1	Reference T17 GO:0042101								
+N2	Reference T19 GO:0042101								
+N3	Reference T26 GO:0042101								
+N4	Reference T28 GO:0042101								
+N5	Reference T24 GO:0071159								NF-kappaB complex
+N6	Reference T16 GO:0042101				

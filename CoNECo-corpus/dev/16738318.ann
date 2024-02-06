@@ -1,0 +1,12 @@
+T34	Complex 74 78	Mi-2
+T38	Complex 79 83	NuRD
+N1	Reference T34 GO:0016581				NuRD complex
+N2	Reference T38 GO:0016581			NuRD complex
+T1	Complex 821 825	Mi-2
+T2	Complex 826 830	NuRD
+T3	Complex 1238 1242	Mi-2
+T4	Complex 1243 1247	NuRD
+N3	Reference T4 GO:0016581	NuRD complex
+N4	Reference T3 GO:0016581	NuRD complex
+N5	Reference T2 GO:0016581	NuRD complex
+N6	Reference T1 GO:0016581	NuRD complex

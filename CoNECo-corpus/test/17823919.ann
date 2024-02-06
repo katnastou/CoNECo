@@ -1,0 +1,6 @@
+T22	Complex 183 186	SCF
+T23	Complex 394 397	SCF
+T24	Complex 1423 1426	SCF
+N1	Reference T22 GO:0019005				
+N2	Reference T23 GO:0019005				
+N3	Reference T24 GO:0019005				

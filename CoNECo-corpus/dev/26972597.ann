@@ -1,0 +1,12 @@
+T18	Complex 15 24	NF-kappaB
+T19	Complex 162 171	NF-kappaB
+T24	Complex 584 593	NF-kappaB
+T26	Complex 819 828	NF-kappaB
+T29	Complex 988 1020	death inducing signaling complex
+T30	Complex 1022 1026	DISC
+N1	Reference T30 GO:0031264										
+N2	Reference T18 GO:0071159										NF-kappaB complex
+N3	Reference T19 GO:0071159									NF-kappaB complex
+N4	Reference T24 GO:0071159								NF-kappaB complex
+N5	Reference T26 GO:0071159							NF-kappaB complex
+N6	Reference T29 GO:0031264						death-inducing signaling complex

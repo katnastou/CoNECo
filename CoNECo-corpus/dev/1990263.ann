@@ -1,0 +1,16 @@
+T10	Complex 470 497	nuclear factor (NF)-kappa B
+T11	Complex 538 548	NF-kappa B
+T12	Complex 776 786	NF-kappa B
+T13	Complex 1012 1022	NF-kappa B
+T14	Complex 1036 1046	NF-kappa B
+T15	Complex 1193 1203	NF-kappa B
+T16	Complex 0 22	Nuclear factor kappa B
+T17	Complex 395 402	kappa B
+N1	Reference T16 GO:0071159														NF-kappaB complex
+N2	Reference T17 GO:0071159													NF-kappaB complex
+N3	Reference T10 GO:0071159												NF-kappaB complex
+N4	Reference T11 GO:0071159											NF-kappaB complex
+N5	Reference T12 GO:0071159										NF-kappaB complex
+N6	Reference T13 GO:0071159									NF-kappaB complex
+N7	Reference T14 GO:0071159								NF-kappaB complex
+N8	Reference T15 GO:0071159							NF-kappaB complex

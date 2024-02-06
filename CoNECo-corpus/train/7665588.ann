@@ -1,0 +1,10 @@
+T24	Complex 33 43	NF-kappa B
+T25	Complex 290 300	NF-kappa B
+T28	Complex 696 706	proteasome
+T29	Complex 1360 1370	proteasome
+T30	Complex 1163 1173	proteasome
+N1	Reference T28 GO:0000502						
+N2	Reference T29 GO:0000502						
+N3	Reference T30 GO:0000502						
+N4	Reference T24 GO:0071159						NF-kappaB complex
+N5	Reference T25 GO:0071159					NF-kappaB complex

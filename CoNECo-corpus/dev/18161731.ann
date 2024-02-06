@@ -1,0 +1,15 @@
+T6	Complex 63 73	hemoglobin
+T20	Complex 1176 1186	hemoglobin
+T21	Complex 1409 1419	hemoglobin
+T24	OOS 1530 1539	alphabeta
+T25	Complex 1625 1635	hemoglobin
+T26	Complex 1756 1758	Hb
+T30	Complex 1944 1954	hemoglobin
+T7	Complex 1834 1844	hemoglobin
+N1	Reference T20 GO:0005833												hemoglobin complex
+N2	Reference T21 GO:0005833											hemoglobin complex
+N3	Reference T26 GO:0005833										hemoglobin complex
+N4	Reference T25 GO:0005833									hemoglobin complex
+N5	Reference T7 GO:0005833								hemoglobin complex
+N6	Reference T30 GO:0005833							hemoglobin complex
+N7	Reference T6 GO:0005833						hemoglobin complex

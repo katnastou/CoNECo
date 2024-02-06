@@ -1,0 +1,8 @@
+T10	Complex 95 102	cohesin
+T12	Complex 930 937	cohesin
+T13	Complex 1100 1107	cohesin
+T14	Complex 1235 1242	cohesin
+N1	Reference T10 GO:0008278	
+N2	Reference T12 GO:0008278	
+N3	Reference T13 GO:0008278	
+N4	Reference T14 GO:0008278	

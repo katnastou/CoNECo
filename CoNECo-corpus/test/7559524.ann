@@ -1,0 +1,6 @@
+T27	Complex 596 600	AP-1
+T28	Complex 691 695	AP-1
+T29	Complex 894 898	AP-1
+N1	Reference T27 GO:0035976								transcription factor AP-1 complex
+N2	Reference T28 GO:0035976							transcription factor AP-1 complex
+N3	Reference T29 GO:0035976						transcription factor AP-1 complex

@@ -1,0 +1,8 @@
+T5	Complex 238 242	OGDH
+T39	Complex 244 272	2-oxoglutarate dehydrogenase
+T55	Complex 1509 1519	proteasome
+T56	Complex 1559 1569	proteasome
+N1	Reference T55 GO:0000502			
+N2	Reference T56 GO:0000502			
+N3	Reference T39 GO:0045241			cytosolic alpha-ketoglutarate dehydrogenase complex
+N4	Reference T5 GO:0045241		cytosolic alpha-ketoglutarate dehydrogenase complex

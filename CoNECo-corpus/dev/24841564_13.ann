@@ -1,0 +1,16 @@
+T17	Complex 508 511	bc1
+T18	Complex 709 712	bc1
+T19	Complex 744 747	COX
+T34	Complex 1435 1449	intermediate I
+T35	Complex 1193 1207	intermediate I
+T36	Complex 103 117	intermediate I
+T37	Complex 973 987	intermediate I
+T38	Complex 1292 1306	intermediate I
+N1	Reference T17 GO:0045275						
+N2	Reference T18 GO:0045275						
+N3	Reference T19 GO:0045277						
+#1	AnnotatorNotes T36	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4033779/
+#2	AnnotatorNotes T37	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4033779/
+#3	AnnotatorNotes T35	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4033779/
+#4	AnnotatorNotes T34	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4033779/
+#5	AnnotatorNotes T38	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4033779/

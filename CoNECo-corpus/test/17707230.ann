@@ -1,0 +1,12 @@
+T1	Complex 14 30	RNA polymerase I
+N1	Reference T1 GO:0005736	RNA polymerase I complex
+T2	Complex 339 355	RNA polymerase I
+N2	Reference T2 GO:0005736	RNA polymerase I complex
+T3	Complex 357 362	Pol I
+N3	Reference T3 GO:0005736	RNA polymerase I complex
+T4	Complex 721 726	Pol I
+N4	Reference T4 GO:0005736	RNA polymerase I complex
+T5	Complex 774 779	Pol I
+N5	Reference T5 GO:0005736	RNA polymerase I complex
+T6	Complex 1079 1084	Pol I
+N6	Reference T6 GO:0005736	RNA polymerase I complex

@@ -1,0 +1,17 @@
+T17	Complex 14 36	pyruvate dehydrogenase
+T18	Complex 129 151	pyruvate dehydrogenase
+T19	Complex 398 420	pyruvate dehydrogenase
+T25	Complex 897 919	pyruvate dehydrogenase
+T28	Complex 1445 1467	pyruvate dehydrogenase
+T32	Complex 1710 1732	pyruvate dehydrogenase
+T36	Complex 1947 1969	pyruvate dehydrogenase
+T31	Complex 255 257	E1
+N1	Reference T17 GO:0045254													pyruvate dehydrogenase complex
+N2	Reference T18 GO:0045254												pyruvate dehydrogenase complex
+N3	Reference T31 GO:0045254											pyruvate dehydrogenase complex
+N4	Reference T19 GO:0045254										pyruvate dehydrogenase complex
+N5	Reference T25 GO:0045254									pyruvate dehydrogenase complex
+N6	Reference T28 GO:0045254								pyruvate dehydrogenase complex
+N7	Reference T32 GO:0045254							pyruvate dehydrogenase complex
+N8	Reference T36 GO:0045254						pyruvate dehydrogenase complex
+#1	AnnotatorNotes T31	E1, pyruvate dehydrogenase component of PDC (from paper abbreviations)

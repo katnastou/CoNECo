@@ -1,0 +1,22 @@
+T3	Complex 739 759	cytochrome c oxidase
+T4	Complex 30 44	cytochrome bc1
+T6	Complex 139 153	cytochrome bc1
+T8	Complex 444 447	bc1
+T11	Complex 692 695	bc1
+T12	Complex 824 838	cytochrome bc1
+T13	Complex 983 986	bc1
+T15	Complex 1154 1157	bc1
+T16	Complex 1249 1252	bc1
+T17	Complex 1325 1339	cytochrome bc1
+T18	Complex 1419 1422	bc1
+N1	Reference T3 GO:0045277	
+N2	Reference T4 GO:0045275	
+N3	Reference T6 GO:0045275	
+N4	Reference T8 GO:0045275	
+N5	Reference T11 GO:0045275	
+N6	Reference T12 GO:0045275	
+N7	Reference T13 GO:0045275	
+N8	Reference T15 GO:0045275	
+N9	Reference T16 GO:0045275	
+N10	Reference T17 GO:0045275	
+N11	Reference T18 GO:0045275	

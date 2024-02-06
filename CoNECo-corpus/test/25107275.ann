@@ -1,0 +1,12 @@
+T9	Complex 18 26	clathrin
+T11	Complex 216 224	clathrin
+T12	Complex 264 272	clathrin
+T13	Complex 553 561	clathrin
+T14	Complex 606 614	clathrin
+T17	Complex 1079 1087	clathrin
+N1	Reference T9 GO:0071439					
+N2	Reference T11 GO:0071439					
+N3	Reference T12 GO:0071439					
+N4	Reference T13 GO:0071439					
+N5	Reference T14 GO:0071439					
+N6	Reference T17 GO:0071439					

@@ -1,0 +1,8 @@
+T10	Complex 60 81	60S ribosomal subunit
+T13	Complex 365 368	60S
+T18	Complex 1066 1069	60S
+T19	Complex 1155 1158	60S
+N1	Reference T10 GO:0022625							cytosolic large ribosomal subunit
+N2	Reference T13 GO:0022625						cytosolic large ribosomal subunit
+N3	Reference T19 GO:0022625					cytosolic large ribosomal subunit
+N4	Reference T18 GO:0022625				cytosolic large ribosomal subunit

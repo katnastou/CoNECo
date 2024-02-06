@@ -1,0 +1,12 @@
+T14	Complex 600 611	proteasomes
+T15	Complex 418 429	proteasomes
+T16	Complex 28 38	proteasome
+T17	Complex 230 241	proteasomes
+T18	Complex 316 327	proteasomes
+T19	Complex 774 785	proteasomes
+N1	Reference T16 GO:0000502							
+N2	Reference T18 GO:0000502						
+N3	Reference T14 GO:0000502					
+N4	Reference T19 GO:0000502				
+N5	Reference T15 GO:0000502			
+N6	Reference T17 GO:0000502		

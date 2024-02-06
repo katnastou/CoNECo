@@ -1,0 +1,12 @@
+T5	Complex 177 194	RNA polymerase II
+T9	Complex 322 334	Set1/COMPASS
+T16	Complex 517 524	COMPASS
+T25	Complex 1034 1051	RNA polymerase II
+T36	Complex 1371 1375	Set1
+T39	Complex 1566 1573	COMPASS
+N1	Reference T5 GO:0016591					
+N2	Reference T25 GO:0016591					
+N3	Reference T39 GO:0048188					Set1C/COMPASS complex
+N4	Reference T16 GO:0048188				Set1C/COMPASS complex
+N5	Reference T36 GO:0048188			Set1C/COMPASS complex
+N6	Reference T9 GO:0048188		Set1C/COMPASS complex

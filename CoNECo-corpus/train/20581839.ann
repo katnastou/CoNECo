@@ -1,0 +1,6 @@
+T8	Complex 85 90	APC/C
+T10	Complex 253 258	APC/C
+T13	Complex 588 593	APC/C
+N1	Reference T8 GO:0005680	
+N2	Reference T10 GO:0005680	
+N3	Reference T13 GO:0005680	

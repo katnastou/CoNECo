@@ -1,0 +1,8 @@
+T9	Complex 102 107	APC/C
+T11	Complex 354 359	APC/C
+T18	Complex 530 535	APC/C
+T20	Complex 590 595	APC/C
+N1	Reference T9 GO:0005680	
+N2	Reference T11 GO:0005680	
+N3	Reference T18 GO:0005680	
+N4	Reference T20 GO:0005680	

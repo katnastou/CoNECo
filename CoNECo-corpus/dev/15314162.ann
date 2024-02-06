@@ -1,0 +1,12 @@
+T12	Complex 66 73	SCFSkp2
+T17	Complex 238 248	proteasome
+T19	Complex 476 483	SCFSkp2
+T20	Complex 606 613	SCFSkp2
+T21	Complex 729 736	SCFSkp2
+T22	Complex 1012 1019	SCFSkp2
+N1	Reference T17 GO:0000502								
+N2	Reference T12 GO:0097669						SCF-Skp2 ubiquitin ligase complex
+N3	Reference T19 GO:0097669					SCF-Skp2 ubiquitin ligase complex
+N4	Reference T20 GO:0097669				SCF-Skp2 ubiquitin ligase complex
+N5	Reference T21 GO:0097669			SCF-Skp2 ubiquitin ligase complex
+N6	Reference T22 GO:0097669		SCF-Skp2 ubiquitin ligase complex

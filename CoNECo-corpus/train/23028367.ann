@@ -1,0 +1,10 @@
+T5	Complex 53 58	Rpd3L
+T6	Complex 466 471	Rpd3L
+T7	Complex 473 478	Rpd3S
+T8	Complex 484 488	Hda1
+T9	Complex 670 675	Rpd3L
+N1	Reference T5 GO:0033698		
+N2	Reference T6 GO:0033698		
+N3	Reference T7 GO:0032221		
+N4	Reference T9 GO:0033698		
+N5	Reference T8 GO:0070823		HDA1 complex

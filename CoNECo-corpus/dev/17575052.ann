@@ -1,0 +1,26 @@
+T1	Complex 73 94	protein phosphatase 1
+T2	Complex 96 99	PP1
+T3	Complex 336 357	protein phosphatase 1
+T4	Complex 359 362	PP1
+T9	Complex 494 497	PP1
+T10	Complex 714 717	PP1
+T12	Complex 815 818	PP1
+T16	Complex 974 977	PP1
+T18	Complex 1044 1047	PP1
+T22	Complex 1106 1109	PP1
+T23	Complex 1139 1143	PP2A
+T25	Complex 1255 1258	PP1
+T28	Complex 1315 1319	PP2A
+N1	Reference T1 GO:0000164	
+N2	Reference T2 GO:0000164	
+N3	Reference T3 GO:0000164	
+N4	Reference T4 GO:0000164	
+N5	Reference T9 GO:0000164	
+N6	Reference T10 GO:0000164	
+N7	Reference T12 GO:0000164	
+N8	Reference T16 GO:0000164	
+N9	Reference T18 GO:0000164	
+N10	Reference T22 GO:0000164	
+N11	Reference T23 GO:0000159	
+N12	Reference T25 GO:0000164	
+N13	Reference T28 GO:0000159	

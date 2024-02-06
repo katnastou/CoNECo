@@ -1,0 +1,10 @@
+T3	Complex 108 113	MHC-I
+T4	Complex 293 298	MHC-I
+T6	Complex 388 393	MHC-I
+T8	Complex 709 714	MHC-I
+T10	Complex 928 933	MHC-I
+N1	Reference T3 GO:0042612							MHC class I protein complex
+N2	Reference T4 GO:0042612					MHC class I protein complex
+N3	Reference T6 GO:0042612				MHC class I protein complex
+N4	Reference T8 GO:0042612			MHC class I protein complex
+N5	Reference T10 GO:0042612		MHC class I protein complex

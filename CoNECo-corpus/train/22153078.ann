@@ -1,0 +1,6 @@
+T10	Complex 196 207	MHC class I
+N1	Reference T10 GO:0042612		MHC class I protein complex
+T1	Complex 332 337	SNARE
+N2	Reference T1 GO:0031201	SNARE complex
+T2	Complex 493 498	SNARE
+N3	Reference T2 GO:0031201	SNARE complex

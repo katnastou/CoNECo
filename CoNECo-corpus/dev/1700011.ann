@@ -1,0 +1,18 @@
+T10	OOS 0 5	NF-X2
+T12	Complex 38 57	activator protein 1
+T13	Complex 95 107	class II MHC
+T14	Complex 390 398	class II
+T17	OOS 492 509	nuclear factor X2
+T16	OOS 511 516	NF-X2
+T18	OOS 616 621	NF-X2
+T19	Complex 767 786	activator protein-1
+T20	Complex 904 912	class II
+N1	Reference T13 GO:0042613																					MHC class II protein complex
+N2	Reference T14 GO:0042613																				MHC class II protein complex
+N3	Reference T20 GO:0042613																			MHC class II protein complex
+#1	AnnotatorNotes T16	https://www.uniprot.org/uniprotkb/Q9GZY0/entry
+#2	AnnotatorNotes T17	https://www.uniprot.org/uniprotkb/Q9GZY0/entry
+#3	AnnotatorNotes T18	https://www.uniprot.org/uniprotkb/Q9GZY0/entry
+#4	AnnotatorNotes T10	https://www.uniprot.org/uniprotkb/Q9GZY0/entry
+N4	Reference T12 GO:0035976										transcription factor AP-1 complex
+N5	Reference T19 GO:0035976									transcription factor AP-1 complex

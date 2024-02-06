@@ -1,0 +1,6 @@
+T12	Complex 1233 1237	DRIP
+T17	Complex 96 100	DRIP
+T18	Complex 569 573	DRIP
+N1	Reference T12 GO:0016592				
+N2	Reference T17 GO:0016592				
+N3	Reference T18 GO:0016592				

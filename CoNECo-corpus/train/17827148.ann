@@ -1,0 +1,12 @@
+T18	Complex 360 396	anaphase-promoting complex/cyclosome
+T19	Complex 398 403	APC/C
+T20	Complex 846 851	APC/C
+T21	Complex 602 607	APC/C
+T22	Complex 1209 1214	APC/C
+T24	Complex 66 102	anaphase-promoting complex/cyclosome
+N1	Reference T19 GO:0005680				
+N2	Reference T20 GO:0005680				
+N3	Reference T21 GO:0005680				
+N4	Reference T22 GO:0005680				
+N5	Reference T18 GO:0005680			
+N6	Reference T24 GO:0005680		

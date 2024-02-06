@@ -1,0 +1,16 @@
+T3	Complex 30 45	casein kinase 2
+T11	Complex 805 820	casein kinase 2
+T12	Complex 822 825	CK2
+T17	Complex 1001 1004	CK2
+T19	Complex 1079 1082	CK2
+T22	Complex 1231 1234	CK2
+T26	Complex 1682 1685	CK2
+T27	Complex 1770 1773	CK2
+N1	Reference T12 GO:0005956					
+N2	Reference T17 GO:0005956					
+N3	Reference T19 GO:0005956					
+N4	Reference T22 GO:0005956					
+N5	Reference T26 GO:0005956					
+N6	Reference T27 GO:0005956					
+N7	Reference T11 GO:0005956				
+N8	Reference T3 GO:0005956			

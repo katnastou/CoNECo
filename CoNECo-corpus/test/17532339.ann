@@ -1,0 +1,18 @@
+T4	Complex 167 189	pyruvate dehydrogenase
+T5	Complex 191 193	E1
+T6	Complex 212 242	pyruvate dehydrogenase complex
+T7	Complex 244 247	PDC
+T13	OOS 562 564	E2
+T14	Complex 595 598	PDC
+T25	Complex 1398 1401	PDC
+N1	Reference T4 GO:0045254												pyruvate dehydrogenase complex
+N2	Reference T5 GO:0045254											pyruvate dehydrogenase complex
+N3	Reference T6 GO:0045254									pyruvate dehydrogenase complex
+N4	Reference T7 GO:0045254								pyruvate dehydrogenase complex
+N5	Reference T14 GO:0045254							pyruvate dehydrogenase complex
+N6	Reference T25 GO:0045254						pyruvate dehydrogenase complex
+#2	AnnotatorNotes T13	https://www.uniprot.org/uniprotkb/P10515/entry
+#3	AnnotatorNotes T4	https://www.ncbi.nlm.nih.gov/gene/5160
+#4	AnnotatorNotes T5	https://www.ncbi.nlm.nih.gov/gene/5160
+T1	OOS 529 560	dihydrolipoyl acetyltransferase
+#5	AnnotatorNotes T1	https://www.uniprot.org/uniprotkb/P10515/entry

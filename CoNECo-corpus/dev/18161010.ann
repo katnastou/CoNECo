@@ -1,0 +1,6 @@
+T1	Complex 75 105	Rab geranylgeranyl transferase
+N1	Reference T1 GO:0005968	Rab-protein geranylgeranyltransferase complex
+T2	Complex 971 1001	Rab geranylgeranyl transferase
+N2	Reference T2 GO:0005968	Rab-protein geranylgeranyltransferase complex
+T3	Complex 1003 1010	Rabggtb
+N3	Reference T3 GO:0005968	Rab-protein geranylgeranyltransferase complex

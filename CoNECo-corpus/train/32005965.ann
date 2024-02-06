@@ -1,0 +1,8 @@
+T11	Complex 677 686	CRL2(VHL)
+T13	Complex 743 752	CRL2(VHL)
+T18	Complex 1139 1148	CRL2(VHL)
+T20	Complex 1269 1278	CRL2(VHL)
+N1	Reference T18 GO:0031462					Cul2-RING ubiquitin ligase complex
+N2	Reference T20 GO:0031462				Cul2-RING ubiquitin ligase complex
+N3	Reference T11 GO:0031462			Cul2-RING ubiquitin ligase complex
+N4	Reference T13 GO:0031462		Cul2-RING ubiquitin ligase complex

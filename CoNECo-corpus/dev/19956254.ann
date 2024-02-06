@@ -1,0 +1,4 @@
+T13	Complex 650 659	SCF(Cdc4)
+T14	Complex 664 678	SCF(beta-TrCP)
+N1	Reference T13 GO:0019005	
+N2	Reference T14 GO:0019005	

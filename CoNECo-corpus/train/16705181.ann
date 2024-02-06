@@ -1,0 +1,10 @@
+T4	Complex 110 121	SCFbetaTrCP
+T12	Complex 525 536	SCFbetaTrCP
+T18	Complex 711 722	SCFbetaTrCP
+T24	Complex 943 954	SCFbetaTrCP
+T31	Complex 1286 1296	proteasome
+N1	Reference T31 GO:0000502						
+N2	Reference T4 GO:0019005						SCF ubiquitin ligase complex
+N3	Reference T12 GO:0019005					SCF ubiquitin ligase complex
+N4	Reference T18 GO:0019005				SCF ubiquitin ligase complex
+N5	Reference T24 GO:0019005			SCF ubiquitin ligase complex

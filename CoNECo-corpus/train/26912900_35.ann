@@ -1,0 +1,12 @@
+T6	Complex 120 130	proteasome
+T7	Complex 188 198	proteasome
+T8	Complex 257 267	proteasome
+T12	Complex 775 785	proteasome
+T15	Complex 1125 1135	proteasome
+T16	Complex 1251 1261	proteasome
+N1	Reference T6 GO:0000502	
+N2	Reference T7 GO:0000502	
+N3	Reference T8 GO:0000502	
+N4	Reference T12 GO:0000502	
+N5	Reference T15 GO:0000502	
+N6	Reference T16 GO:0000502	

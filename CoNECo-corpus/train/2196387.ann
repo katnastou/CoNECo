@@ -1,0 +1,10 @@
+T2	OOS 799 805	NFAT-1
+T4	Complex 751 758	kappa B
+T6	Complex 40 47	kappa B
+T12	Complex 890 897	kappa B
+T15	Complex 1164 1171	kappa B
+N1	Reference T6 GO:0071159								NF-kappaB complex
+N2	Reference T4 GO:0071159							NF-kappaB complex
+N3	Reference T15 GO:0071159						NF-kappaB complex
+N4	Reference T12 GO:0071159					NF-kappaB complex
+#1	AnnotatorNotes T2	https://www.uniprot.org/uniprotkb/O95644/entry

@@ -1,0 +1,30 @@
+T2	Complex 30 39	NF-kappaB
+T3	Complex 193 208	T-cell receptor
+T4	Complex 210 213	TCR
+T8	Complex 275 278	CBM
+T11	Complex 349 358	NF-kappaB
+T12	Complex 412 415	CBM
+T27	Complex 1039 1048	NF-kappaB
+T31	Complex 1195 1198	CBM
+T32	Complex 1203 1206	IKK
+T33	Complex 1236 1239	TCR
+T34	Complex 1265 1274	NF-kappaB
+N1	Reference T3 GO:0042101												
+N2	Reference T4 GO:0042101												
+N3	Reference T32 GO:0008385												
+N4	Reference T33 GO:0042101												
+N5	Reference T2 GO:0071159												NF-kappaB complex
+N6	Reference T11 GO:0071159											NF-kappaB complex
+N7	Reference T27 GO:0071159										NF-kappaB complex
+N8	Reference T34 GO:0071159									NF-kappaB complex
+N9	Reference T31 GO:0032449				CBM complex
+N10	Reference T12 GO:0032449			CBM complex
+N11	Reference T8 GO:0032449		CBM complex
+T1	Complex 328 342	IkappaB kinase
+N12	Reference T1 GO:0008385	IkappaB kinase complex
+T5	Complex 344 347	IKK
+N13	Reference T5 GO:0008385	IkappaB kinase complex
+T6	Complex 437 440	IKK
+N14	Reference T6 GO:0008385	IkappaB kinase complex
+T7	Complex 618 621	IKK
+N15	Reference T7 GO:0008385	IkappaB kinase complex

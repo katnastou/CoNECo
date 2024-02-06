@@ -1,0 +1,44 @@
+T17	Complex 63 78	CSN signalosome
+T18	Complex 601 617	COP9 signalosome
+T19	Complex 619 622	CSN
+T20	Complex 481 499	SCF-type E3-ligase
+T21	Complex 700 703	SCF
+T22	Complex 672 675	CSN
+T23	Complex 1072 1075	CSN
+T24	Complex 920 923	CSN
+T25	Complex 22 31	NF-kappaB
+T26	Complex 43 46	IKK
+T27	Complex 188 197	NF-kappaB
+T28	Complex 337 346	NF-kappaB
+T29	Complex 402 416	IkappaB kinase
+T30	Complex 418 421	IKK
+T31	Complex 460 467	IkappaB
+T32	Complex 535 550	26S-proteasomes
+T34	Complex 864 867	IKK
+T35	Complex 1121 1130	NF-kappaB
+T36	Complex 1211 1220	NF-kappaB
+T37	Complex 1493 1496	CSN
+T38	Complex 1522 1525	IKK
+T39	Complex 1570 1579	NF-kappaB
+N1	Reference T21 GO:0019005																									
+N2	Reference T26 GO:0008385																									
+N3	Reference T30 GO:0008385																									
+N4	Reference T34 GO:0008385																									
+N5	Reference T38 GO:0008385																									
+N6	Reference T25 GO:0071159																									NF-kappaB complex
+N7	Reference T27 GO:0071159																								NF-kappaB complex
+N8	Reference T28 GO:0071159																							NF-kappaB complex
+N9	Reference T35 GO:0071159																						NF-kappaB complex
+N10	Reference T36 GO:0071159																					NF-kappaB complex
+N11	Reference T39 GO:0071159																				NF-kappaB complex
+N12	Reference T17 GO:0008180													COP9 signalosome
+N13	Reference T22 GO:0008180												COP9 signalosome
+N14	Reference T18 GO:0008180											COP9 signalosome
+N15	Reference T19 GO:0008180										COP9 signalosome
+N16	Reference T23 GO:0008180									COP9 signalosome
+N17	Reference T37 GO:0008180								COP9 signalosome
+N18	Reference T24 GO:0008180							COP9 signalosome
+N19	Reference T29 GO:0008385					
+N20	Reference T31 GO:0008385				
+N21	Reference T20 GO:0019005			SCF ubiquitin ligase complex
+N22	Reference T32 GO:0000502		proteasome complex

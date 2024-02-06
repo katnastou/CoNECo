@@ -1,0 +1,29 @@
+T8	Complex 56 64	collagen
+T9	Complex 173 181	collagen
+T10	Complex 283 291	collagen
+T13	Complex 633 641	collagen
+T15	Complex 788 796	collagen
+T16	Complex 913 921	collagen
+T17	Complex 1092 1100	collagen
+T18	Complex 1248 1256	collagen
+T19	Complex 1484 1492	collagen
+T20	Complex 1686 1694	collagen
+T21	Complex 579 587	collagen
+T22	Complex 1506 1510	GPIb
+T23	Complex 926 945	glycoprotein (GP)Ib
+N1	Reference T8 GO:0005581								
+N2	Reference T9 GO:0005581								
+N3	Reference T10 GO:0005581								
+N4	Reference T13 GO:0005581								
+N5	Reference T15 GO:0005581								
+N6	Reference T16 GO:0005581								
+N7	Reference T17 GO:0005581								
+N8	Reference T18 GO:0005581								
+N9	Reference T19 GO:0005581								
+N10	Reference T20 GO:0005581								
+N11	Reference T21 GO:0005581								
+#1	AnnotatorNotes T22	https://meshb.nlm.nih.gov/record/ui?name=Glycoprotein+Ib
+#2	AnnotatorNotes T23	https://meshb.nlm.nih.gov/record/ui?name=Glycoprotein+Ib
+T1	Complex 403 419	collagen types I
+N12	Reference T1 GO:0005584	collagen type I trimer
+T2	Complex 403 417;424 427	collagen types III

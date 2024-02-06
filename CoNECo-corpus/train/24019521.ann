@@ -1,0 +1,6 @@
+T5	Complex 295 305	proteasome
+T6	Complex 451 461	proteasome
+T16	Complex 816 826	proteasome
+N1	Reference T5 GO:0000502	
+N2	Reference T6 GO:0000502	
+N3	Reference T16 GO:0000502	

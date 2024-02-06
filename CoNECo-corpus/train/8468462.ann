@@ -1,0 +1,12 @@
+T32	Complex 179 183	AP-1
+T34	Complex 1055 1059	AP-1
+T36	Complex 1626 1630	AP-1
+T37	Complex 1731 1735	AP-1
+T38	Complex 1906 1910	AP-1
+T39	Complex 2152 2156	AP-1
+N1	Reference T32 GO:0035976															transcription factor AP-1 complex
+N2	Reference T34 GO:0035976														transcription factor AP-1 complex
+N3	Reference T36 GO:0035976													transcription factor AP-1 complex
+N4	Reference T37 GO:0035976												transcription factor AP-1 complex
+N5	Reference T38 GO:0035976											transcription factor AP-1 complex
+N6	Reference T39 GO:0035976										transcription factor AP-1 complex

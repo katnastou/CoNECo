@@ -1,0 +1,8 @@
+T3	Complex 841 847	Arp2/3
+T8	Complex 1179 1185	Arp2/3
+T10	Complex 18 43	actin-related protein 2/3
+T13	Complex 370 400	actin-related protein (Arp)2/3
+N1	Reference T3 GO:0005885				
+N2	Reference T8 GO:0005885				
+N3	Reference T13 GO:0005885				
+N4	Reference T10 GO:0005885		
