@@ -45,9 +45,6 @@ def optparser():
                   help="Verbose output.")
     return op
 
-def cmp(a, b):
-    return (a > b) - (a < b) 
-
 class Span(object):
     """
     Represents an annotated span of text with a type.
@@ -58,7 +55,7 @@ class Span(object):
         self.start = start
         self.end = end
         self.text = text
-#        self.norms = set()
+        self.norms = set()
 
         self.matched = False
         self.matching = {}
@@ -92,8 +89,8 @@ def resolve_discontinuous(l):
 # parses a standoff-formatted file containing tagged entities.
 def parse_standoff(fn):
     global options
-    tagged, flags = {}, {}
-    #tagged, flags, norms = {}, {}, {}
+
+    tagged, flags, norms = {}, {}, {}
     with open(fn) as f:
         for l in f:
             l = l.strip()
@@ -123,13 +120,13 @@ def parse_standoff(fn):
                 assert atype not in flags[id_], "ERROR: dup attrib"
                 flags[id_][atype] = True
 
-     #       elif mn:
-     #           # normalization
-     #           nid, id_, ref = mn.groups()
-     #           if id_ not in norms:
-     #               norms[id_] = set()
-     #           assert ref not in norms[id_], "ERROR: dup norm"
-     #           norms[id_].add(ref)
+            elif mn:
+                # normalization
+                nid, id_, ref = mn.groups()
+                if id_ not in norms:
+                    norms[id_] = set()
+                assert ref not in norms[id_], "ERROR: dup norm"
+                norms[id_].add(ref)
                 
             else:
                 # just check format sanity
@@ -144,10 +141,10 @@ def parse_standoff(fn):
                     continue
                 assert False, "ERROR: failed to parse line in %s: '%s'" % (fn, l)
 
-    ## attach norms to Spans
-    #for id_, refs in norms.items():
-    #    assert id_ in tagged, "ERROR: unknown id"
-    #    tagged[id_].norms = refs
+    # attach norms to Spans
+    for id_, refs in norms.items():
+        assert id_ in tagged, "ERROR: unknown id"
+        tagged[id_].norms = refs
                 
     return tagged, flags
 
@@ -318,7 +315,16 @@ def report(TPg, TPt, FP, FN, header=None, out=sys.stdout):
 def compare_norms(gold, test):
     identical, total = 0, 0
     for g in gold.values():
+        if g.norms:
+            first_norm_value = next(iter(g.norms)) # Get the first value of g.norms
+            if options.verbose:
+                print("Annotated norm: '%s'" % (first_norm_value), file=sys.stderr)
+            #print(first_norm_value)
         for t in g.matching:
+            if t.norms:
+                first_tnorm_value = next(iter(t.norms))
+                if options.verbose:
+                    print("vs Predicted norm: '%s'" % (first_tnorm_value), file=sys.stderr)
             if g.norms == t.norms:
                 identical += 1
             total += 1
@@ -337,9 +343,9 @@ def process(goldfn, testfn):
         print_tf(gold, test, splitext(basename(goldfn))[0])
     report(TPg, TPt, FP, FN)
 
-#    norm_same, norm_total = compare_norms(gold, test)
-#    if norm_total > 0:
-#        print(f'{norm_same}/{norm_total} ({norm_same/norm_total:.1%}) norms for matching spans are identical')
+    norm_same, norm_total = compare_norms(gold, test)
+    if norm_total > 0:
+        print(f'{norm_same}/{norm_total} ({norm_same/norm_total:.1%}) norms for matching spans are identical')
 
     
 def process_dir(golddir, testdir):
@@ -381,7 +387,7 @@ def process_dir(golddir, testdir):
 
     # take totals
     total_TPg, total_TPt, total_FP, total_FN = 0, 0, 0, 0
-#    total_norm_same, total_norm_total = 0, 0
+    total_norm_same, total_norm_total = 0, 0
     
     # and per-type stats
     TPg_by_type, TPt_by_type, FP_by_type, FN_by_type = {}, {}, {}, {}
@@ -415,9 +421,9 @@ def process_dir(golddir, testdir):
         total_FP += FP
         total_FN += FN
 
-#        norm_same, norm_total = compare_norms(gold, test)
-#        total_norm_same += norm_same
-#        total_norm_total += norm_total
+        norm_same, norm_total = compare_norms(gold, test)
+        total_norm_same += norm_same
+        total_norm_total += norm_total
         
         # repeat evaluation separately for each type
         gold_types = dict(map(lambda a:(a,True), [g.type_ 
@@ -539,8 +545,8 @@ def process_dir(golddir, testdir):
     # print totals
     report(total_TPg, total_TPt, total_FP, total_FN, "TOTAL:\n")
 
- #   if total_norm_total > 0:
- #       print(f'{total_norm_same}/{total_norm_total} ({total_norm_same/total_norm_total:.1%}) norms for matching spans are identical')
+    if total_norm_total > 0:
+        print(f'{total_norm_same}/{total_norm_total} ({total_norm_same/total_norm_total:.1%}) norms for matching spans are identical')
     
     # sanity
     test_extras = [b for b in in_test if in_test[b] is not None]
