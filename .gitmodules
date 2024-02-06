@@ -1,0 +1,3 @@
+[submodule "CoNECo-transformer-ner"]
+	path = CoNECo-transformer-ner
+	url = https://github.com/katnastou/CoNECo-transformer-ner.git
