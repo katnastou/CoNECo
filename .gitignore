@@ -3,3 +3,5 @@ large-scale-jensenlab-tagger/*tsv
 large-scale-jensenlab-tagger/*txt
 large-scale-jensenlab-tagger/pubmed
 large-scale-jensenlab-tagger/pmc
+synthetic-data
+tools
