@@ -1,36 +1,50 @@
-# CoNECo
+# CoNECo: a Corpus for Named Entity recognition and normalization of protein Complexes
 
-A Corpus for Named Entity Recognition and Normalization of Protein Complexes
+This repository contains scripts to support different steps of the analyses performed in the CoNECo paper. 
 
-* Annotation documentation: [https://katnastou.github.io/annodoc-CoNECo/](https://katnastou.github.io/annodoc-CoNECo/)
-* Corpus on brat server: [http://ann.turkunlp.org:8088/index.xhtml#/CoNECo](http://ann.turkunlp.org:8088/index.xhtml#/CoNECo)
+There is a [Zenodo project](https://doi.org/10.5281/zenodo.10623629) associated with this repository.
 
-## Tasks before the hackathon
+Annotation documentation is available through Zenodo and this page: [https://katnastou.github.io/annodoc-CoNECo/](https://katnastou.github.io/annodoc-CoNECo/)
 
-* Use the documents from ComplexTome corpus + extra from the RegulaTome where they will have: i) the latest set of NE annotations, ii) automatic addition of normalizations to GO-CC. Train/dev/test split remains the same (983 documents train/320 dev/318 test, 1621 documents in total). 
-* Hold out a set of documents for IAA (make sure that manual check of normalization is done for these documents)
-* Prepare annotation documentation for the corpus
+## Corpus statistics
 
-## During/after the hackathon:
+There are three scripts in this directory to replicate the process of calculating corpus statistics as described in the Results and Discussion section of the manuscript. You only need to invoke the shell script in the directory.
 
-### Corpus
+```shell
+./corpus_stats/run.sh
+```
+For word counting of the documents, BERT basic tokenization is used, with the implementation found [here](https://github.com/spyysalo/bert-vocab-eval).
 
-* Do IAA for i) NER, ii) NEN
-* Calculate statistics on both tasks. If >90% finish with IAA.
-* Split the documents in 800 Katerina/ 800 Mikaela and
-  * Check already present annotations if rules are updated, ii) do/add missing normalizations for complexes.
-  * For entities with no normalizations check other resources than GO
-* Do a semi-automated check ([search.py](https://github.com/nlplab/brat/blob/master/server/src/search.py) -cm/ct) to see the consistency of matches/types + check consistency of normalizations
+## CoNECo corpus
 
-### Tagging
+This directory has the documents in BRAT and conll format. 
 
-* Generate `extra_names.tsv` from Complex Portal for the dictionary (`GO:id Name`) 
-* Use train/dev to run Jensenlab tagger on Puhti and update dictionary/blocklists according to results
-* Use train/dev to run grid search with Transformer-based tagger on Mahti (`/scratch/project_2001426/katerina/CoNECo_ner_transformers`)
-* Run final methods on the test set
-* Do error analysis of results for NER (both methods) and NEN (dictionary-based only)
-* Do large-scale tagging of complexes with both methods to provide results on the entire literature
+## Error analysis 
 
-### Publication
-* Make Zenodo project to add all data/results and write paper
- 
+For the error analysis the evaluation script `evalso.py` is used to detect False Positives and False Negatives in each document of the test set. To invoke the command in the entire Jensenlab tagged CoNECo test set using the CoNECo annotated test set as a gold standard a shell script is provided.
+
+```shell
+./error_analysis/jensenlab-tagger/run.sh
+```
+
+Similarly, for the Transformer-based tagger, you should run:
+
+```shell
+./error_analysis/transformer-tagger/run.sh
+```
+
+## Large-scale tagging for Jensenlab tagger
+
+For large-scale tagging, the [tagger](https://github.com/larsjuhljensen/tagger) needs to be set up first. Instructions on how to set it up can be found [here](https://github.com/larsjuhljensen/tagger). Then one needs to execute the shell script and the results that are also available in [Zenodo](https://doi.org/10.5281/zenodo.10623629) can be obtained. 
+
+```shell
+./large-scale-jensenlab-tagger/run.sh
+```
+
+## CoNECo transformer ner
+
+Please refer to the [original repo](https://github.com/katnastou/CoNECo-transformer-ner.git) on how to train an NER model on CoNECo.
+
+## CoNECo transformer tagger
+
+Please refer to the [original repo](https://github.com/katnastou/CoNECo-transformer-tagger.git) on how to do a large-scale run using the model trained on CoNECo.
