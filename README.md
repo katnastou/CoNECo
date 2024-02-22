@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/698227661.svg)](https://zenodo.org/doi/10.5281/zenodo.10693652)
+
 # CoNECo: a Corpus for Named Entity recognition and normalization of protein Complexes
 
 This repository contains scripts to support different steps of the analyses performed in the CoNECo paper. 
